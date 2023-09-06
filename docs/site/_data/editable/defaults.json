@@ -1,13 +1,13 @@
 {
   "site": {
-    "name": "California Design System",
+    "name": "Innovation Hub",
     "keywords": "California, government, design system"
   },
   "page": {
-    "description": "California Design System",
+    "description": "Innovation Hub",
     "social_image_path": "/img/thumbnail.png",
     "social_image_width": 500,
     "social_image_height": 500,
-    "social_image_alt_text": "California Design System"
+    "social_image_alt_text": "Innovation Hub"
   }
 }

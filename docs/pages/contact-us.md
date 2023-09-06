@@ -1,7 +1,7 @@
 ---
 layout: single-column
 title: Contact us
-description: Get help from the State of California Design System team, post questions, and share technical information with fellow developers.
+description: Get help from the State of California Innovation Hub team, post questions, and share technical information with fellow developers.
 ---
 
 <p class="text-lead">Have a question? Contact us for help with general inquiries, feedback, or bugs.</p>

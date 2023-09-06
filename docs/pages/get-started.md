@@ -1,13 +1,13 @@
 ---
 title: Get started xx
-description: Learn how you can get started with using the California Design System. 
+description: Learn how you can get started with using the Innovation Hub. 
 ---
 
-<p class="text-lead">What you need to know about the Design System depends on your role and discipline.</p> 
+<p class="text-lead">What you need to know about the Innovation Hub depends on your role and discipline.</p> 
 
 ## Developers
 
-Learn [what’s different](/technical-approach/) about California’s Design System approach and how to install components. Learn about [Design System webpage structure](/structure/) and layout options. 
+Learn [what’s different](/technical-approach/) about California’s Innovation Hub approach and how to install components. Learn about [Innovation Hub webpage structure](/structure/) and layout options. 
 
 ## UX and visual designers
 
@@ -19,7 +19,7 @@ Get familiar with the [guidelines for content design](/style/content/).
 
 ## Everyone
 
-Everyone can benefit from the [Design System principles](/principles/). 
+Everyone can benefit from the [Innovation Hub principles](/principles/). 
 
 ## Need help getting started?
 
