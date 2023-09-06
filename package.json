@@ -1,7 +1,7 @@
 {
-  "name": "california-design-system",
-  "version": "1.0.11",
-  "description": "State of California Design System A work in progress!",
+  "name": "innovation-hub",
+  "version": "0.9.0",
+  "description": "ODI Innovation Hub – A work in progress!",
   "main": "index.js",
   "scripts": {
     "component-audit": "node docs/src/js/component-audit.js",
@@ -14,7 +14,6 @@
     "lint:eslint": "eslint --ext .js,.html . --ignore-path .gitignore",
     "lint:prettier": "prettier \"**/*.js\" --check --ignore-path .gitignore",
     "lint": "npm run lint:eslint && npm run lint:prettier",
-    "prepare": "husky install",
     "site:build:dev": "cross-env NODE_ENV=development eleventy",
     "site:build": "eleventy",
     "site:convert:illustrations": "node docs/src/11ty/format-illustrations.js",
@@ -31,27 +30,26 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cagov/design-system.git"
+    "url": "git+https://github.com/cagov/innovation-hub.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cagov/design-system/issues"
+    "url": "https://github.com/cagov/innovation-hub/issues"
   },
-  "homepage": "https://github.com/cagov/design-system#readme",
+  "homepage": "https://github.com/cagov/innovation-hub#readme",
   "devDependencies": {
     "@open-wc/eslint-config": "^4.3.0",
     "@open-wc/testing": "^3.0.0-next.2",
-    "@playwright/test": "^1.18.1",
+    "@playwright/test": "^1.25.1",
     "@web/dev-server": "^0.1.17",
     "@web/test-runner": "^0.13.16",
     "@web/test-runner-puppeteer": "^0.10.5",
     "aws-sdk": "^2.1055.0",
-    "axe-playwright": "^1.1.9",
+    "axe-playwright": "^1.1.11",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
-    "husky": "^7.0.4",
     "prettier": "^2.4.1",
     "rollup-plugin-import-css": "^2.0.1"
   },
@@ -63,15 +61,15 @@
     "./components/*"
   ],
   "dependencies": {
-    "@11ty/eleventy": "^2.0.0",
+    "@11ty/eleventy": "^2.0.0-canary.15",
     "@cagov/11ty-build-system": "^1.0.0-beta.2",
     "@cagov/ds-page-feedback": "file:components/page-feedback",
-    "cheerio": "^1.0.0-rc.10",
+    "cheerio": "^1.0.0-rc.12",
     "cross-env": "^7.0.3",
     "glob": "^7.2.0",
     "highlight.js": "^11.3.1",
-    "markdown-it": "^12.3.0",
-    "markdown-it-anchor": "^8.4.1",
+    "markdown-it": "^13.0.1",
+    "markdown-it-anchor": "^8.6.4",
     "sharp": "^0.30.5"
   }
 }

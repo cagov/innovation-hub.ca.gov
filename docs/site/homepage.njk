@@ -8,11 +8,12 @@ description: This system makes it easy to build digital services that meet the n
   <div class="full-bleed-content-area wp-block-ca-design-system-hero cagov-with-sidebar cagov-with-sidebar-left cagov-featured-section cagov-bkgrd-gry cagov-block wp-block-cagov-hero">
     <div>
       <div class="cagov-stack p-b-3 cagov-featured-sidebar max-w-40">
-        <h1 class="m-t-3">Meet the California Design System</h1>
+        <h1 class="m-t-3">Welcome</h1>
         <div class="cagov-hero-body-content">
-          <p>This system makes it easy to build digital services that meet the needs of Californians.</p>
+          <p>Welcome to our innovation hub, a place to learn about our projects and explorations.
+          </p>
           <div class="wp-block-button">
-            <a class="btn-primary" href="/get-started/">Get started</a>
+            <a class="btn-primary" href="/get-started/">Call to action</a>
           </div>
         </div>
       </div>
@@ -21,151 +22,4 @@ description: This system makes it easy to build digital services that meet the n
   </div>
 </div>
 
-<h2 class="m-t-4">What's in the Design System</h2>
-<div class="cagov-cluster-3">
-  <div class="cagov-stack-card">
-    <div class="cagov-card-head">
-      <a href="/principles/">
-        <img class="img-fluid" src="/img/principles.png" alt="abstract shapes in circles" />
-      </a>
-    </div>
-    <div class="cagov-card-body">
-      <a href="/principles/" class="h4 d-block m-t-0 no-underline">Principles</a>
-      <p class="">Designing excellent services and products is hard. These best practices guide you in your journey.</p>
-    </div>
-  </div>
-  <div class="cagov-stack-card">
-    <div class="cagov-card-head">
-      <a href="/style/content/">
-        <img class="img-fluid" src="/img/guides.png" alt="abstract shapes and lines" />
-      </a>
-    </div>
-    <div class="cagov-card-body">
-      <a href="/style/content/" class="h4 d-block m-t-0 no-underline">Content and design guides</a>
-      <p>Design systems are only as good as what goes in them. The content and design guides help you build quality services and products.</p>
-    </div>
-  </div>
-  <div class="cagov-stack-card">
-    <div class="cagov-card-head">
-      <a href="/components/">
-        <img class="img-fluid" src="/img/library.png" alt="many colored circles" />
-      </a>
-    </div>
-    <div class="cagov-card-body">
-      <a href="/components/" class="h4 d-block m-t-0 no-underline">Component library</a>
-      <p>You do not have to reinvent the wheel every time you need a digital solution. The components solve common user needs for you.</p>
-    </div>
-  </div>
-</div>
 
-<div class="cagov-with-sidebar cagov-with-sidebar-left cagov-no-reverse p-t-5 p-b-2">
-  <div>
-    <div class="cagov-stack cagov-featured-sidebar cagov-pr-2">
-      <h2 class="m-b-3">What design systems do</h2>
-    </div>
-    <div class="cagov-mb-1">
-      <p class="lead cagov-mb-3">They solve common problems digital teams commonly face. They combine UX principles, interface components, and code. Teams work faster, design better, and focus on new problems instead of old ones.</p>
-      <div class="cagov-cluster-3">
-        <span>
-          <p class="cagov-bold">Make experiences consistent</p>
-          <p>Services that use a design system feel familiar. This helps people trust a service, even if it's new to them.</p>
-        </span>
-        <span>
-          <p class="cagov-bold">Build in accessibility and performance</p>
-          <p>Components meet WCAG 2.1 accessibility standards. They work well across a range of devices and internet speeds.</p>
-        </span>
-      </div>
-      <div class="cagov-cluster-3">
-        <span>
-          <p class="cagov-bold">Give tested solutions</p>
-          <p>We test components before releasing them. This lets you deploy them with confidence.</p>
-        </span>
-        <span>
-          <p class="cagov-bold">Speak a common language</p>
-          <p>Shared names for components, patterns, and conventions increases collaboration within and across teams.</p>
-        </span>
-      </div>
-      <div class="cagov-cluster-3">
-        <span>
-          <p class="cagov-bold">Leverage best practices</p>
-          <p>Design systems capture tried-and-true best practices and allow other teams to use them.</p>
-        </span>
-        <span>
-          <p class="cagov-bold">Use resources effectively</p>
-          <p>With common problems already solved, teams can speed through the basics. You do more with less time and budget.</p>
-        </span>
-      </div>
-    </div>
-  </div>
-</div>
-
-{% set principleNumber = range(1, 9) | random %}
-{% set principle = editable.principles[principleNumber] %}
-
-<div>
-  <cagov-highlight-section>
-    <article role="article" class="full-bleed p-b-2" style="background-image:url(/img/bg-poly.png); background-size: cover; background-repeat:no-repeat">
-      <div class="container">
-        <header class="highlight-header">
-          <h2>Principles for people-centered services</h2>
-        </header>
-        <section class="highlight-body">
-          <a href="/principles/" class="highlight-image bg-primary-lightest">
-              <img src="/img/principles-stacked.svg" alt="highlight section demo"/>
-          </a>
-          <div class="highlight-text">
-            <h3>{{ principle.name }}</h3>
-            <h4 class="mt-0">Principle {{ principleNumber }}</h4>
-            <p>{{ principle.description }}</p>
-            <a class="btn-primary-outline d-inline-block" href="/principles/">See all the principles</a>
-          </div>
-        </section>
-      </div>
-    </article>
-  </cagov-highlight-section>
-</div>
-<div class="full-bleed full-bleed--highlight2 p-y-3">
-  <div class="full-bleed-content-area--block">
-    <h2 class="d-block pt-1 mb-0">Be a part of the Design System</h2>
-  </div>
-  <div class="full-bleed-content-area contact-us">
-    <div class="contact-us-content homepage-form">
-      <p>We'd love to talk about how we can partner with you.</p>
-      <div class="contact-us-content-form">
-      {%- from "macros/design-system-form.njk" import designSystemContact -%}
-      {{ designSystemContact("Home page") }}
-      </div>
-    </div>
-    <div class="contact-us-image">
-      <img src="/img/partner-design-system.svg" alt="abstract orrery">
-    </div>
-  </div>
-</div>
-
-<h2 class="m-t-3">Who's using the Design System</h2>
-<div class="cagov-cluster-big-2">
-  <div class="cagov-stack-card">
-    <a href="https://cannabis.ca.gov/" class="cagov-card-head cagov-card-head--blue">
-      <img src="/img/example-cannabis.png" alt="cannabis.ca.gov website homepage" />
-    </a>
-    <div class="cagov-card-body pt-0">
-      <h3>Department of Cannabis Control</h3>
-      <p>This site is the first implementation of Design System components. It proved the design system model works for state departments.</p>
-      <p><a href="https://cannabis.ca.gov/" class="btn-primary-outline">Visit 
-      <span class="sr-only">Department of Cannabis Control</span>
-      cannabis.ca.gov</a></p>
-    </div>
-  </div>
-  <div class="cagov-stack-card">
-    <a href="https://broadbandforall.cdt.ca.gov/" class="cagov-card-head cagov-card-head--blue">
-      <img src="/img/example-broadband.png" alt="broadbandforall.cdt.ca.gov website homepage" />
-    </a>
-    <div class="cagov-card-body pt-0">
-      <h3>Broadband for All</h3>
-      <p>The Design System allowed the Broadband for All team to plug-and-play with components on the homepage. With less time spent on engineering, the team could focus more on content and design.</p>
-      <p><a href="https://broadbandforall.cdt.ca.gov/" class="btn-primary-outline">Visit 
-      <span class="sr-only">Broadband for All</span>
-      broadbandforall.cdt.ca.gov</a></p>
-    </div>
-  </div>
-</div>

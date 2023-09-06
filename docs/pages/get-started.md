@@ -1,5 +1,5 @@
 ---
-title: Get started
+title: Get started xx
 description: Learn how you can get started with using the California Design System. 
 ---
 
