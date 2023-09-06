@@ -1,4 +1,4 @@
-name: Deploy PR Preview abortion.ca.gov
+name: Deploy PR Preview (Innovation Hub)
 on:
   pull_request:
     types:
@@ -37,7 +37,7 @@ jobs:
       #     mkdir _site
       #     mkdir _site_dist
       #     npm install --legacy-peer-deps
-      #     DOMAIN=${URLSAFE_BRANCH_NAME}.pr.abortion.ca.gov npm run build
+      #     DOMAIN=${URLSAFE_BRANCH_NAME}.pr.hub.innovation.ca.gov npm run build
       #     npx playwright install
       #     npm test
       # - name: Write robots.txt
@@ -58,7 +58,7 @@ jobs:
       #   uses: mshick/add-pr-comment@v1
       #   with:
       #     message: |
-      #       Preview site available at [${{ env.URLSAFE_BRANCH_NAME }}.pr.abortion.ca.gov](https://${{ env.URLSAFE_BRANCH_NAME }}.pr.abortion.ca.gov/).
+      #       Preview site available at [${{ env.URLSAFE_BRANCH_NAME }}.pr.hub.innovation.ca.gov](https://${{ env.URLSAFE_BRANCH_NAME }}.pr.abortion.ca.gov/).
 
       #       Username: odiandfriends
       #       Password: OjCcq7JKH8W616upOE0F

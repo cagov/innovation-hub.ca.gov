@@ -1,4 +1,4 @@
-name: Deploy PROD innovation-hub.ca.gov
+name: Deploy PROD (Innovation Hub)
 on:
   push:
     branches:
