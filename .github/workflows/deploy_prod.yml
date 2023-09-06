@@ -8,20 +8,26 @@ jobs:
   build_deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: n1hility/cancel-previous-runs@v2
+      - uses: n1hility/cancel-previous-runs@v3
         with: 
           token: ${{ secrets.GITHUB_TOKEN }}
       - uses: actions/checkout@v3.0.0
+
       - name: Use Node.js 16.13.1
         uses: actions/setup-node@v1
         with:
           node-version: 16.13.1
-      - name: Build 11ty
+
+      - name: Build Site
         run: |
-          mkdir _site
-          mkdir _site_dist
-          npm install --legacy-peer-deps
-          npm run build
+          npm install
+          npm run site:build
+
+      - name: Write robots.txt
+        run: |
+          echo 'User-agent: *' > _site/robots.txt
+          echo 'Allow: /' >> _site/robots.txt
+          echo 'Sitemap: https://designsystem.webstandards.ca.gov/sitemap.xml' >> docs/robots.txt
 
       # Push built site files to S3 production bucket
       - name: Configure AWS Credentials
