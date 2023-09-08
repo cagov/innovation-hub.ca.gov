@@ -3,7 +3,7 @@ title: Basic webpage structure
 description: The basic structure of the Caliofornia Design System webpage.
 ---
 
-<p class="text-lead">The California Design System webpage structure consists of various components and building blocks.</p>
+<p class="text-lead">The ODI Innovation Hub webpage structure consists of various components and building blocks.</p>
 
 The webpage structural shell usually includes common components like the:
 
@@ -27,7 +27,7 @@ This code shows the basic CA Design System webpage structure:
 		<title>Page title</title>
 		<meta name="Author" content="Office of Digital Innovation" />
 		<meta name="Description" content="California Design Sistem" />
-		<meta name="Keywords" content="California Design System" />
+		<meta name="Keywords" content="ODI Innovation Hub" />
 		<!-- other meta tags-->
 		<link title="fav icon" rel="icon" href="/img/favicon.ico">
   		<link rel="shortcut icon" href="/img/favicon.ico" />

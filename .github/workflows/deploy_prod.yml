@@ -44,5 +44,5 @@ jobs:
       - name: Deploy to S3
         run: aws s3 sync --follow-symlinks --delete ./_site s3://hub.innovation.ca.gov
 
-      # - name: invalidate Cloudfront
-      #   run: AWS_MAX_ATTEMPTS=10 aws cloudfront create-invalidation --distribution-id EUZDM53N8V5KD --paths "/*"
+      - name: invalidate Cloudfront
+        run: AWS_MAX_ATTEMPTS=10 aws cloudfront create-invalidation --distribution-id E10PBAXC9T5GAR --paths "/*"
