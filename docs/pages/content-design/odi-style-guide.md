@@ -100,3 +100,56 @@ Use commas in numbers over 999. People have trouble understanding more than thre
 
 > Example: 
 > 15,000 testing sites
+
+### Decimals
+Use decimals only when you need to. This reduces the amount of numbers people have to read. Only go to one decimal place in most situations. 
+
+Example: 
+> 78.6% of population vaccinated
+> 0.1 new deaths 
+
+Use more than one decimal place when using this rule or rounding would cause you to show a value as 0 when it is not truly 0. This most often comes into play when reporting data. 
+
+> Example:
+> .04 deaths per 100K
+
+### Fractions
+
+Write fractions using a slash. This is more accurate than using decimal places. It’s also easier for people to understand.
+
+> Example:
+> About 2/3 of California’s cities and counties do not allow cannabis retail activity.
+
+Do not use 0.0.
+
+Use 2 decimal places if you’re writing a price that isn’t a round number.
+
+> Example:
+> The cost of a new license is $29.99.
+
+### Numerals
+
+In sentences, use numerals for all numbers, except for “one.” People recognize numerals more easily than numbers written as words. This is especially true when people scan text. Scanning is common when reading on a screen.
+
+> Examples:
+> Choose one of the following options.
+> There are 3 information sessions.
+
+If you have to start a sentence with a number, write it out. Try to avoid starting sentences with numbers so you can use numerals.
+
+> Example:
+> Twelve cities in Los Angeles County allow cultivation of cannabis.
+
+### Times
+
+Use **AM** and **PM** with times. Put a space between the time and AM or PM. Convert times to the Pacific time zone. Unless your target audience is out of state, do not state the time zone since California is only in one time zone.
+
+> Example:
+> The press conference is at 10:30 AM.
+
+If you use a dash when writing a time range, put a space between the dash and the times.
+
+> Example:
+> The statewide call center is open 7 days a week:
+> * Monday through Friday, 8:00 AM - 8:00 PM   
+> * Saturday and Sunday, 8:00 AM - 5:00 PM
