@@ -4,7 +4,7 @@ description: A 15-unit, self-paced course available to all State of California s
 keywords: 
 ---
 
-This 15-unit, self-paced course covers:
+<p class="text-lead">This 15-unit, self-paced course covers:</p>
 
 * Human-centered design
 * Innovative practices
