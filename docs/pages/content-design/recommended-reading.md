@@ -1,5 +1,5 @@
 ---
-title: Recommended reading: content design
+title: "Recommended reading: content design"
 description: Articles, guides, and tools to learn more about content design
 ---
 
