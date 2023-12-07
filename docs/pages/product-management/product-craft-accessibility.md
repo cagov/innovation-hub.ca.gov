@@ -1,5 +1,5 @@
 ---
-title: Product craft: accessibility
+title: "Product craft: accessibility"
 description: Videos, guides, and presentations about how to help everyone access information
 ---
 
