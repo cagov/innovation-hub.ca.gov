@@ -68,7 +68,7 @@ The Office of Data and Innovation (ODI) periodically reviews and adds new resour
 ## Tools
 
 * [Hemingway Editor](http://hemingwayapp.com/)
-* ODI’s plain language checklist: detailed guidance on how to improve your writing
+* [ODI’s plain language checklist](/content-design/plain-language-checklist/): detailed guidance on how to improve your writing
 
 ##
 
