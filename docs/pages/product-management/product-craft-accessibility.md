@@ -3,7 +3,7 @@ title: "Product craft: accessibility"
 description: Videos, guides, and presentations about how to help everyone access information
 ---
 
-Making things accessible is an important part of product management. These are the ODI product managers’ favorite accessibility resources.
+<p class="text-lead">Making things accessible is an important part of product management. These are the ODI product managers’ favorite accessibility resources.</p>
 
 ## Web content
 
