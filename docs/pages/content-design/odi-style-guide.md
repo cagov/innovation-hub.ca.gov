@@ -524,3 +524,16 @@ The engineering team uses these abbreviations and capitalizations for consistenc
 ## Can’t find what you’re looking for?
 
 This guide doesn’t cover everything. If it doesn’t answer your question, here are resources the content team uses.
+
+### Inclusive language
+
+* Start with [Atlassian’s inclusive language guide](https://atlassian.design/content/inclusive-writing). It’s good general guidance. Their do’s and don’ts are helpful.
+If you want advice on how to talk about a specific group, try the [CDC’s Preferred Terms for Select Population Groups & Communities](https://www.cdc.gov/healthcommunication/Preferred_Terms.html). It includes many terms that often come up in government work.
+
+### Other style questions
+
+For all other style questions, we use AP Style. It’s behind a paywall. But you can ask questions about AP Style in #odi-content-design on Slack. Someone on the content team with a subscription will get you an answer.
+
+### Suggest an addition
+
+If you think we should include something in this guide, let us know in #odi-content-design on Slack.
