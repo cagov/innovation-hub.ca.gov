@@ -274,3 +274,120 @@ Only use larger introductory text in the first paragraph on a page.
 
 Do not <u>underline</u> text. On websites or documents shared online, it makes text look like a hyperlink. Use **bold** for emphasis instead.
 
+## Words
+
+### Alaska Native
+
+Use **Alaska Native** instead of **Inuit** or other Tribe names when referring to people descended from the native peoples of Alaska. This follows federal [Bureau of Indian Affairs language guidelines](https://www.bia.gov/guide/editorial-guide#cultural-terms). This may be abbreviated to **AI/AN** in charts as part of the American Indian/Alaska Native federal demographic group.
+
+### alright
+
+Use **alright** as a synonym for **OK**. Spell it this way and not **all right**.
+
+### American Indian
+
+In charts only, use **American Indian** instead of **Native American** when referring to people descended from the native peoples of the continental U.S. This follows federal demographic language (abbreviated to **AI/AN**). In all other cases, use “Native American.”
+
+### Asian American
+
+Use **Asian American** when referring to people of Asian descent. Capitalize this wherever it appears in a sentence.
+
+### Black
+
+Use **Black** when referring to people of African descent. Capitalize this wherever it appears in a sentence.
+
+### CA.gov
+
+Use CA.gov when writing about the ecosystem of state websites or the [State of California homepage](https://www.ca.gov/). This follows the California Department of Technology style. Use ca.gov when writing a URL, like digital.ca.gov.
+
+### Cal OES
+
+The **Governor’s Office of Emergency Services** is abbreviated **Cal OES**. This follows the [office’s](https://www.caloes.ca.gov/) style. Write out the full name before using the abbreviation on each page.
+
+### Cal/OSHA
+
+The **California Division of Occupational Safety and Health** is abbreviated **Cal/OSHA**. This follows the [division’s](https://www.dir.ca.gov/dosh/) style. Write out the full name before using the abbreviation on each page.
+
+### county
+
+Use **county** in lowercase when referring to a level of government.
+
+> Example:
+> The county is paying for this program.
+
+Capitalize “county” if it starts a sentence. 
+
+> Example:
+> County testing facilities are open daily.
+
+Capitalize “county” when referring to a specific county.
+
+> Examples:
+> Sacramento County is working to address homelessness.
+
+When referring to more than one county, do not capitalize “counties.”
+
+> Example:
+> Orange, San Diego, and Imperial counties are working together to prevent wildfires.
+
+### data
+Write data as if it’s singular. This sounds more natural and conversational than writing it as if it’s plural.
+
+> Example:> This data supports making a change.
+
+### directorate
+
+The collective term for ODI’s director and chief deputy director.
+
+### disability
+
+Use **people with disabilities** instead of **disabled people**. This affirms the humanity of people with a disability instead of defining them by their condition. 
+
+If writing about people who share the same disability, be specific.
+
+> Example:
+> There are new online tools to help blind people.
+
+### division
+
+The major organizational units of ODI are divisions. They are:
+
+* Operations
+* Strategy, Partnerships & Training
+* CalInnovate
+* CalData
+
+### e.g.
+Do not use Latin abbreviations like *e.g.* (which stands for *exempli gratia*, or “for example”). Many people do not understand them. Use **for example** instead.
+
+### executive team
+
+We use **executive team** to collectively refer to ODI’s senior leadership team and their direct reports (often deputy directors).
+
+### for example
+
+Use **for example** instead of **e.g**, which is an abbreviation of the Latin phrase *exempli gratia*. This translates to “for example.” Writing out “for example” makes it clear to the reader what you mean.
+
+### Governor
+
+Always capitalize the word **Governor**, either with or without their name. This follows the [Office of the Governor’s](https://www.gov.ca.gov/) style.
+
+> Examples:
+> The Governor’s order
+> Governor Gavin Newsom
+
+### homelessness
+
+Use **people who are homeless** or **people without homes** instead of **the homeless** or **homeless people**. This affirms the humanity of people in this situation instead of defining them by their present situation.
+
+### i.e.
+
+Do not use Latin abbreviations like **i.e.** (which stands for *id est*, or “that is”). Many people do not understand them. Use “that is” instead.
+
+### Latino
+
+Use **Latino** instead of **Latinx** or **Hispanic** when referring to people of Latin American or Spanish descent.
+
+### LGBTQ+
+
+Use **LGBTQ+** instead of **LGBTQ** or similar initialisms. This is the prevailing convention among state departments.
