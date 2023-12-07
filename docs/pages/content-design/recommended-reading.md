@@ -18,7 +18,7 @@ The Office of Data and Innovation (ODI) periodically reviews and adds new resour
 
 ## Style guides
 
-* [Associated Press (AP) Style](https://store.stylebooks.com/): ODI’s default for style questions not covered by our style guide
+* [Associated Press (AP) Style](https://store.stylebooks.com/): ODI’s default for style questions not covered by [our style guide](/content-design/odi-style-guide/)
 * [18F content guide](https://content-guide.18f.gov/) at the federal government
 * [How to write for SF.gov](https://sfdigitalservices.gitbook.io/style-guide/city-standards)
 * [Federal plain language guidelines](https://www.plainlanguage.gov/guidelines/) at plainlanguage.gov
