@@ -3,7 +3,7 @@ title: Plain language equity standard
 description: ODI’s recommendations for how to help everyone understand content
 ---
 
-All state departments should:
+<p class="text-lead">All state departments should:</p>
 
 * Provide information to the public at an 8th grade reading level or lower
 * Use smaller, more common words
