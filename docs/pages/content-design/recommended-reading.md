@@ -3,7 +3,7 @@ title: "Recommended reading: content design"
 description: Articles, guides, and tools to learn more about content design
 ---
 
-The Office of Data and Innovation (ODI) periodically reviews and adds new resources. We select resources that are easy for people new to plain language and content design to understand and put into practice.
+<p class="text-lead">The Office of Data and Innovation (ODI) periodically reviews and adds new resources. We select resources that are easy for people new to plain language and content design to understand and put into practice.</p>
 
 ## Principles
 
