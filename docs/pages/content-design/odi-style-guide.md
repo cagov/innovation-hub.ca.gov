@@ -518,7 +518,7 @@ The engineering team uses these abbreviations and capitalizations for consistenc
 * SCSS -  syntax
 * [WordPress](https://wordpress.org/download/) -  a CMS
 * jQuery - a JavaScript library
-* CA.gov - see entry in [Words](/content-design/odi-style-guide#Words) section
+* CA.gov - see entry in [Words](/content-design/odi-style-guide/#Words) section
 * Bootstrap - a front end toolkit
 
 ## Can’t find what you’re looking for?
