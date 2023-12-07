@@ -1,5 +1,5 @@
 ---
-title: ODI’s plain language checklist
+title: Plain language checklist
 description: ODI's detailed guide for making sure content is in plain language
 ---
 
