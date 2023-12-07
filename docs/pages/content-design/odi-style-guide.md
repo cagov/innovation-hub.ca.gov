@@ -244,3 +244,33 @@ If you use a dash when writing a time range, put a space between the dash and th
 > The statewide call center is open 7 days a week:
 > * Monday through Friday, 8:00 AM - 8:00 PM   
 > * Saturday and Sunday, 8:00 AM - 5:00 PM
+
+## Styling
+
+### Bold
+
+Use **bold** for emphasis, but sparingly. When too many things are emphasized, nothing stands out.
+
+Do not add bold to a heading. Heading style is usually set through a template for consistency throughout a document or site. If you need to change the heading style, do that in the template.  
+
+On websites, adding bold tags to a heading can cause it to appear in the wrong font.
+
+### Italics
+
+In websites or digital services, do not use *italics*. This makes text harder to read. Use **bold** for emphasis instead. In an image caption or data chart note, use smaller text.
+
+### Larger introductory text
+
+On webpages, use larger introductory text on the first paragraph to state its most important takeaway. This sets people’s expectations about what they’ll find on this page and if it’s valuable to them. 
+
+Making this text bigger emphasizes its importance and helps people see it. But because this text is larger, keep the paragraph brief.
+
+> Example: 
+> California has rules to keep workplaces safe from COVID-19.
+
+Only use larger introductory text in the first paragraph on a page.
+
+### Underline
+
+Do not <u>underline</u> text. On websites or documents shared online, it makes text look like a hyperlink. Use **bold** for emphasis instead.
+
