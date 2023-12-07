@@ -7,13 +7,13 @@ description: ODI’s 7 keys for writing great content, including ways to impleme
 
 These 7 principles contain strategies and tips to help you write excellent content.
 
-* [Focus on user needs and services](/style/content/focus-on-user-needs-services/)
-* [Meet your audience where they are](/style/content/meet-your-audience-where-they-are/)
-* [Build in accessibility from the start](/style/content/build-accessibility-from-start/)
-* [Be concise](/style/content/be-concise/)
-* [Write in plain language](/style/content/write-in-plain-language/)
-* [Write with a conversational and official voice](/style/content/write-with-conversational-official-voice/)
-* [Organize content strategically](/style/content/organize-content-strategically/)
+* [Focus on user needs and services](/content-design/principles/focus-on-user-needs-services/)
+* [Meet your audience where they are](/content-design/principles/meet-your-audience-where-they-are/)
+* [Build in accessibility from the start](/content-design/principles/build-accessibility-from-start/)
+* [Be concise](/content-design/principles/be-concise/)
+* [Write in plain language](/content-design/principles/write-in-plain-language/)
+* [Write with a conversational and official voice](/content-design/principles/write-with-conversational-official-voice/)
+* [Organize content strategically](/content-design/principles/organize-content-strategically/)
 
 ## Our inspiration
 
