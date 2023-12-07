@@ -3,7 +3,7 @@ title: ODI’s style guide
 description: How ODI keeps our writing consistent, including the reasons for our choices
 ---
 
-These are the Office of Data and Innovation’s conventions and standard terms for writing. Our [content design principles](/content-design/principles/) provide general guidance in how to write well.
+<p class="text-lead">These are the Office of Data and Innovation’s conventions and standard terms for writing. Our <a href="/content-design/principles/">content design principles</a> provide general guidance in how to write well.</p>
 
 ## Capitalization
 
