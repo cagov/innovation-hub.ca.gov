@@ -391,3 +391,136 @@ Use **Latino** instead of **Latinx** or **Hispanic** when referring to people of
 ### LGBTQ+
 
 Use **LGBTQ+** instead of **LGBTQ** or similar initialisms. This is the prevailing convention among state departments.
+
+### Multi-race
+
+Use **Multi-race** only in dashboards or chart notes to refer to those of more than one race. Do not capitalize the “R” in race.
+
+### Native American
+
+Use **Native American** instead of **American Indian** when referring to people descended from the native peoples of the continental U.S. This follows the [California Native American Heritage Commission’s](https://nahc.ca.gov/) style. The one exception is in charts, where “American Indian” is used to match federal demographic language.
+
+### Native Hawaiian
+
+Use **Native Hawaiian** when referring to people of Hawaiian descent. This follows the federal [Department of the Interior’s](https://www.doi.gov/hawaiian) style. It can be abbreviated as **NHPI** in charts as part of the Native Hawaiian/Pacific Islander category.
+
+### Office of Data and Innovation
+
+When spelling out the full name of the office, use the word **and**. Do not use an ampersand (&). If you mention ODI more than once in the content, use **(ODI)** after the first use. Use **ODI** for all following references instead of writing out the full name.
+
+### OK
+
+Use **OK** instead of **okay**.
+
+### Pacific Islander
+
+Use **Pacific Islander** when referring to those descended from the peoples of Oceania. This follows federal demographic language. It can be abbreviated as **NHPI** in charts as part of the Native Hawaiian/Pacific Islander category.
+
+### senior leadership team
+The collective term for ODI’s:
+
+* Director
+* Chief deputy director
+* Chief data officer
+* Chief counsel
+* Special advisor to the director
+
+### senior management team
+
+This term includes everyone with programmatic oversight and decision-making authority. It includes:
+
+* Executive team
+* Management staff
+* Select individual contributor staff, like the Government Relations Manager and Legislative & External Affairs Manager
+
+### staff
+We call everyone who works at ODI **staff**. We modify this term to refer to specific groups within ODI.
+
+* Staff who do not manage people are **individual contributor staff**.
+* Staff who manage people are **management staff**.
+
+### state
+
+Use **state** in lowercase when referring to:
+
+* The state of California as a place
+* A level of government
+
+> Examples:
+> The state is paying for this program.
+> Neither the state nor federal government requires you to get vaccinated.
+> The state of California is on the Pacific Ocean.
+
+Capitalize “state” if it starts a sentence.
+
+> Example:
+> State testing facilities are open daily.
+
+Capitalize “state” when using the term **State of California** to refer to our state’s government.
+
+> Examples:
+> The State of California is paying for this program.
+
+### team
+
+ODI calls its base organizational unit a **team**. Teams make up divisions.
+
+> Examples:
+> The engineering team decided to use GitHub to host the website.
+> The talent team recruits great people to work at ODI.
+> The user research team piloted Ethnio intercepts on state webpages.
+
+### Tribe
+
+When referencing a specific Native American community, capitalize **Tribe** or **Tribal** as a sign of respect. This follows federal [Bureau of Indian Affairs language guidelines](https://www.bia.gov/guide/editorial-guide#cultural-terms). In other contexts, do not capitalize.
+
+> Examples:
+> Yurok Tribe
+> Kumeyaay Tribal lands
+> The survivors of the shipwreck formed two tribes.
+
+### users
+
+The word **users** should be used only when you need to specifically indicate those who use an item or tool. 
+
+> Example:
+> This parking lot is reserved for wheelchair users.
+
+In most cases, it’s better to call them **people**. This affirms their humanity instead of seeing them only as users of a service.
+
+> Example:
+> >This website is designed for people who use mobile devices.
+
+Do not use the word “users” where it can give the wrong meaning, such as in the context of drugs, addiction, or recovery.
+
+### white
+
+Use **white** when referring to people of European descent. Do not capitalize it unless it is at the start of a sentence.
+
+### zip code
+
+Though the United States Postal Service capitalizes it “[ZIP Code](https://tools.usps.com/go/ZipLookupAction!input.action),” use **zip code**. Most people don’t know that zip is an acronym. Using capital letters distracts readers. The unexpected capitalization makes them pause and question the content. The lowercase zip code is easier for people to understand and read.
+
+## Technical glossary
+
+The engineering team uses these abbreviations and capitalizations for consistency.
+
+* CMS - content management system
+* CSS - cascading style sheets 
+* GitHub - code repository platform
+* [JavaScript](https://www.w3schools.com/js/) - language
+* [Markdown](https://www.markdownguide.org/) - language
+* Microsoft Edge - browser
+* [npm](https://docs.npmjs.com/about-npm) -  software registry
+* Nginx - web server
+* Solr -  search platform
+* [Sass](https://sass-lang.com/) -  language
+* SCSS -  syntax
+* [WordPress](https://wordpress.org/download/) -  a CMS
+* jQuery - a JavaScript library
+* CA.gov - see entry in [Words](/content-design/odi-style-guide#Words) section
+* Bootstrap - a front end toolkit
+
+## Can’t find what you’re looking for?
+
+This guide doesn’t cover everything. If it doesn’t answer your question, here are resources the content team uses.
