@@ -1,6 +1,6 @@
 ---
-layout: single-column
 title: Topic Index Sample 1
+layout: single-column
 ---
 
 ## Projects

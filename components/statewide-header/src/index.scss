@@ -5,7 +5,7 @@
 
 /*official*/
 .official-header {
-  background-color: var(--gray-50, #fafafa);
+  background-color: var(--primary-dark-color, #00315F);
   padding: 0;
   width: 100%;
 
@@ -50,13 +50,14 @@
   }
 
   .official-tag {
+    color: var(--white, #FFF);
     margin: 0 var(--s-1, 0.5rem);
     font-size: var(--font-size-sm, 0.875rem);
     display: inherit;
   }
 
   .official-languages a {
-    color: var(--black, #000);
+    color: var(--white, #FFF);
     padding: 0 var(--s-1, 0.5rem) 0 var(--s-1, 0.5rem);
     text-decoration: underline;
 

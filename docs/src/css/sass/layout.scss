@@ -3,6 +3,13 @@
   margin: 0 auto;
 }
 
+body {
+  background-color: var(--odi-brand, #ECF1F6);
+}
+.site-footer {
+  background-color: white;
+}
+
 .cagov-article {
   margin: var(--s-4, 2rem) 0;
   padding: 0 var(--s-2, 1rem);
