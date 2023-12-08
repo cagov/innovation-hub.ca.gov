@@ -1,5 +1,17 @@
 {% extends "layouts/index.njk" %}
 {% block content %}
+<div id="page-container" class="page-container-ds">
+  <div class="breadcrumb" aria-label="Breadcrumb" role="region">
+    <a class="crumb" href="https://ca.gov" title="CA.gov">CA.gov</a>
+    <span class="crumb separator">/</span>
+    <a class="crumb" href="/" title="Office of Data and Innovation">Office of Data and Innovation</a>
+    {% if parentid %}
+      <span class="crumb separator">/</span>
+      <span class="crumb">{{ fileids[parentid] | safe }}</span>
+    {% endif %}
+    <span class="crumb separator">/</span>
+    <span class="crumb current">{{ title | safe }}</span>
+  </div>
   <main id="body-content" class="cagov-main">
     <article id="post-{{ page.fileSlug }}" class="cagov-article with-sidebar with-page-nav">
       <h1 class="page-title title-cell">
@@ -17,4 +29,5 @@
       </div>
     </article>
   </main>
+</div>
 {% endblock %}
