@@ -1,6 +1,7 @@
 ---
 title: Run-of-show
 description: How to keep things organized in the lead up to a launch, announcement, or update
+layout: single-column
 ---
 
 <p class="text-lead">A run-of-show tracker is a single unified table, organized by day and time.</p>
