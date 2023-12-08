@@ -1,6 +1,7 @@
 ---
 title: Content design principles
 description: ODI’s 7 keys for writing great content, including ways to implement them
+layout: single-column
 ---
 
 <p class="text-lead">Great content takes work. The good news is that anyone can do it.</p>
