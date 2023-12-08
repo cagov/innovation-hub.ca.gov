@@ -9,7 +9,7 @@ Here are our recommendations for how to use each type of resource on the Hub.
 
 ## Standards and principles
 
-They’re the big ideas that guide ODI’s work. If you’re new to a topic, the standards and principles are a good place to start.
+They’re the big ideas that guide ODI’s work. If you’re new to a topic, standards and principles are a good place to start.
 
 ## Guides and playbooks
 
@@ -21,11 +21,11 @@ Our training gives you access to best practices in innovation. They’re a great
 
 ## Recommended reading
 
-ODI is always researching how to deliver great services. We save our favorite articles and tools so we can use them in our work. Our recommended reading is a good way to dive into a topic and expand your knowledge.
+ODI is always researching how to deliver great services. We save our favorite articles and tools to use them in our work. Our recommended reading is a good way to dive into a topic and expand your knowledge.
 
 ## Templates
 
-We often make templates to streamline our work. Take our templates and use them as-is, or with changes to fit your department, to make your work easier.
+We often make templates to streamline our work. Take our templates and use them as-is, or change them to fit your department, to make your work easier.
 
 ## About ODI
 
