@@ -6554,7 +6554,7 @@ cagov-back-to-top .back-to-top.is-visible {
 }
 .site-header .org-name-dept {
   display: block;
-  font-family: var(--org-name-dept-font, "Public Sans", sans-serif);
+  font-family: var(--org-name-dept-font, "Noto Serif", serif);
   font-size: var(--org-name-dept-font-size, 1.75rem);
   font-weight: var(--org-name-dept-font-weight, 700);
   line-height: var(--org-name-dept-line-height, 1.2);
