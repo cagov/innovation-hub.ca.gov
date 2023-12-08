@@ -17,3 +17,9 @@ You can use a run-of-show for:
 * Any complex delivery that requires orchestrating dependencies across multiple teams
 
 ## Example
+
+| **Date and time** | **Description** | **Page** | **Responsible** | **Approver** | **Notes and questions** | **Status** |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
