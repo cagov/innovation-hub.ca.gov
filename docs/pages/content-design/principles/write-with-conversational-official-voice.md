@@ -38,7 +38,7 @@ A conversational tone and an official one can seem like they’re opposites of e
 
 * Use active voice. It helps content sound official because it’s confident and direct.
 * Use qualifying language like **approximately**, **around**, **about**, or **like** only when necessary. We use these words naturally when speaking to sound more accommodating, but people expect solid answers from the State.
-  * Be honest when the State does not have a definitive answer.
+  * Be honest when the state does not have a definitive answer.
 
 ### Finding the balance
 
