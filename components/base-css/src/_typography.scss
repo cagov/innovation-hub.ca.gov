@@ -21,6 +21,12 @@ h1.page-title {
   padding: 0 0 var(--s-3) 0;
 }
 
+h2 {
+  font-family: var(--org-name-dept-font, "Noto Serif", serif);
+  color: var(--page-title-color,  #0D4F8C);
+  font-size: 37px;
+}
+
 main {
   h2:first-child {
     margin-top: 0px;

@@ -16,13 +16,13 @@ cagov-pagination .cagov-pagination__item a {
   text-decoration: none;
 }
 cagov-pagination .cagov-pagination__item a:hover {
-  color: var(--primary-900, #003588);
+  color: var(--primary-900, #00315F);
   background: var(--gray-50, #fafafa);
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
   text-decoration: none;
 }
 cagov-pagination .cagov-pagination__item a:focus {
-  color: var(--primary-900, #003588);
+  color: var(--primary-900, #00315F);
   background: var(--gray-50, #fafafa);
   outline: var(--border-2) solid var(--accent2-500);
   outline-offset: 2px;
