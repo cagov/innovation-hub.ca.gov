@@ -15,13 +15,13 @@ cagov-pagination {
       color: var(--primary-700, #165ac2);
       text-decoration: none;
       &:hover {
-        color: var(--primary-900, #003588);
+        color: var(--primary-900, #00315F);
         background: var(--gray-50, #fafafa);
         box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
         text-decoration: none;
       }
       &:focus {
-        color: var(--primary-900, #003588);
+        color: var(--primary-900, #00315F);
         background: var(--gray-50, #fafafa);
         outline: var(--border-2) solid var(--accent2-500);
         outline-offset: 2px;
@@ -35,14 +35,14 @@ cagov-pagination {
       a {
         color: var(--white, #ffffff);
         &:hover {
-          background-color: var(--primary-900, 003588);
+          background-color: var(--primary-900, 00315F);
           box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
           text-decoration: none;
           color: var(--white, #ffffff);
         }
         &:focus {
-          background-color: var(--primary-900, 003588);
-          border-color: var(--primary-900, 003588);
+          background-color: var(--primary-900, 00315F);
+          border-color: var(--primary-900, 00315F);
           outline: var(--border-2) solid var(--accent2-500);
           outline-offset: 2px;
         }

@@ -19,7 +19,7 @@ cagov-accordion details summary {
 }
 cagov-accordion details summary:hover {
   background-color: var(--gray-100, #fafafa);
-  color: var(--primary-900, #003688);
+  color: var(--primary-900, #00315F);
 }
 cagov-accordion details .accordion-body {
   padding: var(--s-2, 1rem);

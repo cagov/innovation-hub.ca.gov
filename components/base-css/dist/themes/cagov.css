@@ -5,7 +5,7 @@
   --primary-300: #a3bee7;
   --primary-500: #5a8ad4;
   --primary-700: #165ac2;
-  --primary-900: #003688;
+  --primary-900: #00315F;
   --accent1-100: #ffead6;
   --accent1-300: #ffa656;
   --accent1-500: #de6516;
@@ -136,7 +136,7 @@
   --cagov-highlight: #ecb32d;
   --cagov-highlight-dark: #ac8227;
   --cagov-primary: #165ac2;
-  --cagov-primary-dark: #003688;
+  --cagov-primary-dark: #00315F;
   --cagov-secondary: #de6516;
   --white: #fff;
   --gray-50: #fafafa;
@@ -2684,7 +2684,7 @@ main .wp-block-image img {
 
 .wp-block-button__link:hover {
   /* defined here for when css vars are not supported */
-  background-color: var(--primary-900, #003688);
+  background-color: var(--primary-900, #00315F);
   /* variable used with fallback in case it is not defined */
   color: var(--white, #ffffff);
   padding: 0.5556rem;
@@ -3245,7 +3245,7 @@ a {
   text-decoration: underline;
 }
 a:hover {
-  color: var(--primary-900, #003588);
+  color: var(--primary-900, #00315F);
 }
 a:focus {
   outline: 2px solid var(--accent2-500, #ac8226);
@@ -4747,7 +4747,7 @@ figure figcaption {
 .cagov-primary-dark,
 .cagov-primary-hover:hover,
 .cagov-primary-hover:focus {
-  color: var(--cagov-primary-dark, #003688);
+  color: var(--cagov-primary-dark, #00315F);
 }
 
 .cagov-secondary {
@@ -5061,7 +5061,7 @@ figure figcaption {
 .bg-cagov-primary-dark,
 .bg-cagov-hover:hover,
 .bg-cagov-hover:focus {
-  background-color: var(--cagov-primary-dark, #003688);
+  background-color: var(--cagov-primary-dark, #00315F);
 }
 
 .bg-cagov-secondary {

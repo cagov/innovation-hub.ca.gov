@@ -14,7 +14,7 @@ footer {
   }
   a {
     &:hover {
-      color: var(--primary-900, #003588);
+      color: var(--primary-900, #00315F);
     }
     &:focus {
       outline: 2px solid var(--accent2-500, #ac8226);
@@ -68,7 +68,7 @@ footer {
 }
 
 .bg-light-grey {
-  background-color: var(--odi-brand, #ECF1F6);
+  background-color: var(--odi-brand, #F5F8FB);
 }
 
 .pt-0 {
