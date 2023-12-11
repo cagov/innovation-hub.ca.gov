@@ -26,10 +26,10 @@ A conversational tone and an official one can seem like they’re opposites of e
   * Break ideas into small chunks for readers to help them understand.
 * Use common contractions like **you’ll**, **it’s**, and **we’ll**.
   * Do not use uncommon contractions like **this’ll**, **y’all**, and **ain’t**.
-* Refer to people as **you**, and the government or department as **we**, as long as it’s clear who **we** refers to. This lowers the feeling of a divide between people and the State.
+* Refer to people as **you**, and the government or department as **we**, as long as it’s clear who **we** refers to. This lowers the feeling of a divide between people and the state.
   * For example: _If you need benefits, apply by May 23, 2021_. Do not say _The benefits application deadline is May 23, 2021_.
   * Do not use **me** or **my**. It’s unclear if it refers to the reader or the writer.
-* Use transition words where it makes sense. Start sentences with And or But to show the relationship between pieces of information.
+* Use transition words where it makes sense. Start sentences with **And** or **But** to show the relationship between pieces of information.
   * Example (courtesy of [Plainlanguage.gov](https://www.plainlanguage.gov/guidelines/organize/use-transition-words/)): _A topic sentence may provide a transition from one paragraph to another. But a transition word or phrase (usually in the topic sentence) clearly tells the audience whether the paragraph expands on the paragraph before, contrasts with it, or takes a completely different direction._
 * Vary the lengths of your sentences and paragraphs. This makes your writing sound natural.
 * Avoid jargon or unfamiliar terms. If you must use them, do so sparingly, and define them for the reader.
