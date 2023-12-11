@@ -3236,7 +3236,7 @@ a {
   text-decoration: underline;
 }
 a:hover {
-  color: var(--primary-900, #003588);
+  color: var(--primary-900, #00315F);
 }
 a:focus {
   outline: 2px solid var(--accent2-500, #ac8226);
@@ -6366,7 +6366,7 @@ section.site-footer a {
   color: var(--primary-700, #165ac2);
 }
 section.site-footer a:hover {
-  color: var(--primary-900, #003588);
+  color: var(--primary-900, #00315F);
 }
 section.site-footer a:focus {
   outline: 2px solid var(--accent2-500, #ac8226);
@@ -6403,7 +6403,7 @@ section.site-footer .footer-social-links a svg path {
   fill: var(--primary-700, #165ac2);
 }
 section.site-footer .footer-social-links a:hover svg path {
-  fill: var(--primary-900, #003588);
+  fill: var(--primary-900, #00315F);
 }
 
 @media (min-width: 991px) {
@@ -6585,15 +6585,15 @@ cagov-back-to-top .back-to-top.is-visible {
 }
 .site-header button.search-btn:hover,
 .site-header button.menu-btn:hover {
-  color: var(--primary-900, #003588);
+  color: var(--primary-900, #00315F);
 }
 .site-header button.search-btn:hover .blue,
 .site-header button.menu-btn:hover .blue {
-  fill: var(--primary-900, #003588);
+  fill: var(--primary-900, #00315F);
 }
 .site-header button.search-btn:focus,
 .site-header button.menu-btn:focus {
-  color: var(--primary-900, #003588);
+  color: var(--primary-900, #00315F);
   outline: 2px solid var(--accent2-500, #ac8226);
 }
 .site-header button.search-btn svg,
@@ -6626,10 +6626,10 @@ cagov-back-to-top .back-to-top.is-visible {
   background-color: var(--primary-700, #165ac2);
 }
 .site-header .menu-trigger:hover {
-  color: var(--primary-900, #003588);
+  color: var(--primary-900, #00315F);
 }
 .site-header .menu-trigger:hover .hamburger-inner:before, .site-header .menu-trigger:hover .hamburger-inner:after {
-  background-color: var(--primary-900, #003588);
+  background-color: var(--primary-900, #00315F);
 }
 .site-header .hamburger {
   padding: 0.15rem 0.15rem;
@@ -6986,8 +6986,8 @@ cagov-site-navigation .search-container--small.hidden-search {
 }
 
 .cagov-hero-body-content .wp-block-button:not(.is-style-outline) .btn-primary:hover {
-  background-color: var(--primary-900, #003588);
-  border-color: var(--primary-900, #003588);
+  background-color: var(--primary-900, #00315F);
+  border-color: var(--primary-900, #00315F);
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
   text-decoration: none;
   color: var(--white, #fff);
@@ -6995,7 +6995,7 @@ cagov-site-navigation .search-container--small.hidden-search {
 }
 
 .cagov-hero-body-content .wp-block-button:not(.is-style-outline) .btn-primary:focus {
-  border-color: var(--primary-900, #003588);
+  border-color: var(--primary-900, #00315F);
   outline: var(--border-2, 2px) solid var(--accent2-500, #ac8226);
   outline-offset: 2px;
 }
@@ -7106,15 +7106,15 @@ cagov-site-navigation .mobile-icons .menu-btn {
 }
 cagov-site-navigation .mobile-icons .search-btn:hover,
 cagov-site-navigation .mobile-icons .menu-btn:hover {
-  color: var(--primary-900, #003588);
+  color: var(--primary-900, #00315F);
 }
 cagov-site-navigation .mobile-icons .search-btn:hover .blue,
 cagov-site-navigation .mobile-icons .menu-btn:hover .blue {
-  fill: var(--primary-900, #003588);
+  fill: var(--primary-900, #00315F);
 }
 cagov-site-navigation .mobile-icons .search-btn:focus,
 cagov-site-navigation .mobile-icons .menu-btn:focus {
-  color: var(--primary-900, #003588);
+  color: var(--primary-900, #00315F);
   outline: 2px solid var(--accent2-500, #ac8226);
 }
 cagov-site-navigation .mobile-icons .search-btn svg,
@@ -7248,7 +7248,7 @@ cagov-site-navigation .expanded-menu-section-header-link:active {
 }
 cagov-site-navigation .expanded-menu-section-header-link:hover {
   text-decoration: underline;
-  color: var(--primary-900, #003588);
+  color: var(--primary-900, #00315F);
 }
 @media (min-width: 768px) {
   cagov-site-navigation .expanded-menu-section-header-link {
@@ -7433,14 +7433,14 @@ cagov-highlight-section article .highlight-body .highlight-text .btn-primary-out
   border-color: var(--primary-700, #165ac2);
 }
 cagov-highlight-section article .highlight-body .highlight-text .btn-primary-outline:hover {
-  color: var(--primary-900, #003588);
-  border-color: var(--primary-900, #003588);
+  color: var(--primary-900, #00315F);
+  border-color: var(--primary-900, #00315F);
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
   text-decoration: none;
 }
 cagov-highlight-section article .highlight-body .highlight-text .btn-primary-outline:focus {
-  color: var(--primary-900, #003588);
-  border-color: var(--primary-900, #003588);
+  color: var(--primary-900, #00315F);
+  border-color: var(--primary-900, #00315F);
   outline: var(--border-2, 2px) solid var(--accent2-500, #ac8226);
   outline-offset: 2px;
 }
@@ -7513,13 +7513,13 @@ cagov-pagination .cagov-pagination__item a {
   text-decoration: none;
 }
 cagov-pagination .cagov-pagination__item a:hover {
-  color: var(--primary-900, #003588);
+  color: var(--primary-900, #00315F);
   background: var(--gray-50, #fafafa);
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
   text-decoration: none;
 }
 cagov-pagination .cagov-pagination__item a:focus {
-  color: var(--primary-900, #003588);
+  color: var(--primary-900, #00315F);
   background: var(--gray-50, #fafafa);
   outline: var(--border-2) solid var(--accent2-500);
   outline-offset: 2px;
@@ -7703,7 +7703,7 @@ footer .container {
   padding: var(--s-2, 1rem);
 }
 footer a:hover {
-  color: var(--primary-900, #003588);
+  color: var(--primary-900, #00315F);
 }
 footer a:focus {
   outline: 2px solid var(--accent2-500, #ac8226);

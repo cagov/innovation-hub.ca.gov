@@ -56,14 +56,14 @@ cagov-highlight-section article .highlight-body .highlight-text .btn-primary-out
   border-color: var(--primary-700, #165ac2);
 }
 cagov-highlight-section article .highlight-body .highlight-text .btn-primary-outline:hover {
-  color: var(--primary-900, #003588);
-  border-color: var(--primary-900, #003588);
+  color: var(--primary-900, #00315F);
+  border-color: var(--primary-900, #00315F);
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
   text-decoration: none;
 }
 cagov-highlight-section article .highlight-body .highlight-text .btn-primary-outline:focus {
-  color: var(--primary-900, #003588);
-  border-color: var(--primary-900, #003588);
+  color: var(--primary-900, #00315F);
+  border-color: var(--primary-900, #00315F);
   outline: var(--border-2, 2px) solid var(--accent2-500, #ac8226);
   outline-offset: 2px;
 }

@@ -15,7 +15,7 @@ section.site-footer a {
   color: var(--primary-700, #165ac2);
 }
 section.site-footer a:hover {
-  color: var(--primary-900, #003588);
+  color: var(--primary-900, #00315F);
 }
 section.site-footer a:focus {
   outline: 2px solid var(--accent2-500, #ac8226);
@@ -52,7 +52,7 @@ section.site-footer .footer-social-links a svg path {
   fill: var(--primary-700, #165ac2);
 }
 section.site-footer .footer-social-links a:hover svg path {
-  fill: var(--primary-900, #003588);
+  fill: var(--primary-900, #00315F);
 }
 
 @media (min-width: 991px) {

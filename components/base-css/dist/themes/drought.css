@@ -3242,7 +3242,7 @@ a {
   text-decoration: underline;
 }
 a:hover {
-  color: var(--primary-900, #003588);
+  color: var(--primary-900, #00315F);
 }
 a:focus {
   outline: 2px solid var(--accent2-500, #ac8226);

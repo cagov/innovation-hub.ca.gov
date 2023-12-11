@@ -14,7 +14,7 @@
 }
 .wp-block-button__link:hover {
   /* defined here for when css vars are not supported */
-  background-color: var(--primary-900, #003688);
+  background-color: var(--primary-900, #00315F);
   /* variable used with fallback in case it is not defined */
   color: var(--white, #ffffff);
   padding: 0.5556rem;
@@ -45,8 +45,8 @@
 .btn-primary {
   @include btn;
   color: var(--white);
-  background-color: var(--primary-700);
-  border-color: var(--primary-700);
+  background-color: #0D4F8C;
+  border-color: #0D4F8C;
 
   &:hover {
     background-color: var(--primary-900);

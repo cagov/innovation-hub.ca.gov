@@ -125,8 +125,8 @@
 }
 
 .cagov-hero-body-content .wp-block-button:not(.is-style-outline) .btn-primary:hover {
-  background-color: var(--primary-900, #003588);
-  border-color: var(--primary-900, #003588);
+  background-color: var(--primary-900, #00315F);
+  border-color: var(--primary-900, #00315F);
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
   text-decoration: none;
   color: var(--white, #fff);
@@ -134,7 +134,7 @@
 }
 
 .cagov-hero-body-content .wp-block-button:not(.is-style-outline) .btn-primary:focus {
-  border-color: var(--primary-900, #003588);
+  border-color: var(--primary-900, #00315F);
   outline: var(--border-2, 2px) solid var(--accent2-500, #ac8226);
   outline-offset: 2px;
 }

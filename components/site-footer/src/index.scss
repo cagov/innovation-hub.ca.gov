@@ -15,7 +15,7 @@ section.site-footer {
 	a {
 		color: var(--primary-700, #165ac2);
 		&:hover {
-			color: var(--primary-900, #003588);
+			color: var(--primary-900, #00315F);
 		}
 		&:focus {
 			outline: 2px solid var(--accent2-500, #ac8226);
@@ -55,7 +55,7 @@ section.site-footer {
 			}
 			&:hover {
 				svg path {
-					fill: var(--primary-900, #003588);
+					fill: var(--primary-900, #00315F);
 				}
 			}
 		}
@@ -75,7 +75,7 @@ section.site-footer {
 
 // Misc
 .bg-light-grey {
-	background-color: var(--odi-brand, #ECF1F6);
+	background-color: var(--odi-brand, #F5F8FB);
 }
 
 .pt-0 {

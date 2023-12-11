@@ -97,15 +97,15 @@
 }
 .site-header button.search-btn:hover,
 .site-header button.menu-btn:hover {
-  color: var(--primary-900, #003588);
+  color: var(--primary-900, #00315F);
 }
 .site-header button.search-btn:hover .blue,
 .site-header button.menu-btn:hover .blue {
-  fill: var(--primary-900, #003588);
+  fill: var(--primary-900, #00315F);
 }
 .site-header button.search-btn:focus,
 .site-header button.menu-btn:focus {
-  color: var(--primary-900, #003588);
+  color: var(--primary-900, #00315F);
   outline: 2px solid var(--accent2-500, #ac8226);
 }
 .site-header button.search-btn svg,
@@ -138,10 +138,10 @@
   background-color: var(--primary-700, #165ac2);
 }
 .site-header .menu-trigger:hover {
-  color: var(--primary-900, #003588);
+  color: var(--primary-900, #00315F);
 }
 .site-header .menu-trigger:hover .hamburger-inner:before, .site-header .menu-trigger:hover .hamburger-inner:after {
-  background-color: var(--primary-900, #003588);
+  background-color: var(--primary-900, #00315F);
 }
 .site-header .hamburger {
   padding: 0.15rem 0.15rem;
