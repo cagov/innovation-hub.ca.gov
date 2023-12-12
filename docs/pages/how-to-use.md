@@ -30,4 +30,6 @@ We often make templates to streamline our work. Take our templates and use them 
 
 ## About ODI
 
-We partner with state departments to drive innovation. To learn more about ODI and our work, visit the [ODI website](https://innovation.ca.gov).
+ODI is transforming government processes and public services to work better for Californians. We use data, human-centered design and technology to create services that are easier for everyone to use. We are a government-to-government service. Our goal is for the citizens of our community to benefit from our collaborations.
+
+<button class="btn-primary" name="button" onclick="https://innovation.ca.gov">Learn more</a>
