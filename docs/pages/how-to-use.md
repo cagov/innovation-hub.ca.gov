@@ -28,6 +28,14 @@ ODI is always researching how to deliver great services. We save our favorite ar
 
 We often make templates to streamline our work. Take our templates and use them as-is, or change them to fit your department, to make your work easier.
 
+We’ve organized resources by topic. The topics on the Hub are:
+
+* Human-centered design
+* Content design
+* Product management
+
+Select a topic from the navigation at the top of the page or [find all resources on the homepage](/).
+
 ## About ODI
 
 ODI is transforming government processes and public services to work better for Californians. We use data, human-centered design and technology to create services that are easier for everyone to use. We are a government-to-government service. Our goal is for the citizens of our community to benefit from our collaborations.
