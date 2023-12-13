@@ -4,22 +4,186 @@ title: ODI Innovation Hub
 description: This system makes it easy to build digital services that meet the needs of Californians.
 ---
 
-<div class="full-bleed full-bleed--highlight1 pt-1">
-  <div class="full-bleed-content-area wp-block-ca-design-system-hero cagov-with-sidebar cagov-with-sidebar-left cagov-featured-section cagov-bkgrd-gry cagov-block wp-block-cagov-hero">
-    <div>
-      <div class="cagov-stack p-b-3 cagov-featured-sidebar max-w-40">
-        <h1 class="m-t-3">Guides and help to work better</h1>
+<style>
+  /* will move this later... -- Jim */
+  div.content-grid-wrapper {
+    display: grid;
+    grid-template-columns: 275px 275px 275px;
+    gap:32px;
+  }
+  div.content-tile {
+    background-color:white;
+    padding: 16px 16px;
+    border-radius:8px;
+  }
+  a.tile-link {
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+  }
+  div.content-tile-header {
+    font-size: 14px;
+    border: 1px solid ;
+    font-weight: 400;
+    height: 34px;
+    {# padding-left:24px; #}
+    padding-right:12px;
+    padding-top:6px;
+    border-radius:8px;
+    display: inline-block;
+    position: relative;
+  }
+  span.title-card-header-label {
+    vertical-align:top;
+  }
+
+  div.header-ribbon {     background-color: #EFECF8;  border: 1px solid #D7D1ED; }
+  div.header-star {       background-color: #FAECDA;  border: 1px solid #F4CEA1; }
+  div.header-book {       background-color: #FDEAE5;  border: 1px solid #F7CBBE;  }
+  div.header-bookmark {   background-color: #E1F1EE;  border: 1px solid #8BC7BD;  }
+  div.header-templates {  background-color: #EDEDEF;  border: 1px solid #D4D4D7;  }
+
+  div.content-tile-title {
+    font-family: "Public Sans";
+    font-size: 23px;
+    font-weight: 700;
+    color: #0D4F8C;
+    padding:24px 0;
+
+  }
+  div.content-tile p {
+    font-size: 14px;
+    font-weight: 400;
+  }
+  hr {
+  }
+  div.homepage-top-block {
+    padding: 48px 0;
+  }
+  
+</style>
+      <div class="homepage-top-block">
+        <h1 class="page-title">Tips and tools for working better</h1>
+
         <div class="cagov-hero-body-content">
-          <p>Welcome to our innovation hub, a place to learn about our projects and explorations.
-          </p>
-          <div class="wp-block-button">
-            <a class="btn-primary" href="/get-started/">Call to action</a>
-          </div>
+            <p>Find resources from the Office of Data and Innovation (ODI) to help you deliver great services. You’ll find high-level principles, detailed guides, and training. We add and update resources as we partner with state departments.
+            </p>
+            <p>If you want a place to start, we have recommendations for how to use each type of resource.
+            </p>
+            <div class="wp-block-button">
+              <a class="btn-primary" href="/get-started/">Learn how to use the Hub</a>
+            </div>
         </div>
       </div>
-      <div class="m-y-4"><img class="cagov-featured-image vector-bear" src="/img/hero-bear-nature.svg" alt="California bear with abstract shapes" width="1024" height="683"></div>
-    </div>
-  </div>
-</div>
+      {# <div class="m-y-4"><img class="cagov-featured-image vector-bear" src="/img/hero-bear-nature.svg" alt="California bear with abstract shapes" width="1024" height="683"></div> #}
+
+      <br clear="all"/>
+      <hr />
+      <h2>Human-centered design</h2>
+      <div class="cagov-hero-body-content">
+        <p>Create services that are more likely to meet people’s needs</p>
+        <div class="content-grid-wrapper">
+          <a class="tile-link" href="/human-centered-design/innovation-skills-accelerator/">
+            <div class="content-tile">
+              <div class="content-tile-header header-ribbon"><span class="content-title-icon"><svg width="20" height="20" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M28.2234 16.3351C28.2234 20.8768 24.5416 24.5586 19.9999 24.5586C15.4582 24.5586 11.7764 20.8768 11.7764 16.3351C11.7764 11.7933 15.4582 8.11153 19.9999 8.11153C24.5416 8.11153 28.2234 11.7933 28.2234 16.3351ZM19.9999 21.4336C22.8157 21.4336 25.0984 19.1509 25.0984 16.3351C25.0984 13.5192 22.8157 11.2365 19.9999 11.2365C17.1841 11.2365 14.9014 13.5192 14.9014 16.3351C14.9014 19.1509 17.1841 21.4336 19.9999 21.4336Z" fill="#523D9D"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M17.7657 27.5154V21.4335H14.6407V30.326C14.6407 30.8933 14.9482 31.416 15.444 31.6916C15.9399 31.9673 16.5461 31.9525 17.028 31.6531L20.1362 29.7216L23.2444 31.6531C23.7262 31.9525 24.3325 31.9673 24.8283 31.6916C25.3241 31.416 25.6316 30.8933 25.6316 30.326V21.4335H22.5066V27.5154L20.9609 26.5548C20.4559 26.241 19.8165 26.241 19.3115 26.5548L17.7657 27.5154Z" fill="#523D9D"/>
+</svg></span><span class="title-card-header-label">Training</span></div>
+              <div class="content-tile-title">Innovation Skills Accelerator</div>
+              <p>A 15-unit, self-paced course available to all State of California staff
+              </p>
+            </div>
+          </a>
+        </div>
+      </div>
+      <br clear="all"/>
+      <hr />
+      <h2>Content design</h2>
+
+      <div class="cagov-hero-body-content">
+        <p>Write so people can easily understand and take action</p>
+
+        <div class="content-grid-wrapper">
+          <a class="tile-link" href="/content-design/principles/">
+          <div class="content-tile">
+            <div class="content-tile-header header-star"><span class="content-title-icon"><svg width="20" height="20" viewBox="0 0 40 41" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20 9.07618C21.2294 9.07618 22.3445 9.79699 22.8494 10.9179L24.5898 14.7824L28.8029 15.2435C30.025 15.3772 31.0552 16.215 31.4351 17.3842C31.815 18.5535 31.474 19.8368 30.564 20.6633L27.4264 23.5127L28.2899 27.6621C28.5404 28.8657 28.0619 30.1044 27.0673 30.827C26.0727 31.5496 24.7468 31.6219 23.6795 31.0118L20 28.9083L16.3205 31.0118C15.2532 31.6219 13.9273 31.5496 12.9327 30.827C11.9381 30.1044 11.4596 28.8657 11.7101 27.6621L12.5736 23.5127L9.43604 20.6633C8.52596 19.8368 8.18503 18.5535 8.56493 17.3842C8.94483 16.215 9.97496 15.3772 11.197 15.2435L15.4102 14.7824L17.1506 10.9179C17.6555 9.79699 18.7706 9.07618 20 9.07618ZM17.526 17.6946L11.537 18.3499L15.997 22.4004L14.7696 28.2988L20 25.3087L25.2304 28.2988L24.003 22.4004L28.463 18.3499L22.474 17.6946L20 12.2012L17.526 17.6946Z" fill="#A35F0E"/>
+</svg>
+</span><span class="title-card-header-label">Standards and principles</span></div>
+            <div class="content-tile-title">Content design principles</div>
+            <p>ODI’s 7 keys for writing great content, including ways to implement them
+            </p>
+          </div></a>
+
+          <a class="tile-link" href="/content-design/plain-language-equity-standard/">
+          <div class="content-tile">
+            <div class="content-tile-header header-star"><span class="content-title-icon"><svg width="20" height="20" viewBox="0 0 40 41" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20 9.07618C21.2294 9.07618 22.3445 9.79699 22.8494 10.9179L24.5898 14.7824L28.8029 15.2435C30.025 15.3772 31.0552 16.215 31.4351 17.3842C31.815 18.5535 31.474 19.8368 30.564 20.6633L27.4264 23.5127L28.2899 27.6621C28.5404 28.8657 28.0619 30.1044 27.0673 30.827C26.0727 31.5496 24.7468 31.6219 23.6795 31.0118L20 28.9083L16.3205 31.0118C15.2532 31.6219 13.9273 31.5496 12.9327 30.827C11.9381 30.1044 11.4596 28.8657 11.7101 27.6621L12.5736 23.5127L9.43604 20.6633C8.52596 19.8368 8.18503 18.5535 8.56493 17.3842C8.94483 16.215 9.97496 15.3772 11.197 15.2435L15.4102 14.7824L17.1506 10.9179C17.6555 9.79699 18.7706 9.07618 20 9.07618ZM17.526 17.6946L11.537 18.3499L15.997 22.4004L14.7696 28.2988L20 25.3087L25.2304 28.2988L24.003 22.4004L28.463 18.3499L22.474 17.6946L20 12.2012L17.526 17.6946Z" fill="#A35F0E"/>
+</svg></span><span class="title-card-header-label">Standards and principles</span></div>
+            <div class="content-tile-title">Plain language equity standard</div>
+            <p>Our recommendations for how to help everyone understand content
+            </p>
+          </div></a>
+
+          <a class="tile-link" href="/content-design/odi-style-guide/">
+            <div class="content-tile">
+            <div class="content-tile-header header-book"><span class="content-title-icon"><svg width="20" height="20" viewBox="0 0 40 41" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M25.86 27.3423C25.86 27.7466 25.5318 28.0748 25.1275 28.0748H14.8728C14.4685 28.0748 14.1404 27.7466 14.1404 27.3423V14.1577C14.1404 13.7534 14.4685 13.4252 14.8728 13.4252H20.0002V16.3551C20.0002 17.1609 20.6594 17.8201 21.4651 17.8201H25.86V27.3423ZM27.9314 15.4967L23.7885 11.3538C23.2392 10.8044 22.4935 10.4953 21.7156 10.4953H14.8728C12.8541 10.4953 11.2104 12.1375 11.2104 14.1577V27.3423C11.2104 29.3625 12.8541 31.0047 14.8728 31.0047H25.1275C27.1462 31.0047 28.7899 29.3625 28.7899 27.3423V17.5681C28.7899 16.7917 28.4808 16.046 27.9314 15.4967Z" fill="#165AC2"/>
+</svg>
+</span><span class="title-card-header-label">Guides and playbooks</span></div>
+            <div class="content-tile-title">ODI’s style guide</div>
+            <p>How we keep our writing consistent, including the reasons for our choices
+            </p>
+          </div></a>
+
+          <a class="tile-link" href="/content-design/plain-language-checklist/"><div class="content-tile">
+            <div class="content-tile-header header-book"><span class="content-title-icon"><svg width="20" height="20" viewBox="0 0 40 41" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M25.86 27.3423C25.86 27.7466 25.5318 28.0748 25.1275 28.0748H14.8728C14.4685 28.0748 14.1404 27.7466 14.1404 27.3423V14.1577C14.1404 13.7534 14.4685 13.4252 14.8728 13.4252H20.0002V16.3551C20.0002 17.1609 20.6594 17.8201 21.4651 17.8201H25.86V27.3423ZM27.9314 15.4967L23.7885 11.3538C23.2392 10.8044 22.4935 10.4953 21.7156 10.4953H14.8728C12.8541 10.4953 11.2104 12.1375 11.2104 14.1577V27.3423C11.2104 29.3625 12.8541 31.0047 14.8728 31.0047H25.1275C27.1462 31.0047 28.7899 29.3625 28.7899 27.3423V17.5681C28.7899 16.7917 28.4808 16.046 27.9314 15.4967Z" fill="#165AC2"/>
+</svg></span><span class="title-card-header-label">Guides and playbooks</span></div>
+            <div class="content-tile-title">Plain language checklist</div>
+            <p>Our detailed guide for making sure content is in plain language
+            </p>
+          </div></a>
+
+          <a class="tile-link" href="/content-design/recommended-reading/"><div class="content-tile">
+            <div class="content-tile-header header-bookmark"><span class="content-title-icon"><svg width="20" height="20" viewBox="0 0 40 41" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M24 13.25H16V25.1578L18.6431 23.4497C19.469 22.916 20.531 22.916 21.3569 23.4497L24 25.1578V13.25ZM26.5 29.75L20 25.5494L13.5 29.75V11.8676C13.5 11.254 14.0216 10.75 14.6659 10.75H25.3275C25.9652 10.75 26.4934 11.254 26.4934 11.8676H26.5V29.75Z" fill="#006C58"/>
+</svg>
+</span><span class="title-card-header-label">Recommended reading</span></div>
+            <div class="content-tile-title">Recommended reading: content design</div>
+            <p>Articles, guides, and tools to learn more about content design
+            </p>
+          </div></a>
+        </div>
+      </div>
+      <br clear="all"/>
+      <hr />
+      <h2>Product management</h2>
+      <div class="cagov-hero-body-content">
+        <p>Focus on outcomes, iterate, and adapt to new evidence to solve people's needs
+        </p>
+
+        <div class="content-grid-wrapper">
+          <a class="tile-link" href="/product-management/run-of-show/"><div class="content-tile">
+            <div class="content-tile-header header-templates"><span class="content-title-icon"><svg width="20" height="20" viewBox="0 0 40 41" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12.2034 12.3538C10.8227 12.3538 9.70337 13.473 9.70337 14.8538V26.6462C9.70337 28.0269 10.8227 29.1462 12.2034 29.1462H27.7963C29.177 29.1462 30.2963 28.0269 30.2963 26.6462V14.8538C30.2963 13.473 29.177 12.3538 27.7963 12.3538H12.2034ZM12.2034 14.8538H27.7963V18.2919H12.2034V14.8538ZM12.2034 20.7919V26.6462H15.8691V20.7919H12.2034ZM21.6309 26.6462H18.3691V20.7919H21.6309V26.6462ZM24.1309 26.6462H27.7963V20.7919H24.1309V26.6462Z" fill="#5E5E6A"/>
+</svg>
+</span><span class="title-card-header-label">Templates</span></div>
+            <div class="content-tile-title">Run-of-show</div>
+            <p>How to keep things organized in the lead up to a launch, announcement, or update
+            </p>
+          </div></a>
+          <a class="tile-link" href="/product-management/product-craft-accessibility/">
+          <div class="content-tile">
+            <div class="content-tile-header header-bookmark"><span class="content-title-icon"><svg width="20" height="20" viewBox="0 0 40 41" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M24 13.25H16V25.1578L18.6431 23.4497C19.469 22.916 20.531 22.916 21.3569 23.4497L24 25.1578V13.25ZM26.5 29.75L20 25.5494L13.5 29.75V11.8676C13.5 11.254 14.0216 10.75 14.6659 10.75H25.3275C25.9652 10.75 26.4934 11.254 26.4934 11.8676H26.5V29.75Z" fill="#006C58"/>
+</svg></span><span class="title-card-header-label">Recommended reading</span></div>
+            <div class="content-tile-title">Product craft: accessibility</div>
+            <p>Videos, guides, and presentations about how to help everyone access information
+            </p>
+          </div></a>
+        </div>
+      </div>
+      <br clear="all"/>
 
 
