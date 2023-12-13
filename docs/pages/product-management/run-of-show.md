@@ -19,8 +19,11 @@ You can use a run-of-show for:
 
 ## Example
 
+The first row gives guidance for each column. The other rows are examples of what a run-of-show could look like.
+
 | **Date and time** | **Description** | **Page** | **Responsible** | **Approver** | **Notes and questions** | **Status** |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| *Kept in strict, accurate sequence* | *Clearly identify the task or element* | *Can be a URL or other identifier* | *The person who will do this* | *The person who has final approval* | *As needed* | *Varies with project, may include Open, In progress, On hold, In staging, Live or published, Closed (reviewed, no work needed), Done* |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
