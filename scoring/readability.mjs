@@ -79,4 +79,4 @@ pageList.forEach(page => {
 });
 
 // console.log(JSON.stringify(parScores));
-fs.writeFileSync('./pages/_data/readability.json',JSON.stringify(parScores),'utf8')
+fs.writeFileSync('./docs/site/_data/readability.json',JSON.stringify(parScores),'utf8')

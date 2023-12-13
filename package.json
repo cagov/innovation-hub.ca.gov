@@ -7,6 +7,7 @@
     "component-audit": "node docs/src/js/component-audit.js",
     "build": "echo \"WARN: no build specified\" && exit 0",
     "dev": "npm run site:dev",
+    "readability": "node scoring/readability.mjs",
     "format:eslint": "eslint --ext .js,.html . --fix --ignore-path .gitignore",
     "format:prettier": "prettier \"**/*.js\" --write --ignore-path .gitignore",
     "format": "npm run format:eslint && npm run format:prettier",
@@ -21,7 +22,7 @@
     "site:start": "npm run site:watch",
     "site:watch:dev": "cross-env NODE_ENV=development eleventy --serve --incremental",
     "site:watch": "eleventy --serve",
-    "start": "npm run site:start",
+    "start": "npm run readability && npm run site:start",
     "test:serve": "npm run site:build && npx http-server _site/",
     "test:setup": "npx playwright install-deps chromium && npx playwright install",
     "test:site": "npx playwright test test/index.spec.mjs",
@@ -71,6 +72,7 @@
     "markdown-it": "^13.0.1",
     "markdown-it-anchor": "^8.6.4",
     "sharp": "^0.30.5",
+    "html-to-text": "^9.0.5",
     "readability-scores": "^1.0.8"
   }
 }
