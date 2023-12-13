@@ -25,13 +25,17 @@ description: This system makes it easy to build digital services that meet the n
     font-size: 14px;
     border: 1px solid ;
     font-weight: 400;
-    height: 34px;
+    height: 33px;
     {# padding-left:24px; #}
     padding-right:12px;
     padding-top:6px;
     border-radius:8px;
     display: inline-block;
     position: relative;
+  }
+  span.content-title-icon {
+    padding-left: 4px;
+    padding-right: 6px;
   }
   span.title-card-header-label {
     vertical-align:top;
@@ -85,9 +89,9 @@ description: This system makes it easy to build digital services that meet the n
         <div class="content-grid-wrapper">
           <a class="tile-link" href="/human-centered-design/innovation-skills-accelerator/">
             <div class="content-tile">
-              <div class="content-tile-header header-ribbon"><span class="content-title-icon"><svg width="20" height="20" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M28.2234 16.3351C28.2234 20.8768 24.5416 24.5586 19.9999 24.5586C15.4582 24.5586 11.7764 20.8768 11.7764 16.3351C11.7764 11.7933 15.4582 8.11153 19.9999 8.11153C24.5416 8.11153 28.2234 11.7933 28.2234 16.3351ZM19.9999 21.4336C22.8157 21.4336 25.0984 19.1509 25.0984 16.3351C25.0984 13.5192 22.8157 11.2365 19.9999 11.2365C17.1841 11.2365 14.9014 13.5192 14.9014 16.3351C14.9014 19.1509 17.1841 21.4336 19.9999 21.4336Z" fill="#523D9D"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M17.7657 27.5154V21.4335H14.6407V30.326C14.6407 30.8933 14.9482 31.416 15.444 31.6916C15.9399 31.9673 16.5461 31.9525 17.028 31.6531L20.1362 29.7216L23.2444 31.6531C23.7262 31.9525 24.3325 31.9673 24.8283 31.6916C25.3241 31.416 25.6316 30.8933 25.6316 30.326V21.4335H22.5066V27.5154L20.9609 26.5548C20.4559 26.241 19.8165 26.241 19.3115 26.5548L17.7657 27.5154Z" fill="#523D9D"/>
+              <div class="content-tile-header header-ribbon"><span class="content-title-icon"><svg width="20" height="20" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20.7234 8.83506C20.7234 13.3768 17.0416 17.0586 12.4999 17.0586C7.95817 17.0586 4.27637 13.3768 4.27637 8.83506C4.27637 4.29333 7.95817 0.611526 12.4999 0.611526C17.0416 0.611526 20.7234 4.29333 20.7234 8.83506ZM12.4999 13.9336C15.3157 13.9336 17.5984 11.6509 17.5984 8.83506C17.5984 6.01922 15.3157 3.73653 12.4999 3.73653C9.68406 3.73653 7.40137 6.01922 7.40137 8.83506C7.40137 11.6509 9.68406 13.9336 12.4999 13.9336Z" fill="#523D9D"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10.2657 20.0154V13.9335H7.14075V22.826C7.14075 23.3933 7.44822 23.916 7.94404 24.1916C8.43985 24.4673 9.04612 24.4525 9.52795 24.1531L12.6362 22.2216L15.7444 24.1531C16.2262 24.4525 16.8325 24.4673 17.3283 24.1916C17.8241 23.916 18.1316 23.3933 18.1316 22.826V13.9335H15.0066V20.0154L13.4609 19.0548C12.9559 18.741 12.3165 18.741 11.8115 19.0548L10.2657 20.0154Z" fill="#523D9D"/>
 </svg></span><span class="title-card-header-label">Training</span></div>
               <div class="content-tile-title">Innovation Skills Accelerator</div>
               <p>A 15-unit, self-paced course available to all State of California staff
@@ -106,10 +110,9 @@ description: This system makes it easy to build digital services that meet the n
         <div class="content-grid-wrapper">
           <a class="tile-link" href="/content-design/principles/">
           <div class="content-tile">
-            <div class="content-tile-header header-star"><span class="content-title-icon"><svg width="20" height="20" viewBox="0 0 40 41" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M20 9.07618C21.2294 9.07618 22.3445 9.79699 22.8494 10.9179L24.5898 14.7824L28.8029 15.2435C30.025 15.3772 31.0552 16.215 31.4351 17.3842C31.815 18.5535 31.474 19.8368 30.564 20.6633L27.4264 23.5127L28.2899 27.6621C28.5404 28.8657 28.0619 30.1044 27.0673 30.827C26.0727 31.5496 24.7468 31.6219 23.6795 31.0118L20 28.9083L16.3205 31.0118C15.2532 31.6219 13.9273 31.5496 12.9327 30.827C11.9381 30.1044 11.4596 28.8657 11.7101 27.6621L12.5736 23.5127L9.43604 20.6633C8.52596 19.8368 8.18503 18.5535 8.56493 17.3842C8.94483 16.215 9.97496 15.3772 11.197 15.2435L15.4102 14.7824L17.1506 10.9179C17.6555 9.79699 18.7706 9.07618 20 9.07618ZM17.526 17.6946L11.537 18.3499L15.997 22.4004L14.7696 28.2988L20 25.3087L25.2304 28.2988L24.003 22.4004L28.463 18.3499L22.474 17.6946L20 12.2012L17.526 17.6946Z" fill="#A35F0E"/>
-</svg>
-</span><span class="title-card-header-label">Standards and principles</span></div>
+            <div class="content-tile-header header-star"><span class="content-title-icon"><svg width="20" height="20.8" viewBox="0 0 25 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12.5002 1.57619C13.7296 1.57619 14.8448 2.297 15.3496 3.41795L17.09 7.28244L21.3032 7.74347C22.5253 7.8772 23.5554 8.71504 23.9353 9.88425C24.3152 11.0535 23.9743 12.3368 23.0642 13.1633L19.9267 16.0127L20.7901 20.1621C21.0406 21.3657 20.5621 22.6044 19.5675 23.327C18.5729 24.0496 17.247 24.1219 16.1798 23.5118L12.5002 21.4083L8.82073 23.5118C7.75343 24.1219 6.42757 24.0496 5.43298 23.327C4.43839 22.6044 3.95989 21.3657 4.21035 20.1621L5.07382 16.0127L1.93629 13.1633C1.0262 12.3368 0.685272 11.0535 1.06517 9.88425C1.44507 8.71504 2.47521 7.8772 3.69729 7.74347L7.91046 7.28244L9.65087 3.41795C10.1557 2.297 11.2709 1.57619 12.5002 1.57619ZM10.0262 10.1946L4.03722 10.8499L8.49723 14.9004L7.26981 20.7988L12.5002 17.8087L17.7307 20.7988L16.5032 14.9004L20.9633 10.8499L14.9742 10.1946L12.5002 4.70119L10.0262 10.1946Z" fill="#A35F0E"/>
+</svg></span><span class="title-card-header-label">Standards and principles</span></div>
             <div class="content-tile-title">Content design principles</div>
             <p>ODI’s 7 keys for writing great content, including ways to implement them
             </p>
@@ -117,8 +120,8 @@ description: This system makes it easy to build digital services that meet the n
 
           <a class="tile-link" href="/content-design/plain-language-equity-standard/">
           <div class="content-tile">
-            <div class="content-tile-header header-star"><span class="content-title-icon"><svg width="20" height="20" viewBox="0 0 40 41" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M20 9.07618C21.2294 9.07618 22.3445 9.79699 22.8494 10.9179L24.5898 14.7824L28.8029 15.2435C30.025 15.3772 31.0552 16.215 31.4351 17.3842C31.815 18.5535 31.474 19.8368 30.564 20.6633L27.4264 23.5127L28.2899 27.6621C28.5404 28.8657 28.0619 30.1044 27.0673 30.827C26.0727 31.5496 24.7468 31.6219 23.6795 31.0118L20 28.9083L16.3205 31.0118C15.2532 31.6219 13.9273 31.5496 12.9327 30.827C11.9381 30.1044 11.4596 28.8657 11.7101 27.6621L12.5736 23.5127L9.43604 20.6633C8.52596 19.8368 8.18503 18.5535 8.56493 17.3842C8.94483 16.215 9.97496 15.3772 11.197 15.2435L15.4102 14.7824L17.1506 10.9179C17.6555 9.79699 18.7706 9.07618 20 9.07618ZM17.526 17.6946L11.537 18.3499L15.997 22.4004L14.7696 28.2988L20 25.3087L25.2304 28.2988L24.003 22.4004L28.463 18.3499L22.474 17.6946L20 12.2012L17.526 17.6946Z" fill="#A35F0E"/>
+            <div class="content-tile-header header-star"><span class="content-title-icon"><svg width="20" height="20.8" viewBox="0 0 25 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12.5002 1.57619C13.7296 1.57619 14.8448 2.297 15.3496 3.41795L17.09 7.28244L21.3032 7.74347C22.5253 7.8772 23.5554 8.71504 23.9353 9.88425C24.3152 11.0535 23.9743 12.3368 23.0642 13.1633L19.9267 16.0127L20.7901 20.1621C21.0406 21.3657 20.5621 22.6044 19.5675 23.327C18.5729 24.0496 17.247 24.1219 16.1798 23.5118L12.5002 21.4083L8.82073 23.5118C7.75343 24.1219 6.42757 24.0496 5.43298 23.327C4.43839 22.6044 3.95989 21.3657 4.21035 20.1621L5.07382 16.0127L1.93629 13.1633C1.0262 12.3368 0.685272 11.0535 1.06517 9.88425C1.44507 8.71504 2.47521 7.8772 3.69729 7.74347L7.91046 7.28244L9.65087 3.41795C10.1557 2.297 11.2709 1.57619 12.5002 1.57619ZM10.0262 10.1946L4.03722 10.8499L8.49723 14.9004L7.26981 20.7988L12.5002 17.8087L17.7307 20.7988L16.5032 14.9004L20.9633 10.8499L14.9742 10.1946L12.5002 4.70119L10.0262 10.1946Z" fill="#A35F0E"/>
 </svg></span><span class="title-card-header-label">Standards and principles</span></div>
             <div class="content-tile-title">Plain language equity standard</div>
             <p>Our recommendations for how to help everyone understand content
@@ -127,18 +130,17 @@ description: This system makes it easy to build digital services that meet the n
 
           <a class="tile-link" href="/content-design/odi-style-guide/">
             <div class="content-tile">
-            <div class="content-tile-header header-book"><span class="content-title-icon"><svg width="20" height="20" viewBox="0 0 40 41" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M25.86 27.3423C25.86 27.7466 25.5318 28.0748 25.1275 28.0748H14.8728C14.4685 28.0748 14.1404 27.7466 14.1404 27.3423V14.1577C14.1404 13.7534 14.4685 13.4252 14.8728 13.4252H20.0002V16.3551C20.0002 17.1609 20.6594 17.8201 21.4651 17.8201H25.86V27.3423ZM27.9314 15.4967L23.7885 11.3538C23.2392 10.8044 22.4935 10.4953 21.7156 10.4953H14.8728C12.8541 10.4953 11.2104 12.1375 11.2104 14.1577V27.3423C11.2104 29.3625 12.8541 31.0047 14.8728 31.0047H25.1275C27.1462 31.0047 28.7899 29.3625 28.7899 27.3423V17.5681C28.7899 16.7917 28.4808 16.046 27.9314 15.4967Z" fill="#165AC2"/>
-</svg>
-</span><span class="title-card-header-label">Guides and playbooks</span></div>
+            <div class="content-tile-header header-book"><span class="content-title-icon"><svg width="20" height="20" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M2.78375 3.93865C5.96266 3.54334 9.31679 4.12205 12.5039 5.61776C15.6828 4.12205 19.041 3.54332 22.2199 3.93865L22.8394 4.01609V19.4134L22.0446 19.3156C19.0328 18.9406 15.8458 19.5234 12.8217 21.0069L12.781 21.0273L12.5283 21.1781L12.4998 21.1658L12.4631 21.1822L12.2023 21.0191L12.1819 21.011C9.15788 19.5275 5.97082 18.9447 2.95493 19.3196L2.1602 19.4174V4.01607L2.78375 3.93863V3.93865ZM11.7947 6.8445C9.10082 5.60147 6.2724 5.05944 3.57848 5.27543V17.828C6.27646 17.6324 9.10079 18.1296 11.7947 19.2708V6.84452V6.8445ZM13.2089 6.8445V19.2707C15.5279 18.2845 17.8917 17.7873 20.2474 17.7873C20.6427 17.7873 21.038 17.8036 21.4252 17.8321V5.27951C18.7313 5.05944 15.8988 5.60147 13.2089 6.8445Z" fill="#C24629" stroke="#C24629" stroke-width="1.25" stroke-linejoin="round"/>
+</svg></span><span class="title-card-header-label">Guides and playbooks</span></div>
             <div class="content-tile-title">ODI’s style guide</div>
             <p>How we keep our writing consistent, including the reasons for our choices
             </p>
           </div></a>
 
           <a class="tile-link" href="/content-design/plain-language-checklist/"><div class="content-tile">
-            <div class="content-tile-header header-book"><span class="content-title-icon"><svg width="20" height="20" viewBox="0 0 40 41" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M25.86 27.3423C25.86 27.7466 25.5318 28.0748 25.1275 28.0748H14.8728C14.4685 28.0748 14.1404 27.7466 14.1404 27.3423V14.1577C14.1404 13.7534 14.4685 13.4252 14.8728 13.4252H20.0002V16.3551C20.0002 17.1609 20.6594 17.8201 21.4651 17.8201H25.86V27.3423ZM27.9314 15.4967L23.7885 11.3538C23.2392 10.8044 22.4935 10.4953 21.7156 10.4953H14.8728C12.8541 10.4953 11.2104 12.1375 11.2104 14.1577V27.3423C11.2104 29.3625 12.8541 31.0047 14.8728 31.0047H25.1275C27.1462 31.0047 28.7899 29.3625 28.7899 27.3423V17.5681C28.7899 16.7917 28.4808 16.046 27.9314 15.4967Z" fill="#165AC2"/>
+            <div class="content-tile-header header-book"><span class="content-title-icon"><svg width="20" height="20" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M2.78375 3.93865C5.96266 3.54334 9.31679 4.12205 12.5039 5.61776C15.6828 4.12205 19.041 3.54332 22.2199 3.93865L22.8394 4.01609V19.4134L22.0446 19.3156C19.0328 18.9406 15.8458 19.5234 12.8217 21.0069L12.781 21.0273L12.5283 21.1781L12.4998 21.1658L12.4631 21.1822L12.2023 21.0191L12.1819 21.011C9.15788 19.5275 5.97082 18.9447 2.95493 19.3196L2.1602 19.4174V4.01607L2.78375 3.93863V3.93865ZM11.7947 6.8445C9.10082 5.60147 6.2724 5.05944 3.57848 5.27543V17.828C6.27646 17.6324 9.10079 18.1296 11.7947 19.2708V6.84452V6.8445ZM13.2089 6.8445V19.2707C15.5279 18.2845 17.8917 17.7873 20.2474 17.7873C20.6427 17.7873 21.038 17.8036 21.4252 17.8321V5.27951C18.7313 5.05944 15.8988 5.60147 13.2089 6.8445Z" fill="#C24629" stroke="#C24629" stroke-width="1.25" stroke-linejoin="round"/>
 </svg></span><span class="title-card-header-label">Guides and playbooks</span></div>
             <div class="content-tile-title">Plain language checklist</div>
             <p>Our detailed guide for making sure content is in plain language
@@ -146,10 +148,9 @@ description: This system makes it easy to build digital services that meet the n
           </div></a>
 
           <a class="tile-link" href="/content-design/recommended-reading/"><div class="content-tile">
-            <div class="content-tile-header header-bookmark"><span class="content-title-icon"><svg width="20" height="20" viewBox="0 0 40 41" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M24 13.25H16V25.1578L18.6431 23.4497C19.469 22.916 20.531 22.916 21.3569 23.4497L24 25.1578V13.25ZM26.5 29.75L20 25.5494L13.5 29.75V11.8676C13.5 11.254 14.0216 10.75 14.6659 10.75H25.3275C25.9652 10.75 26.4934 11.254 26.4934 11.8676H26.5V29.75Z" fill="#006C58"/>
-</svg>
-</span><span class="title-card-header-label">Recommended reading</span></div>
+            <div class="content-tile-header header-bookmark"><span class="content-title-icon"><svg width="20" height="20.8" viewBox="0 0 25 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M16.5 5.75H8.5V17.6578L11.1431 15.9497C11.969 15.416 13.031 15.416 13.8569 15.9497L16.5 17.6578V5.75ZM19 22.25L12.5 18.0494L6 22.25V4.36765C6 3.75404 6.52165 3.25 7.16589 3.25H17.8275C18.4652 3.25 18.9934 3.75404 18.9934 4.36765H19V22.25Z" fill="#006C58"/>
+</svg></span><span class="title-card-header-label">Recommended reading</span></div>
             <div class="content-tile-title">Recommended reading: content design</div>
             <p>Articles, guides, and tools to learn more about content design
             </p>
@@ -165,18 +166,17 @@ description: This system makes it easy to build digital services that meet the n
 
         <div class="content-grid-wrapper">
           <a class="tile-link" href="/product-management/run-of-show/"><div class="content-tile">
-            <div class="content-tile-header header-templates"><span class="content-title-icon"><svg width="20" height="20" viewBox="0 0 40 41" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M12.2034 12.3538C10.8227 12.3538 9.70337 13.473 9.70337 14.8538V26.6462C9.70337 28.0269 10.8227 29.1462 12.2034 29.1462H27.7963C29.177 29.1462 30.2963 28.0269 30.2963 26.6462V14.8538C30.2963 13.473 29.177 12.3538 27.7963 12.3538H12.2034ZM12.2034 14.8538H27.7963V18.2919H12.2034V14.8538ZM12.2034 20.7919V26.6462H15.8691V20.7919H12.2034ZM21.6309 26.6462H18.3691V20.7919H21.6309V26.6462ZM24.1309 26.6462H27.7963V20.7919H24.1309V26.6462Z" fill="#5E5E6A"/>
-</svg>
-</span><span class="title-card-header-label">Templates</span></div>
+            <div class="content-tile-header header-templates"><span class="content-title-icon"><svg width="20" height="20.8" viewBox="0 0 25 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4.70361 4.85376C3.3229 4.85376 2.20361 5.97305 2.20361 7.35376V19.1462C2.20361 20.5269 3.3229 21.6462 4.70361 21.6462H20.2965C21.6772 21.6462 22.7965 20.5269 22.7965 19.1462V7.35376C22.7965 5.97305 21.6772 4.85376 20.2965 4.85376H4.70361ZM4.70361 7.35376H20.2965V10.7919H4.70361V7.35376ZM4.70361 13.2919V19.1462H8.36938V13.2919H4.70361ZM14.1311 19.1462H10.8694V13.2919H14.1311V19.1462ZM16.6311 19.1462H20.2965V13.2919H16.6311V19.1462Z" fill="#5E5E6A"/>
+</svg></span><span class="title-card-header-label">Templates</span></div>
             <div class="content-tile-title">Run-of-show</div>
             <p>How to keep things organized in the lead up to a launch, announcement, or update
             </p>
           </div></a>
           <a class="tile-link" href="/product-management/product-craft-accessibility/">
           <div class="content-tile">
-            <div class="content-tile-header header-bookmark"><span class="content-title-icon"><svg width="20" height="20" viewBox="0 0 40 41" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M24 13.25H16V25.1578L18.6431 23.4497C19.469 22.916 20.531 22.916 21.3569 23.4497L24 25.1578V13.25ZM26.5 29.75L20 25.5494L13.5 29.75V11.8676C13.5 11.254 14.0216 10.75 14.6659 10.75H25.3275C25.9652 10.75 26.4934 11.254 26.4934 11.8676H26.5V29.75Z" fill="#006C58"/>
+            <div class="content-tile-header header-bookmark"><span class="content-title-icon"><svg width="20" height="20.8" viewBox="0 0 25 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M16.5 5.75H8.5V17.6578L11.1431 15.9497C11.969 15.416 13.031 15.416 13.8569 15.9497L16.5 17.6578V5.75ZM19 22.25L12.5 18.0494L6 22.25V4.36765C6 3.75404 6.52165 3.25 7.16589 3.25H17.8275C18.4652 3.25 18.9934 3.75404 18.9934 4.36765H19V22.25Z" fill="#006C58"/>
 </svg></span><span class="title-card-header-label">Recommended reading</span></div>
             <div class="content-tile-title">Product craft: accessibility</div>
             <p>Videos, guides, and presentations about how to help everyone access information
