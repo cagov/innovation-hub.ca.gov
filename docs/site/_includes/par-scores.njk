@@ -16,12 +16,14 @@
         </span>
         <a href="/page-score-info/#accessibility">Why is accessibility important</a>
       </span>
+    {% if readability[page.url].readability.ari %}
       <span class="page-score-details">
         <span class="page-score-block p-a-2">
-          <span data-ari-score="{{readability[page.url].readability.ari}}" class="speedlify-score {{ 50 | getScoreColor }}">50</span>
+          <span data-ari-score="{{readability[page.url].readability.ari}}" class="speedlify-score {{ readability[page.url].readability.ari | calculateReadabilityGrade | getScoreColor }}">{{ readability[page.url].readability.ari | calculateReadabilityGrade }}</span>
           <span>Readability</span>
         </span>
         <a href="/page-score-info/#readability">Why is readability important</a>
       </span>
+    {% endif %}
   </div>
 </div>
