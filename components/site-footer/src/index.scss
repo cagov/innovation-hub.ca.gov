@@ -13,7 +13,7 @@ section.site-footer {
 	}
 
 	a {
-		color: var(--primary-700, #165ac2);
+		color: var(--primary-700, #0D4F8C);
 		&:hover {
 			color: var(--primary-900, #00315F);
 		}
@@ -51,7 +51,7 @@ section.site-footer {
 			padding-left: 0.3rem;
 			transition: all 0.3s ease;
 			svg path {
-				fill: var(--primary-700, #165ac2);
+				fill: var(--primary-700, #0D4F8C);
 			}
 			&:hover {
 				svg path {

@@ -111,7 +111,7 @@ $mobile-min: 767px;
     background: transparent;
     overflow: visible;
     padding: 10px;
-    color: var(--primary-700, #165ac2);
+    color: var(--primary-700, #0D4F8C);
 
     &:hover {
       color: var(--primary-900, #00315F);
@@ -130,7 +130,7 @@ $mobile-min: 767px;
     }
 
     .blue {
-      fill: var(--primary-700, #165ac2);
+      fill: var(--primary-700, #0D4F8C);
     }
   }
 
@@ -142,7 +142,7 @@ $mobile-min: 767px;
     display: inline-block;
     cursor: pointer;
     position: relative;
-    color: var(--primary-700, #165ac2);
+    color: var(--primary-700, #0D4F8C);
     display: flex;
     align-items: center;
     .is-fixed {
@@ -163,7 +163,7 @@ $mobile-min: 767px;
       }
     }
     .hamburger-inner {
-      background-color: var(--primary-700, #165ac2);
+      background-color: var(--primary-700, #0D4F8C);
     }
 
     &:hover {

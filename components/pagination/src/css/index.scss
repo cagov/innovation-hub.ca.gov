@@ -12,7 +12,7 @@ cagov-pagination {
     a {
       padding: 0.75rem 0.875rem;
       display: inline-block;
-      color: var(--primary-700, #165ac2);
+      color: var(--primary-700, #0D4F8C);
       text-decoration: none;
       &:hover {
         color: var(--primary-900, #00315F);
@@ -31,7 +31,7 @@ cagov-pagination {
 
     &.cagov-pagination-current {
       background-color: #165ac2;
-      background-color: var(--primary-700, #165ac2);
+      background-color: var(--primary-700, #0D4F8C);
       a {
         color: var(--white, #ffffff);
         &:hover {

@@ -13,7 +13,7 @@ cagov-accordion details summary {
   position: relative;
   line-height: var(--s-4, 2rem);
   margin: 0;
-  color: var(--primary-700, #165ac2);
+  color: var(--primary-700, #0D4F8C);
   font-size: var(--font-size-2, 1.125rem);
   font-weight: bold;
 }
@@ -50,7 +50,7 @@ cagov-accordion:defined details summary:focus {
   background-color: var(--gray-100, #fafafa);
 }
 cagov-accordion:defined details .cagov-open-indicator {
-  background-color: var(--primary-700, #165ac2);
+  background-color: var(--primary-700, #0D4F8C);
   height: 3px;
   width: 15px;
   border-radius: var(--border-3, 3px);
@@ -68,7 +68,7 @@ cagov-accordion:defined details .cagov-open-indicator:before {
   height: 15px;
   border-radius: var(--border-3, 3px);
   border: none;
-  box-shadow: 3px 0 0 0 var(--primary-700, #165ac2);
+  box-shadow: 3px 0 0 0 var(--primary-700, #0D4F8C);
   background: none;
 }
 cagov-accordion:defined details[open] .cagov-open-indicator:before {

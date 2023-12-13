@@ -4,7 +4,7 @@
   --primary-100: #e7eef9;
   --primary-300: #a3bee7;
   --primary-500: #5a8ad4;
-  --primary-700: #165ac2;
+  --primary-700: #0D4F8C;
   --primary-900: #003688;
   --accent1-100: #ffead6;
   --accent1-300: #ffa656;
@@ -2662,7 +2662,7 @@ main .wp-block-image img {
 .wp-block-button__link {
   background-color: #33705b;
   /* defined here for when css vars are not supported */
-  background-color: var(--primary-700, #165ac2);
+  background-color: var(--primary-700, #0D4F8C);
   color: white;
   padding: 0.5556rem;
   margin: 0 0 1rem 0;
@@ -3232,7 +3232,7 @@ input:focus {
 /* input, textarea, select generic styles */
 /* Links global styles */
 a {
-  color: var(--primary-700, #165ac2);
+  color: var(--primary-700, #0D4F8C);
   text-decoration: underline;
 }
 a:hover {
@@ -3280,7 +3280,7 @@ button:focus {
     font-weight: 700;
     font-size: calc(1rem + var(--ratio));
     line-height: 1.125rem;
-    color: var(--primary-700, #165ac2);
+    color: var(--primary-700, #0D4F8C);
   }
   .breadcrumb span.crumb:not(:last-child):not([class*=separator]) {
     padding: 0;
@@ -6287,7 +6287,7 @@ cagov-accordion details summary {
   position: relative;
   line-height: var(--s-4, 2rem);
   margin: 0;
-  color: var(--primary-700, #165ac2);
+  color: var(--primary-700, #0D4F8C);
   font-size: var(--font-size-2, 1.125rem);
   font-weight: bold;
 }
@@ -6324,7 +6324,7 @@ cagov-accordion:defined details summary:focus {
   background-color: var(--gray-100, #fafafa);
 }
 cagov-accordion:defined details .cagov-open-indicator {
-  background-color: var(--primary-700, #165ac2);
+  background-color: var(--primary-700, #0D4F8C);
   height: 3px;
   width: 15px;
   border-radius: var(--border-3, 3px);
@@ -6342,7 +6342,7 @@ cagov-accordion:defined details .cagov-open-indicator:before {
   height: 15px;
   border-radius: var(--border-3, 3px);
   border: none;
-  box-shadow: 3px 0 0 0 var(--primary-700, #165ac2);
+  box-shadow: 3px 0 0 0 var(--primary-700, #0D4F8C);
   background: none;
 }
 cagov-accordion:defined details[open] .cagov-open-indicator:before {
@@ -6363,7 +6363,7 @@ section.site-footer .container {
   padding: 16px;
 }
 section.site-footer a {
-  color: var(--primary-700, #165ac2);
+  color: var(--primary-700, #0D4F8C);
 }
 section.site-footer a:hover {
   color: var(--primary-900, #00315F);
@@ -6400,7 +6400,7 @@ section.site-footer .footer-social-links a {
   transition: all 0.3s ease;
 }
 section.site-footer .footer-social-links a svg path {
-  fill: var(--primary-700, #165ac2);
+  fill: var(--primary-700, #0D4F8C);
 }
 section.site-footer .footer-social-links a:hover svg path {
   fill: var(--primary-900, #00315F);
@@ -6581,7 +6581,7 @@ cagov-back-to-top .back-to-top.is-visible {
   background: transparent;
   overflow: visible;
   padding: 10px;
-  color: var(--primary-700, #165ac2);
+  color: var(--primary-700, #0D4F8C);
 }
 .site-header button.search-btn:hover,
 .site-header button.menu-btn:hover {
@@ -6602,7 +6602,7 @@ cagov-back-to-top .back-to-top.is-visible {
 }
 .site-header button.search-btn .blue,
 .site-header button.menu-btn .blue {
-  fill: var(--primary-700, #165ac2);
+  fill: var(--primary-700, #0D4F8C);
 }
 .site-header .menu-trigger {
   padding: 0 !important;
@@ -6612,7 +6612,7 @@ cagov-back-to-top .back-to-top.is-visible {
   display: inline-block;
   cursor: pointer;
   position: relative;
-  color: var(--primary-700, #165ac2);
+  color: var(--primary-700, #0D4F8C);
   display: flex;
   align-items: center;
   right: 0;
@@ -6623,7 +6623,7 @@ cagov-back-to-top .back-to-top.is-visible {
   position: fixed;
 }
 .site-header .menu-trigger .hamburger-inner {
-  background-color: var(--primary-700, #165ac2);
+  background-color: var(--primary-700, #0D4F8C);
 }
 .site-header .menu-trigger:hover {
   color: var(--primary-900, #00315F);
@@ -6968,8 +6968,8 @@ cagov-site-navigation .search-container--small.hidden-search {
 .cagov-hero-body-content .wp-block-button:not(.is-style-outline) .btn-primary:not(:hover):not(:active):not(.has-background) {
   /* defined here for when css vars are not supported */
   color: var(--white, #fff);
-  background-color: var(--primary-700, #165ac2);
-  border-color: var(--primary-700, #165ac2);
+  background-color: var(--primary-700, #0D4F8C);
+  border-color: var(--primary-700, #0D4F8C);
   padding: 0.5rem 1rem;
   border-radius: 0.5rem;
   display: inline-block;
@@ -7240,7 +7240,7 @@ cagov-site-navigation .expanded-menu-section-header-link {
   padding-bottom: var(--s-2, 1rem);
   padding-left: var(--s-2, 1rem);
   padding-right: var(--s-2, 1rem);
-  color: var(--primary-700, #165ac2);
+  color: var(--primary-700, #0D4F8C);
   outline-offset: -2px;
 }
 cagov-site-navigation .expanded-menu-section-header-link:active {
@@ -7428,9 +7428,9 @@ cagov-highlight-section article .highlight-body .highlight-text .btn-primary-out
   text-decoration: none;
   vertical-align: middle;
   cursor: pointer;
-  color: var(--primary-700, #165ac2);
+  color: var(--primary-700, #0D4F8C);
   background-color: transparent;
-  border-color: var(--primary-700, #165ac2);
+  border-color: var(--primary-700, #0D4F8C);
 }
 cagov-highlight-section article .highlight-body .highlight-text .btn-primary-outline:hover {
   color: var(--primary-900, #00315F);
@@ -7509,7 +7509,7 @@ cagov-pagination .cagov-pagination__item {
 cagov-pagination .cagov-pagination__item a {
   padding: 0.75rem 0.875rem;
   display: inline-block;
-  color: var(--primary-700, #165ac2);
+  color: var(--primary-700, #0D4F8C);
   text-decoration: none;
 }
 cagov-pagination .cagov-pagination__item a:hover {
@@ -7527,7 +7527,7 @@ cagov-pagination .cagov-pagination__item a:focus {
 }
 cagov-pagination .cagov-pagination__item.cagov-pagination-current {
   background-color: #165ac2;
-  background-color: var(--primary-700, #165ac2);
+  background-color: var(--primary-700, #0D4F8C);
 }
 cagov-pagination .cagov-pagination__item.cagov-pagination-current a {
   color: var(--white, #ffffff);

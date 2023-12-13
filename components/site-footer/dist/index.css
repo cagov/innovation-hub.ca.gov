@@ -12,7 +12,7 @@ section.site-footer .container {
   padding: 16px;
 }
 section.site-footer a {
-  color: var(--primary-700, #165ac2);
+  color: var(--primary-700, #0D4F8C);
 }
 section.site-footer a:hover {
   color: var(--primary-900, #00315F);
@@ -49,7 +49,7 @@ section.site-footer .footer-social-links a {
   transition: all 0.3s ease;
 }
 section.site-footer .footer-social-links a svg path {
-  fill: var(--primary-700, #165ac2);
+  fill: var(--primary-700, #0D4F8C);
 }
 section.site-footer .footer-social-links a:hover svg path {
   fill: var(--primary-900, #00315F);

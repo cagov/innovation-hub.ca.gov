@@ -111,7 +111,7 @@ All CSS variables define their own fallback value so you do not have to use addi
 
 ```css
 :root {
-  --primary-700: #165ac2;
+  --primary-700: #0D4F8C;
 }
 ```
 

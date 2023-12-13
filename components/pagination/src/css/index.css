@@ -12,7 +12,7 @@ cagov-pagination .cagov-pagination__item {
 cagov-pagination .cagov-pagination__item a {
   padding: 0.75rem 0.875rem;
   display: inline-block;
-  color: var(--primary-700, #165ac2);
+  color: var(--primary-700, #0D4F8C);
   text-decoration: none;
 }
 cagov-pagination .cagov-pagination__item a:hover {
@@ -30,7 +30,7 @@ cagov-pagination .cagov-pagination__item a:focus {
 }
 cagov-pagination .cagov-pagination__item.cagov-pagination-current {
   background-color: #165ac2;
-  background-color: var(--primary-700, #165ac2);
+  background-color: var(--primary-700, #0D4F8C);
 }
 cagov-pagination .cagov-pagination__item.cagov-pagination-current a {
   color: var(--white, #ffffff);

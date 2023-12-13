@@ -95,8 +95,8 @@
 	.btn-primary:not(:hover):not(:active):not(.has-background) {
 	/* defined here for when css vars are not supported */
 	color: var(--white, #fff);
-	background-color: var(--primary-700, #165ac2);
-	border-color: var(--primary-700, #165ac2);
+	background-color: var(--primary-700, #0D4F8C);
+	border-color: var(--primary-700, #0D4F8C);
 	padding: 0.5rem 1rem;
 	border-radius: 0.5rem;
 	display: inline-block;
