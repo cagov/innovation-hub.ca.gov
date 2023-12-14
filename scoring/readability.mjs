@@ -14,6 +14,8 @@ import fs from 'fs';
 import readabilityScores from 'readability-scores';
 import { convert } from 'html-to-text';
 
+import showdown from 'showdown';
+
 // Get the list of pages to test.
 let pageList = JSON.parse(fs.readFileSync('./_site_dist/allFiles.json'));
 
@@ -22,6 +24,12 @@ let evaluationTime = new Date().getTime();
 
 pageList.forEach(page => {
   let fileBody = fs.readFileSync(page.inputPath,'utf8');
+
+  // if inputpath ends in .md, convert to html
+  if(page.inputPath.endsWith('.md')) {
+    let converter = new showdown.Converter();
+    fileBody = converter.makeHtml(fileBody);
+  }
 
   let pageBodyOnly = convert(fileBody, { 
     wordWrap: false, 
