@@ -21,7 +21,7 @@ let pageList = JSON.parse(fs.readFileSync('./_site_dist/allFiles.json'));
 
 let parScores = {};
 let evaluationTime = new Date().getTime();
-
+console.log("evaluating "+pageList.length+" pages for readability at "+evaluationTime);
 pageList.forEach(page => {
   let fileBody = fs.readFileSync(page.inputPath,'utf8');
 

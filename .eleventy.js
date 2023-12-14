@@ -106,7 +106,7 @@ module.exports = function (eleventyConfig) {
     let output = [];
     collection.getAll().forEach((item) => {
       var url = item.url;
-      console.log("considering "+url);
+      // console.log("considering "+url);
       if (url.match(/^\/((content-design|human-centered-design|product-management)\/)?[\w-]+\/$/)) {
         var outputPath = url;
         var inputPath = './docs/pages'+url;
