@@ -23,7 +23,7 @@ The headings provide guidance on what goes in each row. We’ve provided 3 examp
 
 | **Date and time** | **Description** | **Page** | **Responsible** | **Approver** | **Notes and questions** | **Status** |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| *Kept in strict, accurate sequence* | *Clearly identify the task or element* | *Can be a URL or other identifier* | *The person who will do this* | *The person who has final approval* | *As needed* | *Varies with project, may include Open, In progress, On hold, In staging, Live or published, Closed (reviewed, no work needed), Done* |
+| *Kept in strict, accurate sequence* | *Clearly identify the task or element* | *Can be a URL or other identifier* | *The person who will do this* | *The person who has final approval* | *As needed* | *Varies with project* |
 | May 28, 10:00 AM | Update fee schedule | department.ca.gov/license-fees/ | Paz | Abida | Double check before final publishing | Done |
 | May 29, 9:30 AM | Post media release | Blog post: Department updates license fees | Chris | Huyhn | Make sure Comms sees staged version first | In staging |
 | May 29, 1:30 PM | Data load into backend system | Data warehouse | Miles | Elena |  | In progress |
