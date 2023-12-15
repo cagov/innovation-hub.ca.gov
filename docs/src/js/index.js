@@ -1,13 +1,20 @@
 /* eslint import/no-unresolved: 'off' */
-import '../../../components/site-navigation/src/index.js';
-import '../../../components/page-navigation/dist/index.js';
-import '../../../components/accordion/dist/index.js';
-import '../../../components/page-alert/dist/index.js';
-import '../../../components/page-feedback/dist/index.js';
-import '../../../components/pagination/dist/index.js';
-import '../../../components/link-icon/dist/index.js';
-import '../../../components/back-to-top/dist/index.js';
-import '../../../components/icons/src/index.js';
+import '@cagov/ds-site-navigation';
+// import '@cagov/ds-page-feedback';
+// import '@cagov/ds-page-navigation';
+// import '@cagov/ds-accordion';
+
+// import '@cagov/ds-page-alert';
+// import '@cagov/ds-pagination';
+// import '@cagov/ds-link-icon';
+// import '@cagov/ds-back-to-top';
+// import '@cagov/ds-icons';
+
+// import '../../../node_modules/@cagov/ds-page-alert/dist/index.js';
+// import '../../../node_modules/@cagov/ds-pagination/dist/index.js';
+// import '../../../node_modules/@cagov/ds-link-icon/dist/index.js';
+// import '../../../node_modules/@cagov/ds-back-to-top/dist/index.js';
+// import '../../../node_modules/@cagov/ds-icons/src/index.js';
 
 import './component-sidebar.js';
 import './airtable-form/src/index.js';

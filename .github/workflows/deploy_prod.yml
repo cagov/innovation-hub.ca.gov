@@ -24,9 +24,9 @@ jobs:
       - name: Build Site
         run: |
           npm install
-          npm run site:build
+          npm run build
           npm run readability
-          npm run site:build
+          npm run build
 
       - name: Write robots.txt 
         run: |
