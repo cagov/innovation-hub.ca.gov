@@ -1,0 +1,55 @@
+/* site specific overrides */
+
+#skip-to-content {
+    margin-top: -1px;
+}
+
+div.official-header {
+    background-color: var(--primary-dark-color, #00315f);
+    color:white;
+}
+div.site-header {
+    background-color: var(--odi-brand, #f5f8fb);
+}
+
+.breadcrumb {
+    font-size: 18px; /* calc(.875rem + var(--ratio)); */
+    background: #fff;
+    padding: 0.625rem;
+    margin-left: 1rem;
+}
+
+/* this looks like it should be part of breadcrumb, not having it is a bug */
+@media only screen and (max-width: 992px) {
+    .breadcrumb {
+        display: none;
+    }
+}
+
+h1.page-title {
+    font-family: var(--org-name-dept-font, "Noto Serif", serif);
+    font-size: var(--org-name-dept-font-size, 47px);
+    font-weight: var(--org-name-dept-font-weight, 700);
+    color: var(--page-title-color,  #0D4F8C);
+    margin: 0 0 0 0;
+    padding: 0 0 var(--s-3) 0;
+}
+
+h2 {
+    font-family: var(--org-name-dept-font, "Noto Serif", serif);
+    color: var(--page-title-color,  #0D4F8C);
+    font-size: 37px;
+}
+
+cagov-site-navigation {
+    .container {
+      padding-top: var(--s-1, 0.5rem);
+      padding-bottom: var(--s-1, 0.5rem);
+    }
+  }
+  
+div.par-scores-container {
+    background-color: #ecf1f6;
+    padding: 1rem;
+    margin: 1rem 0;
+}

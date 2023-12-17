@@ -53,36 +53,4 @@
 
 @import './layout';
 
-#skip-to-content {
-    margin-top: -1px;
-  }
-  
-  /* site specific overrides */
-  .breadcrumb {
-    font-size: calc(.875rem + var(--ratio));
-    background: #fff;
-    padding: 0.625rem;
-    margin-left: 1rem;
-  }
-  
-  /* this looks like it should be part of breadcrumb, not having it is a bug */
-  @media only screen and (max-width: 992px) {
-    .breadcrumb {
-      display: none;
-    }
-  }
-
-  h1.page-title {
-    font-family: var(--org-name-dept-font, "Noto Serif", serif);
-    font-size: var(--org-name-dept-font-size, 47px);
-    font-weight: var(--org-name-dept-font-weight, 700);
-    color: var(--page-title-color,  #0D4F8C);
-    margin: 0 0 0 0;
-    padding: 0 0 var(--s-3) 0;
-  }
-  
-  h2 {
-    font-family: var(--org-name-dept-font, "Noto Serif", serif);
-    color: var(--page-title-color,  #0D4F8C);
-    font-size: 37px;
-  }
+@import './ds-site-overrides';
