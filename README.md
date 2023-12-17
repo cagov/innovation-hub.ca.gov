@@ -5,13 +5,6 @@
 ### Status
 This project is currently in early beta status. It’s used in production on a few sites while we learn and continuously improve.
 
-Part of our early beta includes learning and collaborating with teams. As the project matures we’ll share more details on how we might meld the design system components into the State template.
-
-### How we work
-We start by understanding the needs of residents of California through user research. We use an iterative design and development process to provide services that meet these needs. As we work, we continue to test our principles, designs, and components. We prioritize equity to some degree by ensuring that our code is accessible and performant for all devices and bandwidths. Components <a href="https://designsystem.webstandards.ca.gov/components/">pass through stages</a> of alpha, beta and production as they become available to the Design System.
-
-We work in the open: all our code and issue tracking is public. We’re happy to review pull requests from the public and state employees. Anyone can file an issue with bug reports and feature requests by selecting the **New issue** button from our <a href="https://github.com/cagov/design-system/issues">issues page</a>. You can see the prioritized list of issues we’re addressing on our <a href="https://github.com/orgs/cagov/projects/7">project board</a>.
-
 ## Development instructions
 
 This project is a collection of components. This means the individual widgets are easy to iterate on in isolation, upgrade individually, or exclude from a project.

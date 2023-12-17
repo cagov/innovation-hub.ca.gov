@@ -10,7 +10,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(cagovBuildSystem, {
     processors: {
       sass: {
-        watch: ['docs/src/css/**/*', 'components/**/*.scss'],
+        watch: ['docs/src/css/**/*'],
         output: '_site_dist/index.css',
         minify: true,
         options: {
@@ -20,7 +20,7 @@ module.exports = function (eleventyConfig) {
       },
       esbuild: [
         {
-          watch: ['docs/src/js/**/*', 'components/**/*.!(md)'],
+          watch: ['docs/src/js/**/*'],
           options: {
             entryPoints: ['docs/src/js/index.js'],
             bundle: true,
@@ -74,24 +74,24 @@ module.exports = function (eleventyConfig) {
     'docs/src/assets/article-content': 'content/img',
   });
   eleventyConfig.addPassthroughCopy({ 'docs/src/css/fonts': 'fonts' });
-  eleventyConfig.addPassthroughCopy({
-    'components/base-css/dist/themes': 'css',
-  });
-  eleventyConfig.addPassthroughCopy({
-    'components/accordion/template.html': 'css/accordion.html',
-  });
-  eleventyConfig.addPassthroughCopy({
-    'components/link-grid/template.html': 'css/link-grid.html',
-  });
-  eleventyConfig.addPassthroughCopy({
-    'components/step-list/template.html': 'css/step-list.html',
-  });
+  // eleventyConfig.addPassthroughCopy({
+  //   'components/base-css/dist/themes': 'css',
+  // });
+  // eleventyConfig.addPassthroughCopy({
+  //   'components/accordion/template.html': 'css/accordion.html',
+  // });
+  // eleventyConfig.addPassthroughCopy({
+  //   'components/link-grid/template.html': 'css/link-grid.html',
+  // });
+  // eleventyConfig.addPassthroughCopy({
+  //   'components/step-list/template.html': 'css/step-list.html',
+  // });
   eleventyConfig.addPassthroughCopy({ '_site_dist/*': '/' });
   eleventyConfig.addPassthroughCopy({ '_build_dist/*': 'builds' });
-  eleventyConfig.addPassthroughCopy({
-    'components/icons/dist/svg': 'cagov-icons-svg',
-  });
-  eleventyConfig.addPassthroughCopy({ 'components/icons/src/fonts': 'fonts' });
+  // eleventyConfig.addPassthroughCopy({
+  //   'components/icons/dist/svg': 'cagov-icons-svg',
+  // });
+  // eleventyConfig.addPassthroughCopy({ 'components/icons/src/fonts': 'fonts' });
 
   // generate allfiles?
   var fileList = [];
