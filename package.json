@@ -1,6 +1,6 @@
 {
   "name": "innovation-hub",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "ODI Innovation Hub – A work in progress!",
   "main": "index.js",
   "scripts": {
