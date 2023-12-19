@@ -118,7 +118,7 @@ module.exports = function (eleventyConfig) {
         }
         // if inputPath doesn't exist, log it
         if (fs.existsSync(inputPath)) {
-          console.log("  will score -> "+inputPath);
+          // console.log("  will score -> "+inputPath);
           fileList.push({outputPath:outputPath, inputPath:inputPath});
           // item.inputPath = inputPath;
           // item.outputPath = outputPath;
