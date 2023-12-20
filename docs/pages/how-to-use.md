@@ -40,4 +40,4 @@ Select a topic from the navigation at the top of the page or [find all resources
 
 ODI is transforming government processes and public services to work better for Californians. We use data, human-centered design and technology to create services that are easier for everyone to use. We are a government-to-government service. Our goal is for the citizens of our community to benefit from our collaborations.
 
-<button class="btn-primary" name="button" onclick="https://innovation.ca.gov">Learn more</a>
+<button class="btn-primary" name="button" onclick="https://innovation.ca.gov">Learn more about ODI</a>
