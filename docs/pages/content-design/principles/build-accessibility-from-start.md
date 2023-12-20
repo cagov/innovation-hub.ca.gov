@@ -16,7 +16,7 @@ Accessibility goes beyond the technical components of a website. It’s about in
 
 ## Standards
 
-State law requires that state websites be accessible. Content writers are responsible for maintaining some of these standards. An accessibility audit service (like [SiteImprove](https://siteimprove.com/)) will check your website against accessibility standards and identify where you can take action.
+State law requires that state websites be accessible. Content writers are responsible for maintaining some of these standards. An accessibility audit service (like [SiteImprove](https://www.siteimprove.com/)) will check your website against accessibility standards and identify where you can take action.
 
 ## Why this is important
 

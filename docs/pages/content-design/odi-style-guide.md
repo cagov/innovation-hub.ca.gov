@@ -130,7 +130,7 @@ Browsers show a page title when you hover over the page tab. It helps people kno
 Make the title the same as the H1 of the page, followed by a pipe and the site name. This gives people a full understanding of the page.
 
 > Example:
-> Content style guide | California Design System
+> ODI's style guide | Innovation Hub
 
 ### Webpage URLs
 
@@ -204,19 +204,19 @@ Use more than one decimal place when using this rule or rounding would cause you
 > Example:
 > .04 deaths per 100K
 
-### Fractions
-
-Write fractions using a slash. This is more accurate than using decimal places. It’s also easier for people to understand.
-
-> Example:
-> About 2/3 of California’s cities and counties do not allow cannabis retail activity.
-
 Do not use 0.0.
 
 Use 2 decimal places if you’re writing a price that isn’t a round number.
 
 > Example:
 > The cost of a new license is $29.99.
+
+### Fractions
+
+Write fractions using a slash. This is more accurate than using decimal places. It’s also easier for people to understand.
+
+> Example:
+> About 2/3 of California’s cities and counties do not allow cannabis retail activity.
 
 ### Numerals
 
@@ -469,6 +469,10 @@ ODI calls its base organizational unit a **team**. Teams make up divisions.
 > The engineering team decided to use GitHub to host the website.
 > The talent team recruits great people to work at ODI.
 > The user research team piloted Ethnio intercepts on state webpages.
+
+### that is
+
+Use **that is** instead of **i.e.**, which is an abbreviation of the Latin phrase *id est*. This translates to “that is.” Writing out “that is” makes it clear to the reader what you mean.
 
 ### Tribe
 
