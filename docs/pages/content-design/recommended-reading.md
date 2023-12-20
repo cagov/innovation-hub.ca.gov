@@ -9,7 +9,7 @@ description: Articles, guides, and tools to learn more about content design
 
 * [ODI's content design principles](/content-design/principles/)
 * [California Design System principles](https://designsystem.webstandards.ca.gov/principles/)
-* [Government Code 6219](https://designsystem.webstandards.ca.gov/principles/), California’s plain language statute
+* [Government Code 6219](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6219.&lawCode=GOV), California’s plain language statute
 * [US Web Design System principles](https://designsystem.digital.gov/design-principles/)
 
 ## Online courses
@@ -19,10 +19,10 @@ description: Articles, guides, and tools to learn more about content design
 ## Style guides
 
 * [Associated Press (AP) Style](https://store.stylebooks.com/): ODI’s default for style questions not covered by [our style guide](/content-design/odi-style-guide/)
-* [18F content guide](https://content-guide.18f.gov/) at the federal government
+* [18F content guide](https://guides.18f.gov/content-guide/) at the federal government
 * [How to write for SF.gov](https://sfdigitalservices.gitbook.io/style-guide/city-standards)
 * [Federal plain language guidelines](https://www.plainlanguage.gov/guidelines/) at plainlanguage.gov
-* Federal [style guides by government agencies](https://digital.gov/resources/style-guides-by-government-agencies/?dg)
+* Federal [style guides by government agencies](https://digital.gov/resources/style-guides-by-government-agencies/)
 * [GOV.UK A to Z of style – words to avoid](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid): a list of some words that make your content less clear, created by a UK government content team
 
 ## How-to's
@@ -70,7 +70,7 @@ description: Articles, guides, and tools to learn more about content design
 * [Hemingway Editor](http://hemingwayapp.com/)
 * [ODI’s plain language checklist](/content-design/plain-language-checklist/): detailed guidance on how to improve your writing
 
-##
+## Books
 
 * [Content Design](https://contentdesign.london/shop/content-design-by-sarah-winters-paperback) - Sarah Winters
 * [Writing for dollars, writing to please: The case for plain language in business, government, and law](https://a.co/d/3bHM6Md) - Joseph Kimble
