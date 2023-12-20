@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Plain language equity standard
 description: ODI’s recommendations for how to help everyone understand content
 ---
