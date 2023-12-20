@@ -8,25 +8,47 @@ layout: single-column
 
 Here are our recommendations for how to use each type of resource on the Hub.
 
-## Standards and principles
-
-They’re the big ideas that guide ODI’s work. If you’re new to a topic, standards and principles are a good place to start.
-
-## Guides and playbooks
-
-These offer details about how to implement a standard or best practice. They can include step-by-step instructions to achieve a goal. Use guides and playbooks when doing work to achieve a great outcome.
-
-## Training
-
-Our training gives you access to best practices in innovation. They’re a great way to improve your knowledge and skills so you can deliver better services.
-
-## Recommended reading
-
-ODI is always researching how to deliver great services. We save our favorite articles and tools to reference them in our work. Our recommended reading is a good way to dive into a topic and expand your knowledge.
-
-## Templates
-
-We often make templates to streamline our work. Take our templates and use them to make your work easier. Feel free to change them to fit your department.
+<div class="howtouse-grid-wrapper">
+    <div class="howtouse-tile">
+        <div class="howtouse-tile-header">
+            <div class="header-icon header-star">&nbsp;</div>
+            <h2>Standards and principles</h2>
+        </div>
+        <div class="howtouse-tile-copy interim">They’re the big ideas that guide ODI’s work. If you’re new to a topic, standards and principles are a good place to start.</div>
+    <hr/>
+    </div>
+    <div class="howtouse-tile">
+        <div class="howtouse-tile-header">
+            <div class="header-icon header-book">&nbsp;</div>
+            <h2>Guides and playbooks</h2>
+        </div>
+        <div class="howtouse-tile-copy interim">These offer details about how to implement a standard or best practice. They can include step-by-step instructions to achieve a goal. Use guides and playbooks when doing work to achieve a great outcome.</div>
+    <hr/>
+    </div>
+    <div class="howtouse-tile">
+        <div class="howtouse-tile-header">
+            <div class="header-icon header-ribbon">&nbsp;</div>
+            <h2>Training</h2>
+        </div>
+        <div class="howtouse-tile-copy interim">    Our training gives you access to best practices in innovation. They’re a great way to improve your knowledge and skills so you can deliver better services.</div>
+    <hr/>
+    </div>
+    <div class="howtouse-tile">
+        <div class="howtouse-tile-header">
+            <div class="header-icon header-bookmark">&nbsp;</div>
+            <h2>Recommended reading</h2>
+        </div>
+        <div class="howtouse-tile-copy interim">ODI is always researching how to deliver great services. We save our favorite articles and tools to reference them in our work. Our recommended reading is a good way to dive into a topic and expand your knowledge.</div>
+    <hr/>
+    </div>
+    <div class="howtouse-tile">
+        <div class="howtouse-tile-header">
+            <div class="header-icon header-templates">&nbsp;</div>
+            <h2>Templates</h2>
+        </div>
+        <div class="howtouse-tile-copy">We often make templates to streamline our work. Take our templates and use them to make your work easier. Feel free to change them to fit your department.</div>
+    </div>
+</div>
 
 We’ve organized resources by topic. The topics on the Hub are:
 

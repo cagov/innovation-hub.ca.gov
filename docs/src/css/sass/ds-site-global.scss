@@ -52,7 +52,10 @@ blockquote {
 div.wp-block-button {
   margin-top: 32px;
 }
+
+/* HOME PAGE tiles */
 div.ds-content-layout { padding: 0 16px; } 
+
 div.content-grid-wrapper {
   display: grid;
   grid-template-columns: 276px 276px 276px 276px;
@@ -85,15 +88,51 @@ div.content-tile-header {
   background-position: left 4px center;
   padding-left: 32px;
 }
-span.content-title-icon {
-  padding-left: 4px;
-  padding-right: 6px;
-  overflow: hidden;
-}
 span.title-card-header-label {
   vertical-align:middle;
 }
 
+/* HOW TO USE TILES */
+div.howtouse-grid-wrapper {
+  display: grid;
+  grid-template-columns: 508px 508px;
+  margin-top: 32px;
+  margin-bottom:32px;
+  gap:24px;
+  background-color: white;
+  padding: 32px 32px;
+  width: 100%;
+}
+
+div.howtouse-tile-copy {
+  min-height: 8rem;
+}
+
+div.howtouse-tile-copy.interim {
+  min-height: 10rem;
+}
+
+div.howtouse-tile h2 {
+  font-size: 23px;
+  font-weight: 700px;
+  color:black;
+  padding: 0 0;
+  margin: 0 0;
+}
+div.howtouse-tile hr {
+  border: 1px solid #C7D6E4;
+  margin-bottom: 8px;
+}
+
+div.header-icon {
+  background-repeat: no-repeat;
+  background-size: 24px;
+  background-position: center center;
+  float:left;
+  width: 32px;
+  border-radius:8px;
+  margin-right: 16px;
+}
 div.header-ribbon {     background-color: #EFECF8;  border: 1px solid #D7D1ED; 
                         background-image: url(/img/tile-icon-ribbon.png); }
 div.header-star {       background-color: #FAECDA;  border: 1px solid #F4CEA1; 
