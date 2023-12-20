@@ -22,11 +22,11 @@ Our training gives you access to best practices in innovation. They’re a great
 
 ## Recommended reading
 
-ODI is always researching how to deliver great services. We save our favorite articles and tools to use them in our work. Our recommended reading is a good way to dive into a topic and expand your knowledge.
+ODI is always researching how to deliver great services. We save our favorite articles and tools to reference them in our work. Our recommended reading is a good way to dive into a topic and expand your knowledge.
 
 ## Templates
 
-We often make templates to streamline our work. Take our templates and use them as-is, or change them to fit your department, to make your work easier.
+We often make templates to streamline our work. Take our templates and use them to make your work easier. Feel free to change them to fit your department.
 
 We’ve organized resources by topic. The topics on the Hub are:
 
