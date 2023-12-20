@@ -30,7 +30,7 @@ A conversational tone and an official one can seem like they’re opposites of e
   * For example: _If you need benefits, apply by May 23, 2021_. Do not say _The benefits application deadline is May 23, 2021_.
   * Do not use **me** or **my**. It’s unclear if it refers to the reader or the writer.
 * Use transition words where it makes sense. Start sentences with **And** or **But** to show the relationship between pieces of information.
-  * Example (courtesy of [Plainlanguage.gov](https://www.plainlanguage.gov/guidelines/organize/use-transition-words/)): _A topic sentence may provide a transition from one paragraph to another. But a transition word or phrase (usually in the topic sentence) clearly tells the audience whether the paragraph expands on the paragraph before, contrasts with it, or takes a completely different direction._
+  * Example (courtesy of [Plainlanguage.gov's Use transition words](https://www.plainlanguage.gov/guidelines/organize/use-transition-words/)): _A topic sentence may provide a transition from one paragraph to another. But a transition word or phrase (usually in the topic sentence) clearly tells the audience whether the paragraph expands on the paragraph before, contrasts with it, or takes a completely different direction._
 * Vary the lengths of your sentences and paragraphs. This makes your writing sound natural.
 * Avoid jargon or unfamiliar terms. If you must use them, do so sparingly, and define them for the reader.
 
