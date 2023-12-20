@@ -8,7 +8,7 @@ Adapted from the US Department of Labor’s [Use plain language for claimant not
 
 | **Category** | **Rating** | **Tips** |
 | ----- | ----- | ----- |
-| [Written for easy reading by the average reader](https://www.plainlanguage.gov/guidelines/audience/) | Grade 0-14 reading level, plus Postgraduate | Measure reading level to make sure it’s not too high for your audience. Check this through [Hemingway](https://hemingwayapp.com/). Target is 6th-8th Grade level. |
+| [Written for easy reading by the average reader](https://www.plainlanguage.gov/guidelines/audience/) | Grade 0-14 reading level, plus Postgraduate | Measure reading level to make sure it’s not too high for your audience. Check this through [Hemingway](https://hemingwayapp.com/). Target is grade 8 or lower. |
 | [Organized to serve the reader’s needs](https://www.plainlanguage.gov/guidelines/organize/) | Yes, No, N/A | Content should be organized around what the reader wants to know and their potential next steps. |
 | [Has useful headings](https://www.plainlanguage.gov/guidelines/organize/add-useful-headings/) | Yes, No, N/A | Content should be organized around what the reader wants to know and their potential next steps. |
 | [Has useful headings](https://www.plainlanguage.gov/guidelines/organize/add-useful-headings/) | Yes, No, N/A | Headings act as landmarks that help people understand what they are about to read, so make these as clear as possible. For example, including “Unemployment insurance benefits” in your heading makes it clear to claimants which benefits they are about to read about, which can be helpful if individuals have applied for multiple benefits. |
