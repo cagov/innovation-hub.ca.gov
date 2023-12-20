@@ -1,5 +1,18 @@
 /* site specific overrides */
-
+a.btn-primary.external-link {
+    background-color: var(--primary-color, #00315f);
+    color: var(--white, #fff);
+    border-color: var(--primary-color, #00315f);
+    &:hover {
+        background-color: var(--primary-dark-color, #003484);
+        border-color: var(--primary-dark-color, #003484);
+    }
+    padding-right: 40px;
+    background-image: url(/img/ext-link-icon.png);
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    background-size: 20px;
+}
 #skip-to-content {
     margin-top: -1px;
 }
