@@ -149,6 +149,85 @@ div.howtouse-tile hr {
   margin-bottom: 8px;
 }
 
+/* Plain language section */
+div.plainlanguage-grid-wrapper {
+  display: grid;
+  grid-template-columns: 876px;
+  margin-top: 32px;
+  gap:0px;
+}
+
+div.plainlanguage-grid-wrapper div.plainlanguage-tile:not(:last-child) {
+  border-bottom: 1px solid #C7D6E4;
+}
+
+div.plainlanguage-tile {
+  display: grid;
+  padding: 16px 16px;
+  grid-template-columns: 36px 824px;
+  gap: 0px;
+  background-color: white;
+}
+
+div.checklist-left-icon {
+  background-image: url(/img/circle-check-icon.png);
+  background-repeat: no-repeat;
+  background-size: 24px;
+  background-position: left top 6px;
+  float:left;
+  width: 36px;
+  height: 44px;
+}
+
+div.checklist-tile-header {
+  font-size: 23px;
+  font-weight: 700;
+}
+div.checklist-tile-copy {
+  font-size: 18px;
+}
+
+div.checklist-tile-header a {
+  color: #0D4F8C;
+  text-decoration: none;
+}
+
+div.checklist-tile-header a.external-link {
+  padding-right: 32px;
+  background-image: url(/img/ext-link-icon-dark.png);
+  background-repeat: no-repeat;
+  background-position: right 4px center;
+  background-size: 20px;
+}
+div.checklist-copy-icon {
+  float: left;
+  margin-right: 32px;
+  background-repeat: no-repeat;
+  background-size: 20px;
+  background-position: left 8px center;
+  padding-left: 40px;
+  padding-right: 8px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  height: 32px;
+  border-radius:8px;
+}
+div.checklist-copy-icon span {
+  font-size: 14px;
+  vertical-align: middle;
+}
+div.checklist-copy-icon.icon-green {
+  background-image: url(/img/green-circle-check-icon.png);
+  background-color: #E5F1E7;
+  border: 0.5px solid #9AC7A4
+}
+div.checklist-copy-icon.icon-red {
+  background-image: url(/img/red-minus-icon.png);
+  background-color: #FCE9E8;
+  border: 0.5px solid #EEABA9
+}
+
+
 div.header-icon {
   background-repeat: no-repeat;
   background-size: 32px;
