@@ -46,19 +46,36 @@ A conversational tone and an official one can seem like they’re opposites of e
 
 This example is too official, which can be hard to understand and confusing:
 
-> It is required that all people seeking to apply must do so prior to the deadline set by law of September 30. No applications shall be accepted after this date.
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">It is required that all people seeking to apply must do so prior to the deadline set by law of September 30. No applications shall be accepted after this date.</div>
+  </div>
+</div>
 
 This example is too informal, so readers may not trust it as a source of truth:
 
-> Listen up: you’ve got to get your application in before the end of the month. Don’t wait! Do it ASAP.
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">Listen up: you’ve got to get your application in before the end of the month. Don’t wait! Do it ASAP.</div>
+  </div>
+</div>
 
 This example strikes the right balance between being conversational and official:
 
-> Apply between August 1 and September 30.
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">Apply between August 1 and September 30.</div>
+  </div>
+</div>
 
 ### Voice checklist
 
 Check your writing against these traits to make sure it’s conversational and official.
+
+<div class="twocolumn-table">
 
 | **Be**                  | **Do not be**                                               |
 | ----------------------- | ----------------------------------------------------------- | 
@@ -70,6 +87,8 @@ Check your writing against these traits to make sure it’s conversational and o
 | Conversational          | Disrespectful                                               |
 | Straightforward         | Blunt                                                       |
 | Sensitive toward others | Patronizing, pretending that you know everything about them |
+
+</div>
 
 ### Use a style guide for consistency
 

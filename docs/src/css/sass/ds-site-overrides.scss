@@ -96,3 +96,24 @@ main.cagov-main {
         }
     }
 }
+
+div.twocolumn-table {
+    table {
+        thead {
+            background-color: #FAFAFA;
+            th {
+                border: 1px solid #C7D6E4;
+                width: 50%;
+                font-size: 18px;
+            }
+        }
+        tbody {
+            background-color: white;
+            td {
+                font-size: 14px;
+                border: 1px solid #C7D6E4;
+                width: 50%;
+            }
+        }
+    }
+}
