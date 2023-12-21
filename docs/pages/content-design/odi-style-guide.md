@@ -261,7 +261,7 @@ On websites, adding bold tags to a heading can cause it to appear in the wrong f
 
 In websites or digital services, do not use *italics*. This makes text harder to read. Use **bold** for emphasis instead. In an image caption or data chart note, use smaller text.
 
-We use italics in a few of our word list entries in this guide to give the full Latin phrase for some initials. The italics signals this phrase is in another language. This is a limited exception.
+One exception is to use italics for words in another language (for example: *sine qua non*). This should happen rarely. Translate terms into the same language as the rest of your content whenever possible.
 
 ### Larger introductory text
 
