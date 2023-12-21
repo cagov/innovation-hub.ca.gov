@@ -60,3 +60,8 @@ Use frequently asked questions (FAQs) sparingly. Most of the time they are not a
 FAQs are hard for people to read, especially when there are a lot of them on one page. They also often duplicate content that’s already on your site. And by putting the content in the form of a question and answer, you’re at least doubling the text someone has to read to get the information.
 
 Use the same rules for accordions for FAQs. If more than a third of readers need the information, put it in your body content.
+
+<div class="leftright-nav-container long-left">
+    <div class="left-nav"><a class="internal-link" href="/content-design/principles/write-with-conversational-official-voice/">Write with a conversational and official voice</a></div>
+    <div class="unused"></div>
+</div>

@@ -93,3 +93,8 @@ Link text like **click here**, **read more**, and **more** are not useful to peo
 ### Add alt text to images
 
 Screen readers look for alt text. [Add useful alt text to images](https://accessibility.huit.harvard.edu/describe-content-images) so screen readers can describe images to people who use them.
+
+<div class="leftright-nav-container">
+    <div class="left-nav"><a class="internal-link" href="/content-design/principles/meet-your-audience-where-they-are/">Meet your audience where they are</a></div>
+    <div class="right-nav"><a class="internal-link" href="/content-design/principles/be-concise/">Be concise</a></div>
+</div>

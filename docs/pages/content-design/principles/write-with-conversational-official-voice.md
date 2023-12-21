@@ -76,3 +76,8 @@ Check your writing against these traits to make sure it’s conversational and o
 Style guides help you be consistent across your content. They standardize the way to write punctuation, dates, numbers, and other elements. Adopt an existing style guide if you often have questions about how to write something.
 
 If you want to adopt a style, but do not know how to choose one, [Associated Press (AP) Style](https://store.stylebooks.com/) is a good choice.
+
+<div class="leftright-nav-container">
+    <div class="left-nav"><a class="internal-link" href="/content-design/principles/write-in-plain-language/">Write in plain language</a></div>
+    <div class="right-nav"><a class="internal-link" href="/content-design/principles/organize-content-strategically/">Organize content strategically</a></div>
+</div>

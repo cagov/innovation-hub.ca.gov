@@ -63,3 +63,8 @@ Check reading levels with the [Hemingway Editor](http://hemingwayapp.com/). Elim
   * Use commas in numbers over 999. This helps people understand the order of magnitude.
 * Use the serial comma (also called the Oxford comma) to reduce confusion. It’s the comma that comes before **and** in a list of 3 or more.
   * For example: _We brought apples, bananas, and oranges_.
+
+<div class="leftright-nav-container long-right">
+    <div class="left-nav"><a class="internal-link" href="/content-design/principles/be-concise/">Be concise</a></div>
+    <div class="right-nav"><a class="internal-link" href="/content-design/principles/write-with-conversational-official-voice/">Write with a conversational and official voice</a></div>
+</div>
