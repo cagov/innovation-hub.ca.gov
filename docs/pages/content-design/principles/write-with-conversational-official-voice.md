@@ -30,11 +30,13 @@ A conversational tone and an official one can seem like they’re opposites of e
   * Do not use uncommon contractions like **this’ll**, **y’all**, and **ain’t**.
 * Refer to people as **you**, and the government or department as **we**, as long as it’s clear who **we** refers to. This lowers the feeling of a divide between people and the state.
   * Do not use **I**, **me**, or **my**. It’s unclear if it refers to the reader or the writer.
+
 | **Say** | **Don't say** |
 | ----- | ----- | 
 | If you need benefits, apply by May 23, 2021. | The benefits application deadline is May 23, 2021. |
 | We will review your request in 5 business days or less. | The application must have all of my data. |
 | The application must have all of your data. | Every request the department receives will be reviewed within no more than 5 business days. |
+
 * Use transition words where it makes sense. Start sentences with **And** or **But** to show the relationship between pieces of information.
 
 <div class="blockquote-container">
