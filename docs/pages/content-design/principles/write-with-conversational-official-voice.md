@@ -29,10 +29,21 @@ A conversational tone and an official one can seem like they’re opposites of e
 * Use common contractions like **you’ll**, **it’s**, and **we’ll**.
   * Do not use uncommon contractions like **this’ll**, **y’all**, and **ain’t**.
 * Refer to people as **you**, and the government or department as **we**, as long as it’s clear who **we** refers to. This lowers the feeling of a divide between people and the state.
-  * For example: _If you need benefits, apply by May 23, 2021_. Do not say _The benefits application deadline is May 23, 2021_.
-  * Do not use **me** or **my**. It’s unclear if it refers to the reader or the writer.
+  * Do not use **I**, **me**, or **my**. It’s unclear if it refers to the reader or the writer.
+| **Say** | **Don't say** |
+| ----- | ----- | 
+| If you need benefits, apply by May 23, 2021. | The benefits application deadline is May 23, 2021. |
+| We will review your request in 5 business days or less. | The application must have all of my data. |
+| The application must have all of your data. | Every request the department receives will be reviewed within no more than 5 business days. |
 * Use transition words where it makes sense. Start sentences with **And** or **But** to show the relationship between pieces of information.
-  * Example (courtesy of [Plainlanguage.gov's Use transition words](https://www.plainlanguage.gov/guidelines/organize/use-transition-words/)): _A topic sentence may provide a transition from one paragraph to another. But a transition word or phrase (usually in the topic sentence) clearly tells the audience whether the paragraph expands on the paragraph before, contrasts with it, or takes a completely different direction._
+
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">A good DIF project will help Californians live healthier, safer, more secure lives. Or it may help state staff do their jobs more effectively.</div>
+  </div>
+</div>
+ 
 * Vary the lengths of your sentences and paragraphs. This makes your writing sound natural.
 * Avoid jargon or unfamiliar terms. If you must use them, do so sparingly, and define them for the reader.
 
