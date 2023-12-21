@@ -1,6 +1,8 @@
 ---
 title: Write with a conversational and official voice
 description: Give reliable information with confidence.
+headerlabel: Standards and principles
+headericon: star
 ---
 
 <p class="text-lead">Give reliable information with confidence.</p>

@@ -1,6 +1,8 @@
 ---
 title: Focus on user needs and services
 description: Give people what they need and direct them to services.
+headerlabel: Standards and principles
+headericon: star
 ---
 
 <p class="text-lead">Give people what they need and direct them to services. Your website’s purpose is not to tell people what to think about the government or your agency.</p>

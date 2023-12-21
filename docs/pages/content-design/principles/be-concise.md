@@ -1,6 +1,8 @@
 ---
 title: Be concise
 description: Simple writing supports equal outcomes.
+headerlabel: Standards and principles
+headericon: star
 ---
 
 <p class="text-lead">Government content is notorious for being long and complicated. It does not have to be. Simple writing supports equal outcomes.</p>

@@ -1,6 +1,8 @@
 ---
 title: Meet your audience where they are
 description: Knowing who they are and what they need helps you design for them.
+headerlabel: Standards and principles
+headericon: star
 ---
 
 <p class="text-lead">All your content is for someone. Knowing who they are and what they need helps you design for them.</p>

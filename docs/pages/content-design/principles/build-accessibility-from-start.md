@@ -1,6 +1,8 @@
 ---
 title: Build in accessibility from the start
 description: Accessibility goes beyond the technical components of a website. It’s about including everyone who has a right to information.
+headerlabel: Standards and principles
+headericon: star
 ---
 
 <p class="text-lead">We write for all Californians, not most Californians.</p>

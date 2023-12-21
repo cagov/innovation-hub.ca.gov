@@ -1,6 +1,8 @@
 ---
 title: Organize content strategically
 description: Well-organized content helps readers find what they’re looking for.
+headerlabel: Standards and principles
+headericon: star
 ---
 
 <p class="text-lead">Well-organized content helps readers find what they’re looking for.</p>

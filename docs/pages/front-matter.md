@@ -14,6 +14,9 @@ metadata:
   social_image_width: 200
   social_image_height: 150
   social_image_alt_text: This is an illustration of my page.
+headerlabel: Standards and principles
+headericon: star
+layout: single_column_wide
 ---
 
 # My page

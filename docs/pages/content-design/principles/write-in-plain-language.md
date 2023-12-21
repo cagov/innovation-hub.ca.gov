@@ -1,6 +1,8 @@
 ---
 title: Write in plain language
 description: Do the hard work to make content simple for people to understand.
+headerlabel: Standards and principles
+headericon: star
 ---
 
 <p class="text-lead">We do the hard work to make content simple for people to understand.</p>
