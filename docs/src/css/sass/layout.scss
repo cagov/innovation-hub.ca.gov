@@ -16,7 +16,13 @@ body {
 }
 
 .cagov-article.with-single-column {
-  max-width: 1176px; // var(--w-page-content, 1176px);
+  max-width: 876px; // var(--w-page-content, 1176px);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cagov-article.with-single-column-wide {
+  max-width: 1176px;
   margin-left: auto;
   margin-right: auto;
 }

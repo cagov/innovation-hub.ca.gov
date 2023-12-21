@@ -1,7 +1,7 @@
 ---
 title: How to use the Hub
 description: Recommendations for how to use each resource on the Innovation Hub
-layout: single-column
+layout: single-column-wide
 ---
 
 <p class="text-lead">The Innovation Hub collects resources made and found by the Office of Data and Innovation (ODI). We share them to help state departments better serve Californians.</p>
