@@ -120,8 +120,8 @@ Use numbered lists when you want to show information in a particular order. The 
 
 > Example:
 > To get your $50 card, just:
-> * Get your code (via email or text within 7-10 days)
-> * Redeem and pick your reward (within 90 days)
+> 1. Get your code (via email or text within 7-10 days)
+> 2. Redeem and pick your reward (within 90 days)
 
 If you’re walking people through an important step-by-step process on a website, use a [step list component](https://designsystem.webstandards.ca.gov/components/step-list/readme/). It lets you add detail to each step and makes them more readable.
 
