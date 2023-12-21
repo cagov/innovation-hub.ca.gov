@@ -14,9 +14,14 @@
   </div>
   <main id="body-content" class="cagov-main">
     <article id="post-{{ page.fileSlug }}" class="cagov-article with-sidebar with-page-nav">
+      <div>
+      {% if headerlabel %}
+      <div class="content-page-header header-{{headericon}}"><span class="content-page-header-label">{{ headerlabel }}</span></div>
+      {% endif %}
       <h1 class="page-title title-cell">
         {{ title | safe }}
       </h1>
+      </div>
       <div class="sidebar-container everylayout sidebar-cell" style="z-index: 1;">
         <sidebar space="0" side="left">
           {% block contentNavigation %}

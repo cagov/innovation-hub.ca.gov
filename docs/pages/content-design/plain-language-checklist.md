@@ -2,6 +2,8 @@
 title: Plain language checklist
 description: ODI's detailed guide for making sure content is in plain language
 layout: single-column
+headerlabel: Guides and playbooks
+headericon: book
 ---
 
 Adapted from the US Department of Labor’s [Use plain language for claimant notices](https://www.dol.gov/agencies/eta/ui-modernization/claimant-notices)

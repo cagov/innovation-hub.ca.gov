@@ -109,6 +109,27 @@ span.title-card-header-label {
   vertical-align:middle;
 }
 
+div.content-page-header {
+  font-size: 14px;
+  border: 1px solid ;
+  font-weight: 400;
+  height: 26px;
+  padding-right:12px;
+  border-radius:8px;
+  display: inline-block;
+  position: relative;
+  background-image: url(/img/tile-icon-star.png);
+  background-repeat: no-repeat;
+  background-size: 24px;
+  background-position: left 4px center;
+  padding-left: 32px;
+}
+
+span.content-page-header-label {
+  vertical-align:middle;
+}
+
+
 /* HOW TO USE TILES */
 div.howtouse-grid-wrapper {
   display: grid;

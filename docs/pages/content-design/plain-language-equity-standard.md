@@ -2,6 +2,8 @@
 layout: page
 title: Plain language equity standard
 description: ODI’s recommendations for how to help everyone understand content
+headerlabel: Standards and principles
+headericon: star
 ---
 
 <p class="text-lead">All state departments should:</p>
