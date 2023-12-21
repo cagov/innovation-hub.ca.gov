@@ -33,7 +33,7 @@ A conversational tone and an official one can seem like they’re opposites of e
 
 <div class="twocolumn-table">
 
-| **Say** | **Don't say** |
+| **Write** | **Don't write** |
 | ----- | ----- | 
 | If you need benefits, apply by May 23, 2021. | The benefits application deadline is May 23, 2021. |
 | We will review your request in 5 business days or less. | The application must have all of my data. |
