@@ -159,7 +159,7 @@ Write out the number. This is clear to people, even after translation.
 
 When writing numbers with limited space (like labels in a chart), use a K instead of writing out the full number.
 
-For rates that use 100,000 as their base, use “per 100K.”
+For rates that use 100,000 as their base, use **per 100K**.
 
 > Example: 
 > 15.2 cases per 100K
@@ -171,13 +171,13 @@ For exact numbers where every digit is important, write out the whole number.
 > Example: 
 > 15,435,899 cases
 
-For round or approximate numbers, write out the word “million.” Use up to one decimal point. Do not add **.0** to the end of a number. This is extra text that does not increase understanding. Just use the whole number.
+For round or approximate numbers, write out the word **million**. Use up to one decimal point. Do not add **.0** to the end of a number. This is extra text that does not increase understanding. Just use the whole number.
 
 > Example: 
 > There is $10.5 million in funding for the program.
 > Nearly 40 million people live in California.
 
-For rates that use million as their base, write out the word “million.”
+For rates that use million as their base, write out the word **million**.
 
 > Example: 
 > Unvaccinated deaths per million: 7.2
@@ -206,7 +206,7 @@ Use more than one decimal place when using this rule or rounding would cause you
 > Example:
 > .04 deaths per 100K
 
-Do not use 0.0.
+Do not use **0.0**.
 
 Use 2 decimal places if you’re writing a price that isn’t a round number.
 
@@ -222,7 +222,7 @@ Write fractions using a slash. This is more accurate than using decimal places. 
 
 ### Numerals
 
-In sentences, use numerals for all numbers, except for “one.” People recognize numerals more easily than numbers written as words. This is especially true when people scan text. Scanning is common when reading on a screen.
+In sentences, use numerals for all numbers, except for **one**. People recognize numerals more easily than numbers written as words. This is especially true when people scan text. Scanning is common when reading on a screen.
 
 > Examples:
 > Choose one of the following options.
@@ -261,6 +261,8 @@ On websites, adding bold tags to a heading can cause it to appear in the wrong f
 
 In websites or digital services, do not use *italics*. This makes text harder to read. Use **bold** for emphasis instead. In an image caption or data chart note, use smaller text.
 
+We use italics in a few of our word list entries in this guide to give the full Latin phrase for some initials. The italics signals this phrase is in another language. This is a limited exception.
+
 ### Larger introductory text
 
 On webpages, use larger introductory text on the first paragraph to state its most important takeaway. This sets people’s expectations about what they’ll find on this page and if it’s valuable to them. 
@@ -288,7 +290,7 @@ Use **alright** as a synonym for **OK**. Spell it this way and not **all right**
 
 ### American Indian
 
-In charts only, use **American Indian** instead of **Native American** when referring to people descended from the native peoples of the continental U.S. This follows federal demographic language (abbreviated to **AI/AN**). In all other cases, use “Native American.”
+In charts only, use **American Indian** instead of **Native American** when referring to people descended from the native peoples of the continental U.S. This follows federal demographic language (abbreviated to **AI/AN**). In all other cases, use **Native American**.
 
 ### Asian American
 
@@ -317,17 +319,17 @@ Use **county** in lowercase when referring to a level of government.
 > Example:
 > The county is paying for this program.
 
-Capitalize “county” if it starts a sentence. 
+Capitalize **County** if it starts a sentence. 
 
 > Example:
 > County testing facilities are open daily.
 
-Capitalize “county” when referring to a specific county.
+Capitalize **County** when referring to a specific county.
 
 > Examples:
 > Sacramento County is working to address homelessness.
 
-When referring to more than one county, do not capitalize “counties.”
+When referring to more than one county, do not capitalize **counties**.
 
 > Example:
 > Orange, San Diego, and Imperial counties are working together to prevent wildfires.
@@ -335,7 +337,8 @@ When referring to more than one county, do not capitalize “counties.”
 ### data
 Write data as if it’s singular. This sounds more natural and conversational than writing it as if it’s plural.
 
-> Example:> This data supports making a change.
+> Example:
+> This data supports making a change.
 
 ### directorate
 
@@ -360,7 +363,7 @@ The major organizational units of ODI are divisions. They are:
 * CalData
 
 ### e.g.
-Do not use Latin abbreviations like *e.g.* (which stands for *exempli gratia*, or “for example”). Many people do not understand them. Use **for example** instead.
+Do not use Latin abbreviations like **e.g.** (which stands for *exempli gratia*, or “for example”). Many people do not understand them. Use **for example** instead.
 
 ### executive team
 
@@ -368,7 +371,7 @@ We use **executive team** to collectively refer to ODI’s senior leadership tea
 
 ### for example
 
-Use **for example** instead of **e.g**, which is an abbreviation of the Latin phrase *exempli gratia*. This translates to “for example.” Writing out “for example” makes it clear to the reader what you mean.
+Use **for example** instead of **e.g.**, which stands for the Latin phrase *exempli gratia*. This translates to “for example.” Writing out **for example** makes it clear to the reader what you mean.
 
 ### Governor
 
@@ -384,7 +387,7 @@ Use **people who are homeless** or **people without homes** instead of **the hom
 
 ### i.e.
 
-Do not use Latin abbreviations like **i.e.** (which stands for *id est*, or “that is”). Many people do not understand them. Use “that is” instead.
+Do not use Latin abbreviations like **i.e.** (which stands for *id est*, or “that is”). Many people do not understand them. Use **that is** instead.
 
 ### Latino
 
@@ -400,7 +403,7 @@ Use **Multi-race** only in dashboards or chart notes to refer to those of more t
 
 ### Native American
 
-Use **Native American** instead of **American Indian** when referring to people descended from the native peoples of the continental U.S. This follows the [California Native American Heritage Commission’s](https://nahc.ca.gov/) style. The one exception is in charts, where “American Indian” is used to match federal demographic language.
+Use **Native American** instead of **American Indian** when referring to people descended from the native peoples of the continental U.S. This follows the [California Native American Heritage Commission’s](https://nahc.ca.gov/) style. The one exception is in charts, where **American Indian** is used to match federal demographic language.
 
 ### Native Hawaiian
 
@@ -453,12 +456,12 @@ Use **state** in lowercase when referring to:
 > Neither the state nor federal government requires you to get vaccinated.
 > The state of California is on the Pacific Ocean.
 
-Capitalize “state” if it starts a sentence.
+Capitalize **State** if it starts a sentence.
 
 > Example:
 > State testing facilities are open daily.
 
-Capitalize “state” when using the term **State of California** to refer to our state’s government.
+Capitalize **State** when using the term **State of California** to refer to our state’s government.
 
 > Examples:
 > The State of California is paying for this program.
@@ -474,7 +477,7 @@ ODI calls its base organizational unit a **team**. Teams make up divisions.
 
 ### that is
 
-Use **that is** instead of **i.e.**, which is an abbreviation of the Latin phrase *id est*. This translates to “that is.” Writing out “that is” makes it clear to the reader what you mean.
+Use **that is** instead of **i.e.**, which stands for the Latin phrase *id est*. This translates to “that is.” Writing out **that is** makes it clear to the reader what you mean.
 
 ### Tribe
 
@@ -495,9 +498,9 @@ The word **users** should be used only when you need to specifically indicate th
 In most cases, it’s better to call them **people**. This affirms their humanity instead of seeing them only as users of a service.
 
 > Example:
-> >This website is designed for people who use mobile devices.
+> This website is designed for people who use mobile devices.
 
-Do not use the word “users” where it can give the wrong meaning, such as in the context of drugs, addiction, or recovery.
+Do not use the word **users** where it can give the wrong meaning, such as in the context of drugs, addiction, or recovery.
 
 ### white
 
@@ -505,7 +508,7 @@ Use **white** when referring to people of European descent. Do not capitalize it
 
 ### zip code
 
-Though the United States Postal Service capitalizes it “[ZIP Code](https://tools.usps.com/go/ZipLookupAction!input.action),” use **zip code**. Most people don’t know that zip is an acronym. Using capital letters distracts readers. The unexpected capitalization makes them pause and question the content. The lowercase zip code is easier for people to understand and read.
+Though the United States Postal Service capitalizes [ZIP Code](https://tools.usps.com/go/ZipLookupAction!input.action), use **zip code**. Most people don’t know that zip is an acronym. Using capital letters distracts readers. The unexpected capitalization makes them pause and question the content. The lowercase zip code is easier for people to understand and read.
 
 ## Technical glossary
 
