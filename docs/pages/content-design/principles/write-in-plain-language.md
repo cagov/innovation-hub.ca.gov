@@ -53,7 +53,16 @@ Check reading levels with the [Hemingway Editor](http://hemingwayapp.com/). Elim
 * Use [active voice](https://plainlanguage.gov/guidelines/conversational/use-active-voice/) and strong verbs.
   * Do not use [hidden verbs](https://plainlanguage.gov/guidelines/words/avoid-hidden-verbs/).
 * Do not use gerunds with **is** or **are**. A gerund is a verb that ends in -ing. 
-  * For example: write **He helps** instead of **He is helping**.
+
+<div class="twocolumn-table">
+
+| **Write** | **Don't write** |
+| ----- | ----- | 
+| He helps with the backlog. | He is helping with the backlog. |
+| The program lets people file their taxes easily. | The program is letting people file their taxes easily. |
+
+</div>
+
 * Write in present tense.
 * When using **it**, **this**, **those**, and **these**, double check to make sure it’s clear what the pronoun refers to.
 * Do not use directional references like **as above**.
@@ -62,7 +71,13 @@ Check reading levels with the [Hemingway Editor](http://hemingwayapp.com/). Elim
   * Only go to one decimal place. Only use decimals when you need to.
   * Use commas in numbers over 999. This helps people understand the order of magnitude.
 * Use the serial comma (also called the Oxford comma) to reduce confusion. It’s the comma that comes before **and** in a list of 3 or more.
-  * For example: _We brought apples, bananas, and oranges_.
+
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">We brought apples, bananas, and oranges.</div>
+  </div>
+</div>
 
 <div class="leftright-nav-container long-right">
     <div class="left-nav"><a class="internal-link" href="/content-design/principles/be-concise/">Be concise</a></div>
