@@ -11,47 +11,77 @@ headericon: book
 
 Always use sentence case. It’s easier to read and understand. Only capitalize proper nouns and the first word of a sentence or bullet.
 
-> Examples: 
-> Your actions save lives
-> Blueprint for a Safer Economy
-> Public health orders are issued by the California Department of Public Health
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Examples:</strong></div>
+    <div class="blockquote-content">Your actions save lives</div>
+    <div class="blockquote-content">Blueprint for a Safer Economy</div>
+    <div class="blockquote-content">Public health orders are issued by the California Department of Public Health</div>
+  </div>
+</div>
 
 When a word or phrase could correctly be written in title case or sentence case, default to sentence case.
 
 When writing out a URL, use lowercase letters. But if it’s the first word in a sentence, capitalize the first letter.
 
-> Examples:
-> Check myturn.ca.gov for walk-in clinics in your area.
-> Vaccines.gov is the CDC’s vaccination portal.
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Examples:</strong></div>
+    <div class="blockquote-content">Check myturn.ca.gov for walk-in clinics in your area.</div>
+    <div class="blockquote-content">Vaccines.gov is the CDC’s vaccination portal.</div>
+  </div>
+</div>
 
 Capitalize acronyms.
 
-> Example:
-> CDC
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">CDC</div>
+  </div>
+</div>
 
 Capitalize the suffix for time of day, and add a space before it.
 
-> Example:
-> 10:40 AM
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">10:40 AM</div>
+  </div>
+</div>
 
 When creating a link to a page or document on another website, use the same case for the link text that the visitor will find when they use the link.
 
-> Example:
-> [Fact Sheet: Omicron Variant](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Omicron-Variant-Fact-Sheet.aspx)
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">
+      <a href="https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Omicron-Variant-Fact-Sheet.aspx">Fact Sheet: Omicron Variant</a>
+    </div>
+  </div>
+</div>
 
 When making a bulleted list, capitalize the first word in each bullet.
 
-> Example:
-> The best thing we can do to limit virus spread and mutation is to:
-> * Get vaccinated
-> * Get your booster if you’re eligible
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">The best thing we can do to limit virus spread and mutation is to:</div>
+    <div class="blockquote-content">* Get vaccinated</div>
+    <div class="blockquote-content">* Get your booster if you’re eligible</div>
+  </div>
+</div>
 
 ## Dates
 
 Write out the month in a date. 
 
-> Example: 
-> January 15, 2022
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">January 15, 2022</div>
+  </div>
+</div>
 
 Do not use only numbers, which can lead to confusion. Some cultures interpret 9/5/2020 as May 9, 2020 instead of September 5, 2020.
 
@@ -118,10 +148,14 @@ When info (especially data in tables or graphs) needs an explanation, follow it 
 
 Use numbered lists when you want to show information in a particular order. The numbers help people know there’s an order. They guide readers by providing a start and end. Do not use a numbered list if order does not matter.
 
-> Example:
-> To get your $50 card, just:
-> 1. Get your code (via email or text within 7-10 days)
-> 2. Redeem and pick your reward (within 90 days)
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">To get your $50 card, just:</div>
+    <div class="blockquote-content">1. Get your code (via email or text within 7-10 days)</div>
+    <div class="blockquote-content">2. Redeem and pick your reward (within 90 days)</div>
+  </div>
+</div>
 
 If you’re walking people through an important step-by-step process on a website, use a [step list component](https://designsystem.webstandards.ca.gov/components/step-list/readme/). It lets you add detail to each step and makes them more readable.
 
@@ -131,8 +165,12 @@ Browsers show a page title when you hover over the page tab. It helps people kno
 
 Make the title the same as the H1 of the page, followed by a pipe and the site name. This gives people a full understanding of the page.
 
-> Example:
-> ODI's style guide | Innovation Hub
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">ODI's style guide | Innovation Hub</div>
+  </div>
+</div>
 
 ### Webpage URLs
 
@@ -154,98 +192,158 @@ Use the site map to build the URL. If the birth certificate page lives under a p
 
 Write out the number. This is clear to people, even after translation.
 
-> Example: 
-> Grants of up to $15,000 are available.
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">Grants of up to $15,000 are available.</div>
+  </div>
+</div>
 
 When writing numbers with limited space (like labels in a chart), use a K instead of writing out the full number.
 
 For rates that use 100,000 as their base, use **per 100K**.
 
-> Example: 
-> 15.2 cases per 100K
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">15.2 cases per 100K</div>
+  </div>
+</div>
 
 #### Millions (M)
 
 For exact numbers where every digit is important, write out the whole number.
 
-> Example: 
-> 15,435,899 cases
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">15,435,899 cases</div>
+  </div>
+</div>
 
 For round or approximate numbers, write out the word **million**. Use up to one decimal point. Do not add **.0** to the end of a number. This is extra text that does not increase understanding. Just use the whole number.
 
-> Example: 
-> There is $10.5 million in funding for the program.
-> Nearly 40 million people live in California.
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Examples:</strong></div>
+    <div class="blockquote-content">There is $10.5 million in funding for the program.</div>
+    <div class="blockquote-content">Nearly 40 million people live in California.</div>
+  </div>
+</div>
 
 For rates that use million as their base, write out the word **million**.
 
-> Example: 
-> Unvaccinated deaths per million: 7.2
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">Unvaccinated deaths per million: 7.2</div>
+  </div>
+</div>
 
 When writing numbers with limited space (like labels in a chart), use an M instead of writing out the full number.
 
-> Example:
-> $15M in funding
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">$15M in funding</div>
+  </div>
+</div>
 
 ### Commas
 
 Use commas in numbers over 999. People have trouble understanding more than three numbers in a row. Commas break up the number and make it easier for people to read.
 
-> Example: 
-> 15,000 testing sites
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">15,000 testing sites</div>
+  </div>
+</div>
 
 ### Decimals
 Use decimals only when you need to. This reduces the amount of numbers people have to read. Only go to one decimal place in most situations. 
 
-Example: 
-> 78.6% of population vaccinated
-> 0.1 new deaths 
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Examples:</strong></div>
+    <div class="blockquote-content">78.6% of population vaccinated</div>
+    <div class="blockquote-content">0.1 new deaths</div>
+  </div>
+</div>
 
 Use more than one decimal place when using this rule or rounding would cause you to show a value as 0 when it is not truly 0. This most often comes into play when reporting data. 
 
-> Example:
-> .04 deaths per 100K
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">.04 deaths per 100K</div>
+  </div>
+</div>
 
 Do not use **0.0**.
 
 Use 2 decimal places if you’re writing a price that isn’t a round number.
 
-> Example:
-> The cost of a new license is $29.99.
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">The cost of a new license is $29.99.</div>
+  </div>
+</div>
 
 ### Fractions
 
 Write fractions using a slash. This is more accurate than using decimal places. It’s also easier for people to understand.
 
-> Example:
-> About 2/3 of California’s cities and counties do not allow cannabis retail activity.
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">About 2/3 of California’s cities and counties do not allow cannabis retail activity.</div>
+  </div>
+</div>
 
 ### Numerals
 
 In sentences, use numerals for all numbers, except for **one**. People recognize numerals more easily than numbers written as words. This is especially true when people scan text. Scanning is common when reading on a screen.
 
-> Examples:
-> Choose one of the following options.
-> There are 3 information sessions.
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Examples:</strong></div>
+    <div class="blockquote-content">Choose one of the following options.</div>
+    <div class="blockquote-content">There are 3 information sessions.</div>
+  </div>
+</div>
 
 If you have to start a sentence with a number, write it out. Try to avoid starting sentences with numbers so you can use numerals.
 
-> Example:
-> Twelve cities in Los Angeles County allow cultivation of cannabis.
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">Twelve cities in Los Angeles County allow cultivation of cannabis.</div>
+  </div>
+</div>
 
 ### Times
 
 Use **AM** and **PM** with times. Put a space between the time and AM or PM. Convert times to the Pacific time zone. Unless your target audience is out of state, do not state the time zone since California is only in one time zone.
 
-> Example:
-> The press conference is at 10:30 AM.
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">The press conference is at 10:30 AM.</div>
+  </div>
+</div>
 
 If you use a dash when writing a time range, put a space between the dash and the times.
 
-> Example:
-> The statewide call center is open 7 days a week:
-> * Monday through Friday, 8:00 AM - 8:00 PM   
-> * Saturday and Sunday, 8:00 AM - 5:00 PM
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">The statewide call center is open 7 days a week:</div>
+    <div class="blockquote-content">* Monday through Friday, 8:00 AM - 8:00 PM  </div>
+    <div class="blockquote-content">* Saturday and Sunday, 8:00 AM - 5:00 PM</div>
+  </div>
+</div>
 
 ## Styling
 
@@ -269,8 +367,12 @@ On webpages, use larger introductory text on the first paragraph to state its mo
 
 Making this text bigger emphasizes its importance and helps people see it. But because this text is larger, keep the paragraph brief.
 
-> Example: 
-> California has rules to keep workplaces safe from COVID-19.
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">California has rules to keep workplaces safe from COVID-19.</div>
+  </div>
+</div>
 
 Only use larger introductory text in the first paragraph on a page.
 
@@ -316,29 +418,49 @@ The **California Division of Occupational Safety and Health** is abbreviated **C
 
 Use **county** in lowercase when referring to a level of government.
 
-> Example:
-> The county is paying for this program.
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">The county is paying for this program.</div>
+  </div>
+</div>
 
 Capitalize **County** if it starts a sentence. 
 
-> Example:
-> County testing facilities are open daily.
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">County testing facilities are open daily.</div>
+  </div>
+</div>
 
 Capitalize **County** when referring to a specific county.
 
-> Examples:
-> Sacramento County is working to address homelessness.
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">Sacramento County is working to address homelessness.</div>
+  </div>
+</div>
 
 When referring to more than one county, do not capitalize **counties**.
 
-> Example:
-> Orange, San Diego, and Imperial counties are working together to prevent wildfires.
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">Orange, San Diego, and Imperial counties are working together to prevent wildfires.</div>
+  </div>
+</div>
 
 ### data
 Write data as if it’s singular. This sounds more natural and conversational than writing it as if it’s plural.
 
-> Example:
-> This data supports making a change.
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">This data supports making a change.</div>
+  </div>
+</div>
 
 ### directorate
 
@@ -350,8 +472,12 @@ Use **people with disabilities** instead of **disabled people**. This affirms th
 
 If writing about people who share the same disability, be specific.
 
-> Example:
-> There are new online tools to help blind people.
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">There are new online tools to help blind people.</div>
+  </div>
+</div>
 
 ### division
 
@@ -377,9 +503,13 @@ Use **for example** instead of **e.g.**, which stands for the Latin phrase *exem
 
 Always capitalize the word **Governor**, either with or without their name. This follows the [Office of the Governor’s](https://www.gov.ca.gov/) style.
 
-> Examples:
-> The Governor’s order
-> Governor Gavin Newsom
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Examples:</strong></div>
+    <div class="blockquote-content">The Governor’s order</div>
+    <div class="blockquote-content">Governor Gavin Newsom</div>
+  </div>
+</div>
 
 ### homelessness
 
@@ -451,29 +581,45 @@ Use **state** in lowercase when referring to:
 * The state of California as a place
 * A level of government
 
-> Examples:
-> The state is paying for this program.
-> Neither the state nor federal government requires you to get vaccinated.
-> The state of California is on the Pacific Ocean.
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Examples:</strong></div>
+    <div class="blockquote-content">The state is paying for this program.</div>
+    <div class="blockquote-content">Neither the state nor federal government requires you to get vaccinated.</div>
+    <div class="blockquote-content">The state of California is on the Pacific Ocean.</div>
+  </div>
+</div>
 
 Capitalize **State** if it starts a sentence.
 
-> Example:
-> State testing facilities are open daily.
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">State testing facilities are open daily.</div>
+  </div>
+</div>
 
 Capitalize **State** when using the term **State of California** to refer to our state’s government.
 
-> Examples:
-> The State of California is paying for this program.
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">The State of California is paying for this program.</div>
+  </div>
+</div>
 
 ### team
 
 ODI calls its base organizational unit a **team**. Teams make up divisions.
 
-> Examples:
-> The engineering team decided to use GitHub to host the website.
-> The talent team recruits great people to work at ODI.
-> The user research team piloted Ethnio intercepts on state webpages.
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Examples:</strong></div>
+    <div class="blockquote-content">The engineering team decided to use GitHub to host the website.</div>
+    <div class="blockquote-content">The talent team recruits great people to work at ODI.</div>
+    <div class="blockquote-content">The user research team piloted Ethnio intercepts on state webpages.</div>
+  </div>
+</div>
 
 ### that is
 
@@ -483,22 +629,34 @@ Use **that is** instead of **i.e.**, which stands for the Latin phrase *id est*.
 
 When referencing a specific Native American community, capitalize **Tribe** or **Tribal** as a sign of respect. This follows federal [Bureau of Indian Affairs language guidelines](https://www.bia.gov/guide/editorial-guide#cultural-terms). In other contexts, do not capitalize.
 
-> Examples:
-> Yurok Tribe
-> Kumeyaay Tribal lands
-> The survivors of the shipwreck formed two tribes.
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Examples:</strong></div>
+    <div class="blockquote-content">Yurok Tribe</div>
+    <div class="blockquote-content">Kumeyaay Tribal lands</div>
+    <div class="blockquote-content">The survivors of the shipwreck formed two tribes.</div>
+  </div>
+</div>
 
 ### users
 
 The word **users** should be used only when you need to specifically indicate those who use an item or tool. 
 
-> Example:
-> This parking lot is reserved for wheelchair users.
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">This parking lot is reserved for wheelchair users.</div>
+  </div>
+</div>
 
 In most cases, it’s better to call them **people**. This affirms their humanity instead of seeing them only as users of a service.
 
-> Example:
-> This website is designed for people who use mobile devices.
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">This website is designed for people who use mobile devices.</div>
+  </div>
+</div>
 
 Do not use the word **users** where it can give the wrong meaning, such as in the context of drugs, addiction, or recovery.
 
