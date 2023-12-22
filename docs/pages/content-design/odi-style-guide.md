@@ -32,31 +32,43 @@ When writing out a URL, use lowercase letters. But if it’s the first word in a
   </div>
 </div>
 
-> Examples:
-> Check myturn.ca.gov for walk-in clinics in your area.
-> Vaccines.gov is the CDC’s vaccination portal.
-
 Capitalize acronyms.
 
-> Example:
-> CDC
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">CDC</div>
+  </div>
+</div>
 
 Capitalize the suffix for time of day, and add a space before it.
 
-> Example:
-> 10:40 AM
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">10:40 AM</div>
+  </div>
+</div>
 
 When creating a link to a page or document on another website, use the same case for the link text that the visitor will find when they use the link.
 
-> Example:
-> [Fact Sheet: Omicron Variant](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Omicron-Variant-Fact-Sheet.aspx)
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">[Fact Sheet: Omicron Variant](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Omicron-Variant-Fact-Sheet.aspx)</div>
+  </div>
+</div>
 
 When making a bulleted list, capitalize the first word in each bullet.
 
-> Example:
-> The best thing we can do to limit virus spread and mutation is to:
-> * Get vaccinated
-> * Get your booster if you’re eligible
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">The best thing we can do to limit virus spread and mutation is to:</div>
+    <div class="blockquote-content">* Get vaccinated</div>
+    <div class="blockquote-content">* Get your booster if you’re eligible</div>
+  </div>
+</div>
 
 ## Dates
 
