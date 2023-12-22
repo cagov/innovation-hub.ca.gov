@@ -55,7 +55,9 @@ When creating a link to a page or document on another website, use the same case
 <div class="blockquote-container">
   <div class="blockquote-body">
     <div class="blockquote-header"><strong>Example:</strong></div>
-    <div class="blockquote-content">[Fact Sheet: Omicron Variant](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Omicron-Variant-Fact-Sheet.aspx)</div>
+    <div class="blockquote-content">
+      <a href="https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Omicron-Variant-Fact-Sheet.aspx">Fact Sheet: Omicron Variant</a>
+    </div>
   </div>
 </div>
 
