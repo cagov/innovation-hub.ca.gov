@@ -131,6 +131,27 @@ div.content-page-header {
 span.content-page-header-label {
   vertical-align:middle;
 }
+/* ODI BLOCK */
+div.odiblock-grid-wrapper {
+  display: grid;
+  grid-template-columns: 376px 770px;
+  gap: 30px;
+  margin-top: 4rem;
+
+  div.odiblock-image {
+    img {
+      width: 376px;
+    }
+  }
+  div.odiblock-description {
+    font-size: 18px;
+    h2#about-odi {
+      font-size: 29px;
+      margin-bottom: 20px;
+    }
+  }
+  
+}
 
 
 /* HOW TO USE TILES */

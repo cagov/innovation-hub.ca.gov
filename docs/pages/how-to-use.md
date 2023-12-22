@@ -58,10 +58,18 @@ We’ve organized resources by topic. The topics on the Hub are:
 
 Select a topic from the navigation at the top of the page or [find all resources on the homepage](/).
 
+<div class="odiblock-grid-wrapper">
+    <div class="odiblock-image">
+        <a href="https://innovation.ca.gov"><img alt="ODI logo" src="/img/odi-signage.png" /></a>
+    </div>
+    <div class="odiblock-description">
+
 ## About ODI
 
 ODI is transforming government processes and public services to work better for Californians. We use data, human-centered design and technology to create services that are easier for everyone to use. We are a government-to-government service. Our goal is for the citizens of our community to benefit from our collaborations.
+        <div class="wp-block-button"><a class="btn-primary featured-btn external-link" href="https://innovation.ca.gov"><span>Learn more</span></a></div>
 
-<div class="wp-block-button">
-<a class="btn-primary featured-btn external-link" href="https://innovation.ca.gov"><span>Learn more</span></a>
+
+    </div>
 </div>
+
