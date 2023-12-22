@@ -14,9 +14,9 @@ Always use sentence case. It’s easier to read and understand. Only capitalize 
 <div class="blockquote-container">
   <div class="blockquote-body">
     <div class="blockquote-header"><strong>Examples:</strong></div>
-    <div class="blockquote-content">Your actions save lives
-    Blueprint for a Safer Economy
-    Public health orders are issued by the California Department of Public Health</div>
+    <div class="blockquote-content">Your actions save lives</div>
+    <div class="blockquote-content">Blueprint for a Safer Economy</div>
+    <div class="blockquote-content">Public health orders are issued by the California Department of Public Health</div>
   </div>
 </div>
 
@@ -27,8 +27,8 @@ When writing out a URL, use lowercase letters. But if it’s the first word in a
 <div class="blockquote-container">
   <div class="blockquote-body">
     <div class="blockquote-header"><strong>Examples:</strong></div>
-    <div class="blockquote-content">Check myturn.ca.gov for walk-in clinics in your area.
-    Vaccines.gov is the CDC’s vaccination portal.</div>
+    <div class="blockquote-content">Check myturn.ca.gov for walk-in clinics in your area.</div>
+    <div class="blockquote-content">Vaccines.gov is the CDC’s vaccination portal.</div>
   </div>
 </div>
 
