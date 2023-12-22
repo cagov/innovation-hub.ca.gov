@@ -74,8 +74,12 @@ When making a bulleted list, capitalize the first word in each bullet.
 
 Write out the month in a date. 
 
-> Example: 
-> January 15, 2022
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">January 15, 2022</div>
+  </div>
+</div>
 
 Do not use only numbers, which can lead to confusion. Some cultures interpret 9/5/2020 as May 9, 2020 instead of September 5, 2020.
 
@@ -142,10 +146,14 @@ When info (especially data in tables or graphs) needs an explanation, follow it 
 
 Use numbered lists when you want to show information in a particular order. The numbers help people know there’s an order. They guide readers by providing a start and end. Do not use a numbered list if order does not matter.
 
-> Example:
-> To get your $50 card, just:
-> 1. Get your code (via email or text within 7-10 days)
-> 2. Redeem and pick your reward (within 90 days)
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">To get your $50 card, just:</div>
+    <div class="blockquote-content">1. Get your code (via email or text within 7-10 days)</div>
+    <div class="blockquote-content">2. Redeem and pick your reward (within 90 days)</div>
+  </div>
+</div>
 
 If you’re walking people through an important step-by-step process on a website, use a [step list component](https://designsystem.webstandards.ca.gov/components/step-list/readme/). It lets you add detail to each step and makes them more readable.
 
