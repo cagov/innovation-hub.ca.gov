@@ -138,9 +138,20 @@ div.odiblock-grid-wrapper {
   gap: 30px;
   margin-top: 4rem;
 
+  @media screen and (max-width: 1200px) {
+    grid-template-columns: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+
   div.odiblock-image {
+    margin: auto auto;
     img {
       width: 376px;
+      @media screen and (max-width: 1200px) {
+        width: 90%;
+      }
     }
   }
   div.odiblock-description {
@@ -149,7 +160,10 @@ div.odiblock-grid-wrapper {
       font-size: 29px;
       margin-bottom: 20px;
     }
-  }
+    @media screen and (max-width: 1200px) {
+      width: 90%;
+    }
+}
   
 }
 
