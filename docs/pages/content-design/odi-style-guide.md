@@ -261,6 +261,7 @@ For round or approximate numbers, write out the word “million.” Use up to on
   <div class="blockquote-body">
     <div class="blockquote-header"><strong>Examples:</strong></div>
     <div class="blockquote-content">
+
 There is $10.5 million in funding for the program.
 
 Nearly 40 million people live in California.
