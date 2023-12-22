@@ -11,14 +11,26 @@ headericon: book
 
 Always use sentence case. It’s easier to read and understand. Only capitalize proper nouns and the first word of a sentence or bullet.
 
-> Examples: 
-> Your actions save lives
-> Blueprint for a Safer Economy
-> Public health orders are issued by the California Department of Public Health
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Examples:</strong></div>
+    <div class="blockquote-content">Your actions save lives
+    Blueprint for a Safer Economy
+    Public health orders are issued by the California Department of Public Health</div>
+  </div>
+</div>
 
 When a word or phrase could correctly be written in title case or sentence case, default to sentence case.
 
 When writing out a URL, use lowercase letters. But if it’s the first word in a sentence, capitalize the first letter.
+
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Examples:</strong></div>
+    <div class="blockquote-content">Check myturn.ca.gov for walk-in clinics in your area.
+    Vaccines.gov is the CDC’s vaccination portal.</div>
+  </div>
+</div>
 
 > Examples:
 > Check myturn.ca.gov for walk-in clinics in your area.
