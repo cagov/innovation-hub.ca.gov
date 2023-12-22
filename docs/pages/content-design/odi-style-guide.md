@@ -175,8 +175,8 @@ Use numbered lists when you want to show information in a particular order. The 
     <div class="blockquote-content">
 
 To get your $50 card, just:
-* Get your code (via email or text within 7-10 days)
-* Redeem and pick your reward (within 90 days)
+1. Get your code (via email or text within 7-10 days)
+2. Redeem and pick your reward (within 90 days)
 
     </div>
   </div>
