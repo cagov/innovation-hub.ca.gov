@@ -6,11 +6,11 @@ headerlabel: Templates
 headericon: templates
 ---
 
-<p class="text-lead">A run-of-show tracker is a single unified table, organized by day and time.</p>
+<p class="text-lead">A run-of-show tracker is a real-time checklist for a launch or update.</p>
 
-It’s sometimes called a “tick tock”. It’s a countdown to any launch and can even go beyond.
+It’s a single unified table, organized by day and time. This is why it’s sometimes called a “tick tock”.
 
-It maps out the sequence of events to be sure you’ve covered every angle. It also makes sure the process is reviewed and approved. The run-of-show is a real-time checklist for making sure the “show” goes on as planned.
+It maps out the sequence of events to be sure you’ve covered every angle. It also makes sure the process is reviewed and approved. The run-of-show makes sure the “show” goes on as planned.
 
 You can use a run-of-show for:
 
@@ -19,7 +19,9 @@ You can use a run-of-show for:
 * A major update that requires alignment across multiple stakeholders
 * Any complex delivery that requires orchestrating dependencies across multiple teams
 
-## Example
+## Example: New license fee launch
+
+Here’s an example of what a run-of-show for updating license fees might look like.
 
 The headings provide guidance on what goes in each row. We’ve provided 3 example rows to give a sense of what a run-of-show looks like in practice.
 
