@@ -6,6 +6,10 @@ headerlabel: Guides and playbooks
 headericon: book
 ---
 
+<p class="text-lead">This checklist gives details on how to check if your content is in plain language.</p>
+
+Use it when writing or editing content. You can also make the checklist part of a content audit. It can help you decide where to begin improving your content.
+
 Adapted from the US Department of Labor’s [Use plain language for claimant notices](https://www.dol.gov/agencies/eta/ui-modernization/claimant-notices)
 
 <div class="plainlanguage-grid-wrapper">
