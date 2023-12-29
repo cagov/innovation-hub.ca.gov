@@ -805,4 +805,4 @@ If you want advice on how to talk about a specific group, try the [CDC’s Prefe
 
 ### Other style questions
 
-For all other style questions, we use AP Style. It’s behind a paywall. But you can ask questions about AP Style in #odi-content-design on Slack. Someone on the content team with a subscription will get you an answer.
+For all other style questions, we use AP Style. It’s behind a paywall. But you can the ODI content designers (who have subscriptions) questions.
