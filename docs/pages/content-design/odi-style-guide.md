@@ -805,4 +805,4 @@ If you want advice on how to talk about a specific group, try the [CDC’s Prefe
 
 ### Other style questions
 
-For all other style questions, we use AP Style. It’s behind a paywall. But you can the ODI content designers (who have subscriptions) questions.
+For all other style questions, we use AP Style. It’s behind a paywall. But you can ask the ODI content designers questions. They have subscriptions to the AP Stylebook.
