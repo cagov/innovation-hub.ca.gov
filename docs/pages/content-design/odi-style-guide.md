@@ -576,7 +576,7 @@ We use **executive team** to collectively refer to ODI’s senior leadership tea
 
 ### for example
 
-Use **for example** instead of **e.g**, which is an abbreviation of the Latin phrase *exempli gratia*. This translates to “for example.” Writing out **for example** makes it clear to the reader what you mean.
+Use **for example** instead of **e.g.**, which is an abbreviation of the Latin phrase *exempli gratia*. This translates to “for example.” Writing out **for example** makes it clear to the reader what you mean.
 
 ### Governor
 
@@ -806,7 +806,3 @@ If you want advice on how to talk about a specific group, try the [CDC’s Prefe
 ### Other style questions
 
 For all other style questions, we use AP Style. It’s behind a paywall. But you can ask questions about AP Style in #odi-content-design on Slack. Someone on the content team with a subscription will get you an answer.
-
-### Suggest an addition
-
-If you think we should include something in this guide, let us know in #odi-content-design on Slack.
