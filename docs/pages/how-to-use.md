@@ -22,7 +22,7 @@ Here are our recommendations for how to use each type of resource on the Hub.
             <div class="header-icon header-book">&nbsp;</div>
             <h2>Guides and playbooks</h2>
         </div>
-        <div class="howtouse-tile-copy interim">These offer details about how to implement a standard or best practice. They can include step-by-step instructions to achieve a goal. Use guides and playbooks when doing work to achieve a great outcome.</div>
+        <div class="howtouse-tile-copy interim">These offer details about how to implement a standard or best practice. They can include step-by-step instructions to achieve a goal. Use the guides and playbooks when doing work to achieve a great outcome.</div>
     <hr/>
     </div>
     <div class="howtouse-tile">
@@ -67,7 +67,7 @@ Select a topic from the navigation at the top of the page or [find all resources
 ## About ODI
 
 ODI is transforming government processes and public services to work better for Californians. We use data, human-centered design and technology to create services that are easier for everyone to use. We are a government-to-government service. Our goal is for the citizens of our community to benefit from our collaborations.
-        <div class="wp-block-button"><a class="btn-primary featured-btn external-link" href="https://innovation.ca.gov"><span>Learn more</span></a></div>
+        <div class="wp-block-button"><a class="btn-primary featured-btn external-link" href="https://innovation.ca.gov"><span>Learn more about ODI</span></a></div>
 
 
     </div>
