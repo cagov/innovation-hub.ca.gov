@@ -329,6 +329,29 @@ hr.homepage-divider {
 div.homepage-top-block {
   padding: 48px 0 0 0;
 }
+div.featured-content-band {
+  background: #ECF1F6;
+}
+div.featured-resources-header {
+  font-size: 23px;
+  // font-weight: 700;
+  // color: #0D4F8C;
+  // padding: 24px 0;
+  // margin: 0 0;
+}
+div.page-container-ds.featured-page-container {
+  margin-bottom: 0px;
+}
+div.page-container-ds.post-featured-page-container {
+  margin-top: 0px;
+}
+div.featured-resources-inner {
+  background: #ECF1F6;
+  margin-top: 48px;
+  padding-top: 24px;
+  padding-bottom: 48px;
+}
+
 
 div.leftright-nav-container {
   display: grid;

@@ -1,0 +1,60 @@
+{% extends "layouts/index.njk" %}
+{% block content %}
+<div id="page-container" class="page-container-ds">
+  <div class="breadcrumb" aria-label="Breadcrumb" role="region">
+    <a class="crumb" href="https://ca.gov" title="CA.gov">CA.gov</a>
+    <span class="crumb separator">/</span>
+    <a class="crumb" href="/" title="Innovation Hub">Innovation Hub</a>
+    {% if parentid %}
+      <span class="crumb separator">/</span>
+      <span class="crumb">{{ fileids[parentid] | safe }}</span>
+    {% endif %}
+    <span class="crumb separator">/</span>
+    <span class="crumb current">{{ title | safe }}</span>
+  </div>
+
+  <main id="body-content" class="cagov-main">
+    <article id="post-{{ page.fileSlug }}" class="cagov-article with-single-column-wide">
+      <h1 class="page-title">
+        {{ title | safe }}
+      </h1>
+      <div class="cagov-content">
+        <div class="homepage-top-block">
+          <h1 class="page-title">Tips and tools for working better</h1>
+
+          <div class="cagov-hero-body-content">
+              <p>Find resources from the Office of Data and Innovation (ODI) to help you deliver great services. You’ll find high-level principles, detailed guides, and training. We add and update resources as we partner with state departments.
+              </p>
+              <p>If you want a place to start, we have recommendations for how to use each type of resource.
+              </p>
+          </div>
+        </div>
+        <div class="wp-block-button">
+          <a class="btn-primary featured-btn" href="/how-to-use/">Learn how to use the Hub</a>
+        </div>
+      </div>
+    </article>
+  </main>
+
+
+
+</div>
+{% block featuredContent %}
+  <div class="featured-content-band">
+    <div id="page-container" class="page-container-ds featured-page-container">
+      <div class="featured-resources-inner">
+        {% include "featured-content.njk" %}
+      </div>
+    </div>
+  </div>
+{% endblock %}
+
+<div id="page-container" class="page-container-ds post-featured-page-container">
+  <main id="body-content" class="cagov-main">
+      <div class="cagov-content">
+        {{ content | safe }}
+      </div>
+    </article>
+  </main>
+</div>
+{% endblock %}
