@@ -97,6 +97,7 @@ module.exports = function (eleventyConfig) {
   // });
   // eleventyConfig.addPassthroughCopy({ 'components/icons/src/fonts': 'fonts' });
 
+  /*
   // generate allfiles?
   var fileList = [];
   // for all the .md files in ./docs (recursively)
@@ -137,8 +138,21 @@ module.exports = function (eleventyConfig) {
     fs.writeFileSync('./_site_dist/allFiles.json',JSON.stringify(abbrevFileList),'utf8');
     return output;
   });
+ */
 
+  eleventyConfig.on("eleventy.after", async ({ results }) => {
+    // Generate map of all HTML files for tests.
+    const files = results.map((r) => {
+      const { content, ...paths } = r;
+      return paths;
+    });
 
+    const htmlFiles = files.filter((p) => p?.outputPath?.endsWith(".html"));
+    const htmlFileJson = JSON.stringify(htmlFiles, null, 2);
+
+    fs.writeFileSync("./_site_dist/allFiles.json", htmlFileJson, "utf8");
+  });
+  
   return {
     htmlTemplateEngine: 'njk',
     markdownTemplateEngine: 'njk',
