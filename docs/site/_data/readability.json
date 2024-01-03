@@ -1,222 +1,13 @@
 {
-  "/front-matter/": {
+  "/error.html": {
     "readability": {
-      "letterCount": 396,
-      "syllableCount": 128,
-      "wordCount": 64,
-      "sentenceCount": 7,
-      "polysyllabicWordCount": 19,
-      "ari": 12.28,
-      "timestamp": 1704227618033
-    }
-  },
-  "/markdown/": {
-    "readability": {
-      "letterCount": 1956,
-      "syllableCount": 612,
-      "wordCount": 392,
-      "sentenceCount": 56,
-      "polysyllabicWordCount": 51,
-      "ari": 5.57,
-      "timestamp": 1704227618033
-    }
-  },
-  "/page-score-info/": {
-    "readability": {
-      "letterCount": 4599,
-      "syllableCount": 1477,
-      "wordCount": 923,
-      "sentenceCount": 102,
-      "polysyllabicWordCount": 139,
-      "ari": 6.56,
-      "timestamp": 1704227618033
-    }
-  },
-  "/content-design/odi-style-guide/": {
-    "readability": {
-      "letterCount": 16505,
-      "syllableCount": 5460,
-      "wordCount": 3437,
-      "sentenceCount": 450,
-      "polysyllabicWordCount": 537,
-      "ari": 5.01,
-      "timestamp": 1704227618033
-    }
-  },
-  "/content-design/recommended-reading/": {
-    "readability": {
-      "letterCount": 1223,
-      "syllableCount": 403,
-      "wordCount": 210,
-      "sentenceCount": 55,
-      "polysyllabicWordCount": 45,
-      "ari": 7.91,
-      "timestamp": 1704227618033
-    }
-  },
-  "/content-design/plain-language-equity-standard/": {
-    "readability": {
-      "letterCount": 1126,
-      "syllableCount": 364,
-      "wordCount": 202,
-      "sentenceCount": 27,
-      "polysyllabicWordCount": 47,
-      "ari": 8.57,
-      "timestamp": 1704227618033
-    }
-  },
-  "/product-management/product-craft-accessibility/": {
-    "readability": {
-      "letterCount": 901,
-      "syllableCount": 301,
-      "wordCount": 166,
-      "sentenceCount": 28,
-      "polysyllabicWordCount": 42,
-      "ari": 7.1,
-      "timestamp": 1704227618033
-    }
-  },
-  "/content-design/principles/be-concise/": {
-    "readability": {
-      "letterCount": 1720,
-      "syllableCount": 547,
-      "wordCount": 338,
-      "sentenceCount": 40,
-      "polysyllabicWordCount": 58,
-      "ari": 6.76,
-      "timestamp": 1704227618033
-    }
-  },
-  "/content-design/principles/build-accessibility-from-start/": {
-    "readability": {
-      "letterCount": 3503,
-      "syllableCount": 1152,
-      "wordCount": 666,
-      "sentenceCount": 79,
-      "polysyllabicWordCount": 134,
-      "ari": 7.56,
-      "timestamp": 1704227618033
-    }
-  },
-  "/content-design/principles/focus-on-user-needs-services/": {
-    "readability": {
-      "letterCount": 1371,
-      "syllableCount": 441,
-      "wordCount": 285,
-      "sentenceCount": 29,
-      "polysyllabicWordCount": 37,
-      "ari": 6.14,
-      "timestamp": 1704227618033
-    }
-  },
-  "/content-design/principles/meet-your-audience-where-they-are/": {
-    "readability": {
-      "letterCount": 1710,
-      "syllableCount": 535,
-      "wordCount": 358,
-      "sentenceCount": 32,
-      "polysyllabicWordCount": 42,
-      "ari": 6.66,
-      "timestamp": 1704227618033
-    }
-  },
-  "/content-design/principles/organize-content-strategically/": {
-    "readability": {
-      "letterCount": 2753,
-      "syllableCount": 882,
-      "wordCount": 573,
-      "sentenceCount": 58,
-      "polysyllabicWordCount": 68,
-      "ari": 6.14,
-      "timestamp": 1704227618033
-    }
-  },
-  "/content-design/principles/write-in-plain-language/": {
-    "readability": {
-      "letterCount": 2646,
-      "syllableCount": 857,
-      "wordCount": 552,
-      "sentenceCount": 69,
-      "polysyllabicWordCount": 79,
-      "ari": 5.15,
-      "timestamp": 1704227618033
-    }
-  },
-  "/content-design/principles/write-with-conversational-official-voice/": {
-    "readability": {
-      "letterCount": 3900,
-      "syllableCount": 1256,
-      "wordCount": 788,
-      "sentenceCount": 75,
-      "polysyllabicWordCount": 133,
-      "ari": 7.13,
-      "timestamp": 1704227618033
-    }
-  },
-  "/content-design/odi-style-guide-pt2/": {
-    "readability": {
-      "letterCount": 2048,
-      "syllableCount": 662,
-      "wordCount": 404,
-      "sentenceCount": 60,
-      "polysyllabicWordCount": 60,
-      "ari": 5.81,
-      "timestamp": 1704227618033
-    }
-  },
-  "/content-design/plain-language-checklist/": {
-    "readability": {
-      "letterCount": 1684,
-      "syllableCount": 532,
-      "wordCount": 333,
-      "sentenceCount": 32,
-      "polysyllabicWordCount": 56,
-      "ari": 7.59,
-      "timestamp": 1704227618033
-    }
-  },
-  "/content-design/principles/": {
-    "readability": {
-      "letterCount": 400,
-      "syllableCount": 126,
-      "wordCount": 76,
-      "sentenceCount": 21,
-      "polysyllabicWordCount": 17,
-      "ari": 5.17,
-      "timestamp": 1704227618033
-    }
-  },
-  "/human-centered-design/innovation-skills-accelerator/": {
-    "readability": {
-      "letterCount": 550,
-      "syllableCount": 180,
-      "wordCount": 96,
-      "sentenceCount": 14,
-      "polysyllabicWordCount": 19,
-      "ari": 8.98,
-      "timestamp": 1704227618033
-    }
-  },
-  "/product-management/run-of-show/": {
-    "readability": {
-      "letterCount": 1368,
-      "syllableCount": 425,
-      "wordCount": 275,
-      "sentenceCount": 19,
-      "polysyllabicWordCount": 41,
-      "ari": 9.24,
-      "timestamp": 1704227618033
-    }
-  },
-  "/how-to-use/": {
-    "readability": {
-      "letterCount": 1500,
-      "syllableCount": 486,
-      "wordCount": 301,
-      "sentenceCount": 34,
-      "polysyllabicWordCount": 48,
-      "ari": 6.47,
-      "timestamp": 1704227618033
+      "letterCount": 128,
+      "syllableCount": 40,
+      "wordCount": 22,
+      "sentenceCount": 3,
+      "polysyllabicWordCount": 3,
+      "ari": 9.64,
+      "timestamp": 1704312887000
     }
   },
   "/CHANGELOG/": {
@@ -227,40 +18,7 @@
       "sentenceCount": 5,
       "polysyllabicWordCount": 4,
       "ari": 9.58,
-      "timestamp": 1704227618033
-    }
-  },
-  "/": {
-    "readability": {
-      "letterCount": 608,
-      "syllableCount": 196,
-      "wordCount": 118,
-      "sentenceCount": 18,
-      "polysyllabicWordCount": 22,
-      "ari": 6.12,
-      "timestamp": 1704227618033
-    }
-  },
-  "/docs/src/js/airtable-form/README/": {
-    "readability": {
-      "letterCount": 0,
-      "syllableCount": 0,
-      "wordCount": 0,
-      "sentenceCount": 0,
-      "polysyllabicWordCount": 0,
-      "ari": 1,
-      "timestamp": 1704227618033
-    }
-  },
-  "/docs/src/js/airtable-form/preview/": {
-    "readability": {
-      "letterCount": 0,
-      "syllableCount": 0,
-      "wordCount": 0,
-      "sentenceCount": 0,
-      "polysyllabicWordCount": 0,
-      "ari": 1,
-      "timestamp": 1704227618033
+      "timestamp": 1704312887000
     }
   },
   "/docs/src/js/airtable-form/CHANGELOG/": {
@@ -271,7 +29,29 @@
       "sentenceCount": 0,
       "polysyllabicWordCount": 0,
       "ari": 1,
-      "timestamp": 1704227618033
+      "timestamp": 1704312887000
+    }
+  },
+  "/docs/src/js/airtable-form/README/": {
+    "readability": {
+      "letterCount": 0,
+      "syllableCount": 0,
+      "wordCount": 0,
+      "sentenceCount": 0,
+      "polysyllabicWordCount": 0,
+      "ari": 1,
+      "timestamp": 1704312887000
+    }
+  },
+  "/docs/src/js/airtable-form/preview/": {
+    "readability": {
+      "letterCount": 0,
+      "syllableCount": 0,
+      "wordCount": 0,
+      "sentenceCount": 0,
+      "polysyllabicWordCount": 0,
+      "ari": 1,
+      "timestamp": 1704312887000
     }
   },
   "/docs/src/js/airtable-form/template/": {
@@ -282,7 +62,7 @@
       "sentenceCount": 5,
       "polysyllabicWordCount": 0,
       "ari": -0.89,
-      "timestamp": 1704227618033
+      "timestamp": 1704312887000
     }
   },
   "/sandbox/": {
@@ -293,18 +73,238 @@
       "sentenceCount": 4,
       "polysyllabicWordCount": 0,
       "ari": 5.64,
-      "timestamp": 1704227618033
+      "timestamp": 1704312887000
     }
   },
-  "/error.html": {
+  "/front-matter/": {
     "readability": {
-      "letterCount": 128,
-      "syllableCount": 40,
-      "wordCount": 22,
-      "sentenceCount": 3,
-      "polysyllabicWordCount": 3,
-      "ari": 9.64,
-      "timestamp": 1704227618033
+      "letterCount": 396,
+      "syllableCount": 128,
+      "wordCount": 64,
+      "sentenceCount": 7,
+      "polysyllabicWordCount": 19,
+      "ari": 12.28,
+      "timestamp": 1704312887000
+    }
+  },
+  "/markdown/": {
+    "readability": {
+      "letterCount": 1956,
+      "syllableCount": 612,
+      "wordCount": 392,
+      "sentenceCount": 56,
+      "polysyllabicWordCount": 51,
+      "ari": 5.57,
+      "timestamp": 1704312887000
+    }
+  },
+  "/page-score-info/": {
+    "readability": {
+      "letterCount": 4599,
+      "syllableCount": 1477,
+      "wordCount": 923,
+      "sentenceCount": 102,
+      "polysyllabicWordCount": 139,
+      "ari": 6.56,
+      "timestamp": 1704312887000
+    }
+  },
+  "/content-design/odi-style-guide/": {
+    "readability": {
+      "letterCount": 16505,
+      "syllableCount": 5460,
+      "wordCount": 3437,
+      "sentenceCount": 450,
+      "polysyllabicWordCount": 537,
+      "ari": 5.01,
+      "timestamp": 1704312887000
+    }
+  },
+  "/content-design/plain-language-equity-standard/": {
+    "readability": {
+      "letterCount": 1126,
+      "syllableCount": 364,
+      "wordCount": 202,
+      "sentenceCount": 27,
+      "polysyllabicWordCount": 47,
+      "ari": 8.57,
+      "timestamp": 1704312887000
+    }
+  },
+  "/product-management/product-craft-accessibility/": {
+    "readability": {
+      "letterCount": 901,
+      "syllableCount": 301,
+      "wordCount": 166,
+      "sentenceCount": 28,
+      "polysyllabicWordCount": 42,
+      "ari": 7.1,
+      "timestamp": 1704312887000
+    }
+  },
+  "/content-design/recommended-reading/": {
+    "readability": {
+      "letterCount": 1223,
+      "syllableCount": 403,
+      "wordCount": 210,
+      "sentenceCount": 55,
+      "polysyllabicWordCount": 45,
+      "ari": 7.91,
+      "timestamp": 1704312887000
+    }
+  },
+  "/content-design/principles/be-concise/": {
+    "readability": {
+      "letterCount": 1720,
+      "syllableCount": 547,
+      "wordCount": 338,
+      "sentenceCount": 40,
+      "polysyllabicWordCount": 58,
+      "ari": 6.76,
+      "timestamp": 1704312887000
+    }
+  },
+  "/content-design/principles/build-accessibility-from-start/": {
+    "readability": {
+      "letterCount": 3503,
+      "syllableCount": 1152,
+      "wordCount": 666,
+      "sentenceCount": 79,
+      "polysyllabicWordCount": 134,
+      "ari": 7.56,
+      "timestamp": 1704312887000
+    }
+  },
+  "/content-design/principles/focus-on-user-needs-services/": {
+    "readability": {
+      "letterCount": 1371,
+      "syllableCount": 441,
+      "wordCount": 285,
+      "sentenceCount": 29,
+      "polysyllabicWordCount": 37,
+      "ari": 6.14,
+      "timestamp": 1704312887000
+    }
+  },
+  "/content-design/principles/meet-your-audience-where-they-are/": {
+    "readability": {
+      "letterCount": 1710,
+      "syllableCount": 535,
+      "wordCount": 358,
+      "sentenceCount": 32,
+      "polysyllabicWordCount": 42,
+      "ari": 6.66,
+      "timestamp": 1704312887000
+    }
+  },
+  "/content-design/principles/write-in-plain-language/": {
+    "readability": {
+      "letterCount": 2646,
+      "syllableCount": 857,
+      "wordCount": 552,
+      "sentenceCount": 69,
+      "polysyllabicWordCount": 79,
+      "ari": 5.15,
+      "timestamp": 1704312887000
+    }
+  },
+  "/content-design/principles/write-with-conversational-official-voice/": {
+    "readability": {
+      "letterCount": 3900,
+      "syllableCount": 1256,
+      "wordCount": 788,
+      "sentenceCount": 75,
+      "polysyllabicWordCount": 133,
+      "ari": 7.13,
+      "timestamp": 1704312887000
+    }
+  },
+  "/content-design/principles/organize-content-strategically/": {
+    "readability": {
+      "letterCount": 2753,
+      "syllableCount": 882,
+      "wordCount": 573,
+      "sentenceCount": 58,
+      "polysyllabicWordCount": 68,
+      "ari": 6.14,
+      "timestamp": 1704312887000
+    }
+  },
+  "/how-to-use/": {
+    "readability": {
+      "letterCount": 1500,
+      "syllableCount": 486,
+      "wordCount": 301,
+      "sentenceCount": 34,
+      "polysyllabicWordCount": 48,
+      "ari": 6.47,
+      "timestamp": 1704312887000
+    }
+  },
+  "/": {
+    "readability": {
+      "letterCount": 344,
+      "syllableCount": 113,
+      "wordCount": 61,
+      "sentenceCount": 10,
+      "polysyllabicWordCount": 14,
+      "ari": 8.18,
+      "timestamp": 1704312887000
+    }
+  },
+  "/content-design/odi-style-guide-pt2/": {
+    "readability": {
+      "letterCount": 2048,
+      "syllableCount": 662,
+      "wordCount": 404,
+      "sentenceCount": 60,
+      "polysyllabicWordCount": 60,
+      "ari": 5.81,
+      "timestamp": 1704312887000
+    }
+  },
+  "/content-design/plain-language-checklist/": {
+    "readability": {
+      "letterCount": 1684,
+      "syllableCount": 532,
+      "wordCount": 333,
+      "sentenceCount": 32,
+      "polysyllabicWordCount": 56,
+      "ari": 7.59,
+      "timestamp": 1704312887000
+    }
+  },
+  "/content-design/principles/": {
+    "readability": {
+      "letterCount": 400,
+      "syllableCount": 126,
+      "wordCount": 76,
+      "sentenceCount": 21,
+      "polysyllabicWordCount": 17,
+      "ari": 5.17,
+      "timestamp": 1704312887000
+    }
+  },
+  "/human-centered-design/innovation-skills-accelerator/": {
+    "readability": {
+      "letterCount": 550,
+      "syllableCount": 180,
+      "wordCount": 96,
+      "sentenceCount": 14,
+      "polysyllabicWordCount": 19,
+      "ari": 8.98,
+      "timestamp": 1704312887000
+    }
+  },
+  "/product-management/run-of-show/": {
+    "readability": {
+      "letterCount": 1368,
+      "syllableCount": 425,
+      "wordCount": 275,
+      "sentenceCount": 19,
+      "polysyllabicWordCount": 41,
+      "ari": 9.24,
+      "timestamp": 1704312887000
     }
   }
 }

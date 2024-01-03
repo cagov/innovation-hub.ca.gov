@@ -68,7 +68,6 @@
     "markdown-it": "^13.0.1",
     "markdown-it-anchor": "^8.6.4",
     "readability-scores": "^1.0.8",
-    "sharp": "^0.30.5",
     "showdown": "^2.1.0"
   }
 }
