@@ -26,12 +26,40 @@ Here’s an example of what a run-of-show for updating license fees might look l
 The headings provide guidance on what goes in each row. We’ve provided 3 example rows to give a sense of what a run-of-show looks like in practice.
 
 <div class="runofshow-table">
-
-| **Task** | **Date and time** | **Page** | **Responsible** | **Approver** | **Notes and questions** | **Status** |
-| ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| *Describe the work to be done* | *Kept in strict, accurate sequence* | *Can be a URL or other identifier* | *The person who will do this* | *The person who has final approval* | *As needed* | *Varies with project* |
-| Update fee schedule | May 28, 10:00 AM | department.ca.gov/license-fees/ | Paz | Abida | Double check before final publishing | Done |
-| Post media release | May 29, 9:30 AM | Blog post: Department updates license fees | Chris | Huyhn | Make sure Comms sees staged version first | In staging |
-| Data load into backend system | May 29, 1:30 PM | Data warehouse | Miles | Elena |  | In progress |
-
+<table>
+<thead>
+<tr>
+  <th><div class="title">Task</div><div class="description">Describe the work to be done</div></th>
+  <th><div class="title">Date and time</div><div class="description">Kept in strict, accurate sequence</div></th>
+  <th><div class="title">Page</div><div class="description">Can be a URL or other identifier</div></th>
+  <th><div class="title">Responsible</div><div class="description">The person who will do this</div></th>
+  <th><div class="title">Approver</div><div class="description">The person who has final approval</div></th>
+  <th><div class="title">Notes and questions</div><div class="description">As needed</div></th>
+  <th><div class="title">Status</div><div class="description">Varies with project</div></th>
+</tr>
+</thead>
+<tbody>
+  <tr><td>Update fee schedule</td>
+    <td>May 28, 10:00 AM</td>
+    <td>department.ca.gov/license-fees/</td>
+    <td>Paz</td>
+    <td>Abida</td>
+    <td>Double check before final publishing</td>
+    <td>Done</td></tr>
+  <tr><td>Post media release</td>
+    <td>May 29, 9:30 AM</td>
+    <td>Blog post: Department updates license fees</td>
+    <td>Chris</td>
+    <td>Huyhn</td>
+    <td>Make sure Comms sees staged version first</td>
+    <td>In staging</td></tr>
+  <tr><td>Data load into backend system</td>
+    <td>May 29, 1:30 PM</td>
+    <td>Data warehouse</td>
+    <td>Miles</td>
+    <td>Elena</td>
+    <td></td>
+    <td>In progress</td></tr>
+</tbody>
+</table>
 </div>
