@@ -119,20 +119,31 @@ div.twocolumn-table {
 
 div.runofshow-table {
     table {
+        border-collapse: collapse; 
+        table-layout: fixed;
+        width: 100%;
         thead {
             background-color: #FAFAFA;
             th {
                 border: 1px solid #C7D6E4;
-                width: 26%;
                 font-size: 18px;
+                font-weight: 700;
+                padding: 16px;
+                vertical-align: top;
+                div.description {
+                    padding-top: 8px;
+                    font-size: 14px;
+                    font-weight: 400;
+                }
             }
         }
         tbody {
             background-color: white;
             td {
+                padding: 16px;
                 font-size: 14px;
                 border: 1px solid #C7D6E4;
-                width: 26%;
+                border-collapse: collapse; 
             }
         }
     }
