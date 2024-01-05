@@ -48,6 +48,13 @@ Here are our recommendations for how to use each type of resource on the Hub.
         </div>
         <div class="howtouse-tile-copy">We often make templates to streamline our work. Take our templates and use them to make your work easier. Feel free to change them to fit your department.</div>
     </div>
+    <div class="howtouse-tile">
+        <div class="howtouse-tile-header">
+            <div class="header-icon header-templates">&nbsp;</div>
+            <h2>Papers</h2>
+        </div>
+        <div class="howtouse-tile-copy">We share the details about how we got things done in papers. If you want to learn exactly how we did something, read papers about our projects.</div>
+    </div>
 </div>
 
 We’ve organized resources by topic. The topics on the Hub are:
