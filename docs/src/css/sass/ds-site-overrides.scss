@@ -91,6 +91,17 @@ main.cagov-main {
             }
             div.blockquote-content {
                 font-size: 14px;
+                p {
+                    margin-bottom: 0.75rem;
+                }
+                ol {
+                    li {
+                        p {
+                            margin-bottom: 0px;
+                        
+                        }
+                    }
+                }
             }
         }
     }
