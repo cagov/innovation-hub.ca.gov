@@ -2,12 +2,12 @@
 title: Forecasting community water system outages
 description: ODI used data to forecast the impact of drought on community water systems.
 headerlabel: Papers
-headericon: 
+headericon: paper
 ---
 
 <p class="text-lead">We forecasted the impact of drought on community water systems.</p>
 
-[Monica G. Bobra](https://orcid.org/0000-0002-5662-9604)¹, Dan Wang², Hung Bui², Esa Eslami¹, Kimberly Hicks¹, Eric Zúñiga², Arman Madani¹
+[Monica G. Bobra](https://orcid.org/0000-0002-5662-9604)¹ <a href="https://orcid.org/0000-0002-5662-9604"><img class="orcid-cite" src="/img/orcid-icon.png"/></a>, Dan Wang², Hung Bui², Esa Eslami¹, Kimberly Hicks¹, Eric Zúñiga², Arman Madani¹
 ¹ California Office of Data and Innovation, 401 I Street, Ste 200, Sacramento, CA 95814
 ² California State Water Resources Control Board, 1001 I Street, 24th Floor, Sacramento, CA 95814
 

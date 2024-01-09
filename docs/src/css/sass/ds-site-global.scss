@@ -308,7 +308,22 @@ div.header-bookmark {   background-color: #E1F1EE;  border: 1px solid #8BC7BD;
                         background-image: url(/img/tile-icon-bookmark.png); }
 div.header-templates {  background-color: #EDEDEF;  border: 1px solid #D4D4D7; 
                         background-image: url(/img/tile-icon-template.png); }
+div.header-paper {     background-color: #FFECC4;  border: 1px solid #FFCD64; 
+                          background-image: url(/img/tile-icon-paper.png); }
 
+span.orcid-cite {
+  // padding-right: 32px;
+  // background-image: url(/img/orcid-icon.png);
+  // background-position: center right;
+  // background-repeat: no-repeat;
+  // background-size: 24px;
+}
+img.orcid-cite {
+  width: 24px;
+  vertical-align: middle;
+  position: relative;
+  top: -3px;
+}
 div.content-tile-title {
   font-family: "Public Sans";
   font-size: 23px;
