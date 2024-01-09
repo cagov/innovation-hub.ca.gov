@@ -11,7 +11,7 @@ headericon: bookmark
 
 * [ODI's content design principles](/content-design/principles/)
 * [California Design System principles](https://designsystem.webstandards.ca.gov/principles/)
-* [Government Code 6219](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6219.&lawCode=GOV), California’s plain language statute
+* [Government Code 6219](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6219.&lawCode=GOV), California’s plain language law
 * [US Web Design System principles](https://designsystem.digital.gov/design-principles/)
 
 ## Online courses
