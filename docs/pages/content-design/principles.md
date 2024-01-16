@@ -10,13 +10,13 @@ headericon: star
 These 7 principles contain strategies and tips to help you write excellent content.
 <div class="arrow-list">
 
-* [Focus on user needs and services](/content-design/principles/focus-on-user-needs-services/)
-* [Meet your audience where they are](/content-design/principles/meet-your-audience-where-they-are/)
-* [Build in accessibility from the start](/content-design/principles/build-accessibility-from-start/)
-* [Be concise](/content-design/principles/be-concise/)
-* [Write in plain language](/content-design/principles/write-in-plain-language/)
-* [Write with a conversational and official voice](/content-design/principles/write-with-conversational-official-voice/)
-* [Organize content strategically](/content-design/principles/organize-content-strategically/)
+* [Focus on user needs and services](/content-design/principles/focus-on-user-needs-services/)<span class="angle-bracket"> </span>
+* [Meet your audience where they are](/content-design/principles/meet-your-audience-where-they-are/)<span class="angle-bracket"> </span>
+* [Build in accessibility from the start](/content-design/principles/build-accessibility-from-start/)<span class="angle-bracket"> </span>
+* [Be concise](/content-design/principles/be-concise/)<span class="angle-bracket"> </span>
+* [Write in plain language](/content-design/principles/write-in-plain-language/)<span class="angle-bracket"> </span>
+* [Write with a conversational and official voice](/content-design/principles/write-with-conversational-official-voice/)<span class="angle-bracket"> </span>
+* [Organize content strategically](/content-design/principles/organize-content-strategically/)<span class="angle-bracket"> </span>
 
 </div>
 
