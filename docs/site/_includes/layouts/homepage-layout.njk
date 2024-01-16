@@ -1,7 +1,7 @@
 {% extends "layouts/index.njk" %}
 {% block content %}
 <div id="page-container" class="page-container-ds">
-  <div class="breadcrumb" aria-label="Breadcrumb" role="region">
+  {# <div class="breadcrumb" aria-label="Breadcrumb" role="region">
     <a class="crumb" href="https://ca.gov" title="CA.gov">CA.gov</a>
     <span class="crumb separator">/</span>
     <a class="crumb" href="/" title="Innovation Hub">Innovation Hub</a>
@@ -11,13 +11,13 @@
     {% endif %}
     <span class="crumb separator">/</span>
     <span class="crumb current">{{ title | safe }}</span>
-  </div>
+  </div> #}
 
   <main id="body-content" class="cagov-main">
     <article id="post-{{ page.fileSlug }}" class="cagov-article with-single-column-wide">
-      <h1 class="page-title">
+      {# <h1 class="page-title">
         {{ title | safe }}
-      </h1>
+      </h1> #}
       <div class="cagov-content">
         <div class="homepage-top-block">
           <h1 class="page-title">Tips and tools for working better</h1>
