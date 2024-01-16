@@ -186,3 +186,18 @@ cagov-page-feedback {
         margin-bottom: 4rem;
     }
 }
+
+div.arrow-list {
+    ul {
+        list-style-type: none;
+        li {
+            margin-bottom: var(--s-1);
+            padding-right: 24px;
+            background-image: url(/img/right-angle-bracket-icon.png);
+            background-repeat: no-repeat;
+            background-size: 24px;
+            background-position: right -4px center;
+            width: auto;
+        }
+    }
+}

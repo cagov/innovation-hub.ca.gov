@@ -8,6 +8,7 @@ headericon: star
 <p class="text-lead">Great content takes work. The good news is that anyone can do it.</p>
 
 These 7 principles contain strategies and tips to help you write excellent content.
+<div class="arrow-list">
 
 * [Focus on user needs and services](/content-design/principles/focus-on-user-needs-services/)
 * [Meet your audience where they are](/content-design/principles/meet-your-audience-where-they-are/)
@@ -16,6 +17,8 @@ These 7 principles contain strategies and tips to help you write excellent conte
 * [Write in plain language](/content-design/principles/write-in-plain-language/)
 * [Write with a conversational and official voice](/content-design/principles/write-with-conversational-official-voice/)
 * [Organize content strategically](/content-design/principles/organize-content-strategically/)
+
+</div>
 
 ## Our inspiration
 
