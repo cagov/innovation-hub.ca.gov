@@ -32,7 +32,7 @@ The headings provide guidance on what goes in each row. We’ve provided 3 examp
   <th><div class="title">Task</div><div class="description">Describe the work to be done</div></th>
   <th><div class="title">Date and time</div><div class="description">Kept in strict, accurate sequence</div></th>
   <th><div class="title">Page</div><div class="description">Can be a URL or other identifier</div></th>
-  <th><div class="title">Responsible</div><div class="description">The person who will do this</div></th>
+  <th><div class="title">Responsi-ble</div><div class="description">The person who will do this</div></th>
   <th><div class="title">Approver</div><div class="description">The person who has final approval</div></th>
   <th><div class="title">Notes and questions</div><div class="description">As needed</div></th>
   <th><div class="title">Status</div><div class="description">Varies with project</div></th>

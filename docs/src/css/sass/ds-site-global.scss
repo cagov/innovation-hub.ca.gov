@@ -532,6 +532,8 @@ div.runofshow-table {
       thead {
           background-color: #FAFAFA;
           th {
+              text-align: left;
+              vertical-align: top;
               border: 1px solid #C7D6E4;
               font-size: 18px;
               font-weight: 700;
@@ -547,6 +549,8 @@ div.runofshow-table {
       tbody {
           background-color: white;
           td {
+              text-align: left;
+              vertical-align: top;
               padding: 16px;
               font-size: 14px;
               border: 1px solid #C7D6E4;
