@@ -448,7 +448,7 @@ I can correctly pronounce <i>merci</i>.
 
 Do not use italics for:
 
-* Emphasis - use bold instead
+* Emphasis - use **bold** instead
 * Captions for images or charts - use smaller text instead
 * Whole paragraphs of text
 * Quotes
