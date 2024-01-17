@@ -244,6 +244,7 @@ div.checklist-tile-header {
 }
 div.checklist-tile-copy {
   font-size: 18px;
+  padding-right: 24px;
 }
 
 div.checklist-tile-header a {
@@ -532,6 +533,8 @@ div.runofshow-table {
       thead {
           background-color: #FAFAFA;
           th {
+              text-align: left;
+              vertical-align: top;
               border: 1px solid #C7D6E4;
               font-size: 18px;
               font-weight: 700;
@@ -547,6 +550,8 @@ div.runofshow-table {
       tbody {
           background-color: white;
           td {
+              text-align: left;
+              vertical-align: top;
               padding: 16px;
               font-size: 14px;
               border: 1px solid #C7D6E4;
@@ -597,5 +602,29 @@ div.arrow-list {
             background-position: right -4px center;
           }
       }
+  }
+}
+
+div#isa-cta {
+  a.btn-primary {
+    margin-top:40px;
+    margin-bottom:24px;
+  }
+  div.note-div {
+    font-size: 14px;
+  }
+}
+
+cagov-page-feedback {
+
+  h2.feedback-form-label {
+    font-family: "Public Sans";
+    font-weight: 400;
+    font-size: 18px;
+  }
+  button.btn-light {
+    font-family: "Public Sans";
+    font-weight: 600!important;
+    font-size: 18px!important;
   }
 }
