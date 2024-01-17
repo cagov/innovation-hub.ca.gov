@@ -422,9 +422,36 @@ On websites, adding bold tags to a heading can cause it to appear in the wrong f
 
 ### Italics
 
-In websites or digital services, do not use *italics*. This makes text harder to read. Use **bold** for emphasis instead. In an image caption or data chart note, use smaller text.
+Use *italics* sparingly, as they make text harder to read. But there are times when italics are useful.
 
-One exception is to use italics for words in another language (for example: *sine qua non*). This should happen rarely. Translate terms into the same language as the rest of your content whenever possible.
+Italicize titles, especially when they are in sentence case.
+
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">
+ODI offers <i>Introduction to plain language for the public sector</i> through CalLearns.
+    </div>
+  </div>
+</div>
+
+Italicize words in a foreign language.
+
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">
+I can correctly pronounce <i>merci</i>.
+    </div>
+  </div>
+</div>
+
+Do not use italics for:
+
+* Emphasis - use bold instead
+* Captions for images or charts - use smaller text instead
+* Whole paragraphs of text
+* Quotes
 
 ### Larger introductory text
 
