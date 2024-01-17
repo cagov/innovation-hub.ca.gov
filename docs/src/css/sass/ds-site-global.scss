@@ -195,7 +195,7 @@ div.howtouse-grid-wrapper {
   grid-template-columns: 508px 508px;
   margin-top: 32px;
   margin-bottom:32px;
-  gap:48px;
+  gap:32px 48px;
   background-color: white;
   padding: 32px 32px;
   width: 100%;
@@ -214,7 +214,7 @@ div.howtouse-tile-copy {
 }
 
 div.howtouse-tile-copy.interim {
-  min-height: 10rem;
+  min-height: 11rem;
 }
 
 div.howtouse-tile h4 {
@@ -226,7 +226,7 @@ div.howtouse-tile h4 {
 }
 div.howtouse-tile hr {
   border: 1px solid #C7D6E4;
-  margin-bottom: 8px;
+  margin-bottom: 0px;
 }
 
 /* Plain language section */
