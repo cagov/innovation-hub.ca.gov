@@ -374,6 +374,15 @@ hr.homepage-divider {
 }
 div.featured-content-band {
   background: #ECF1F6;
+  h2 {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+}
+div.post-featured-page-container {
+  h2 {
+    margin-bottom: 0.5rem;
+  }
 }
 div.featured-resources-header {
   font-size: 23px;
