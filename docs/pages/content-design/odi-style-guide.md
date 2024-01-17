@@ -430,7 +430,7 @@ Italicize titles, especially when they are in sentence case.
   <div class="blockquote-body">
     <div class="blockquote-header"><strong>Example:</strong></div>
     <div class="blockquote-content">
-ODI offers *Introduction to plain language for the public sector* through CalLearns.
+ODI offers <i>Introduction to plain language for the public sector</i> through CalLearns.
     </div>
   </div>
 </div>
@@ -441,7 +441,7 @@ Italicize words in a foreign language.
   <div class="blockquote-body">
     <div class="blockquote-header"><strong>Example:</strong></div>
     <div class="blockquote-content">
-I can correctly pronounce *merci*.
+I can correctly pronounce <i>merci</i>.
     </div>
   </div>
 </div>
