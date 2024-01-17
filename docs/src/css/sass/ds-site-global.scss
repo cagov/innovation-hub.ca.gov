@@ -112,9 +112,21 @@ a.tile-link {
   }
   
   &:hover {
+    div.content-tile {
+      box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.50);
+    }
     div.content-tile-title {
       text-decoration: underline;
     }
+  }
+  &:focus {
+    div.content-tile {
+      box-shadow: 0px 0px 4px 2px #3F73A4!important;    
+    }
+    div.content-tile-title {
+      text-decoration: none;
+    }
+
   }
 }
 
@@ -308,18 +320,27 @@ div.header-icon {
   border-radius:8px;
   margin-right: 16px;
 }
-div.header-ribbon {     background-color: #EFECF8;  border: 1px solid #D7D1ED; 
-                        background-image: url(/img/tile-icon-ribbon.png); }
-div.header-star {       background-color: #FAECDA;  border: 1px solid #F4CEA1; 
-                        background-image: url(/img/tile-icon-star.png); }
-div.header-book {       background-color: #FDEAE5;  border: 1px solid #F7CBBE; 
-                        background-image: url(/img/tile-icon-book.png); }
-div.header-bookmark {   background-color: #E1F1EE;  border: 1px solid #8BC7BD; 
-                        background-image: url(/img/tile-icon-bookmark.png); }
-div.header-templates {  background-color: #EDEDEF;  border: 1px solid #D4D4D7; 
-                        background-image: url(/img/tile-icon-template.png); }
-div.header-paper {     background-color: #FFECC4;  border: 1px solid #FFCD64; 
-                          background-image: url(/img/tile-icon-paper.png); }
+  div.header-ribbon {     background-color: #EFECF8!important;  
+                          border: 0.5px solid #D7D1ED!important; 
+                          background-image: url(/img/tile-icon-ribbon.png)!important; 
+  }
+  div.header-star {       background-color: #FAECDA!important;  
+                          background-image: url(/img/tile-icon-star.png)!important; 
+                          border: 0.5px solid #D7D1ED!important;
+                    }
+  div.header-book {       background-color: #FDEAE5!important;  
+                          border: 0.5px solid #F7CBBE!important; 
+                          background-image: url(/img/tile-icon-book.png)!important; }
+  div.header-bookmark {   background-color: #E1F1EE!important;  
+                          border: 0.5px solid #8BC7BD!important; 
+                          background-image: url(/img/tile-icon-bookmark.png)!important; }
+  div.header-templates {  background-color: #EDEDEF!important;  
+                          border: 0.5px solid #D4D4D7!important;
+                          background-image: url(/img/tile-icon-template.png)!important; 
+                        }
+  div.header-paper {     background-color: #FFECC4!important;  
+                          border: 0.5px solid #FFCD64!important; 
+                            background-image: url(/img/tile-icon-paper.png)!important; }
 
 span.orcid-cite {
   // padding-right: 32px;
