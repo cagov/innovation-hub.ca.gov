@@ -1,5 +1,6 @@
 ---
 title: Be concise
+parentid: Content design
 description: Simple writing supports equal outcomes.
 headerlabel: Standards and principles
 headericon: star

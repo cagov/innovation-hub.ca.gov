@@ -1,5 +1,6 @@
 ---
 title: Meet your audience where they are
+parentid: Content design
 description: Knowing who they are and what they need helps you design for them.
 headerlabel: Standards and principles
 headericon: star

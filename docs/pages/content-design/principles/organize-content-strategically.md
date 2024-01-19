@@ -1,5 +1,6 @@
 ---
 title: Organize content strategically
+parentid: Content design
 description: Well-organized content helps readers find what they’re looking for.
 headerlabel: Standards and principles
 headericon: star

@@ -1,5 +1,6 @@
 ---
 title: Run-of-show
+parentid: Product management
 description: How to keep things organized in the lead up to a launch, announcement, or update
 layout: single-column
 headerlabel: Templates

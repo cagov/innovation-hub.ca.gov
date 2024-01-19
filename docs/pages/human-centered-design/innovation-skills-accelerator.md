@@ -1,5 +1,6 @@
 ---
 title: Innovation Skills Accelerator
+parentid: Human-centered design
 description: A 15-unit, self-paced course available to all State of California staff
 layout: single-column
 keywords: 

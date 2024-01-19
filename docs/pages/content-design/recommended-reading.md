@@ -1,5 +1,6 @@
 ---
 title: "Recommended reading: content design"
+parentid: Content design
 description: Articles, guides, and tools to learn more about content design
 headerlabel: Recommended reading
 headericon: bookmark
