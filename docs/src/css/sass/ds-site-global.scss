@@ -58,7 +58,7 @@ div.ds-content-layout { padding: 0 16px; }
 
 div.content-grid-wrapper {
   display: grid;
-  grid-template-columns: 276px 276px 276px 276px;
+  grid-template-columns: 268px 268px 268px 268px;
   margin-top: 32px;
   gap:24px;
 }
@@ -176,7 +176,7 @@ span.content-page-header-label {
 /* ODI BLOCK */
 div.odiblock-grid-wrapper {
   display: grid;
-  grid-template-columns: 376px 770px;
+  grid-template-columns: 376px 738px;
   gap: 30px;
   margin-top: 4rem;
 
@@ -680,5 +680,20 @@ cagov-page-feedback {
     font-family: "Public Sans";
     font-weight: 600!important;
     font-size: 18px!important;
+  }
+}
+
+div.feedback-form.cagov-stack {
+  width: 1144px;
+}
+
+section.site-footer {
+  div.container {
+    width: 1144px;
+  }
+}
+footer {
+  div.container {
+    width: 1144px;
   }
 }
