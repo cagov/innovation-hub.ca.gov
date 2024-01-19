@@ -475,7 +475,8 @@ div.site-header {
 }
 
 .breadcrumb {
-  font-size: 18px; /* calc(.875rem + var(--ratio)); */
+  font-size: 0.875rem;
+  line-height: 1.625rem;
   background: #fff;
   padding: 0.625rem;
   margin-left: 1rem;
@@ -507,6 +508,12 @@ cagov-site-navigation {
   .container {
     padding-top: var(--s-1, 0.5rem);
     padding-bottom: var(--s-1, 0.5rem);
+  }
+  .expanded-menu-section-header-link {
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 2rem;
   }
 }
 
@@ -697,3 +704,4 @@ footer {
     width: 1144px;
   }
 }
+
