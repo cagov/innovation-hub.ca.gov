@@ -533,14 +533,17 @@ main.cagov-main {
       margin: 16px 0px;
       div.blockquote-body {
           border-left: 3px solid #E3881B;
-          padding: 8px 24px;
+          padding: 0px 24px;
           div.blockquote-header {
               margin-bottom: 16px;
           }
           div.blockquote-content {
               font-size: 14px;
-              p {
+              p:not(:last-child) {
                   margin-bottom: 0.75rem;
+              }
+              p:last-child {
+                  margin-bottom: 0px;
               }
               ol {
                   li {
