@@ -25,7 +25,7 @@ Plain language ensures equal access to information. It helps Californians:
 
 * In general
 * With limited English
-* With cognitive and developmental disabilities
+* With cognitive disabilities
 
 [19% of Californians](https://oag.ca.gov/consumers/limited-english) say they speak English “less than very well.” 44% of Californians over the age of 5 speak a language other than English at home.
 
