@@ -307,10 +307,8 @@ Use decimals only when you need to. This reduces the amount of numbers people ha
   <div class="blockquote-body">
     <div class="blockquote-header"><strong>Examples:</strong></div>
     <div class="blockquote-content">
-
-78.6% of population vaccinated
-
-0.1 new deaths 
+<p>78.6% of population vaccinated</p>
+<p>0.1 new deaths </p>
     </div>
   </div>
 </div>
@@ -360,10 +358,8 @@ In sentences, use numerals for all numbers, except for **one**. People recognize
   <div class="blockquote-body">
     <div class="blockquote-header"><strong>Examples:</strong></div>
     <div class="blockquote-content">
-
-Choose one of the following options.
-
-There are 3 information sessions.
+<p>Choose one of the following options.</p>
+<p>There are 3 information sessions.</p>
     </div>
   </div>
 </div>
@@ -609,10 +605,8 @@ Always capitalize the word **Governor**, either with or without their name. This
   <div class="blockquote-body">
     <div class="blockquote-header"><strong>Examples:</strong></div>
     <div class="blockquote-content">
-
-The Governor’s order
-
-Governor Gavin Newsom
+<p>The Governor’s order</p>
+<p>Governor Gavin Newsom</p>
     </div>
   </div>
 </div>
@@ -691,12 +685,9 @@ Use **state** in lowercase when referring to:
   <div class="blockquote-body">
     <div class="blockquote-header"><strong>Examples:</strong></div>
     <div class="blockquote-content">
-
-The state is paying for this program.
-
-Neither the state nor federal government requires you to get vaccinated.
-
-The state of California is on the Pacific Ocean.
+<p>The state is paying for this program.</p>
+<p>Neither the state nor federal government requires you to get vaccinated.</p>
+<p>The state of California is on the Pacific Ocean.</p>
     </div>
   </div>
 </div>
@@ -731,12 +722,9 @@ ODI calls its base organizational unit a **team**. Teams make up divisions.
   <div class="blockquote-body">
     <div class="blockquote-header"><strong>Examples:</strong></div>
     <div class="blockquote-content">
-
-The engineering team decided to use GitHub to host the website.
-
-The talent team recruits great people to work at ODI.
-
-The user research team piloted Ethnio intercepts on state webpages.
+<p>The engineering team decided to use GitHub to host the website.</p>
+<p>The talent team recruits great people to work at ODI.</p>
+<p>The user research team piloted Ethnio intercepts on state webpages.</p>
     </div>
   </div>
 </div>
@@ -753,12 +741,9 @@ When referencing a specific Native American community, capitalize **Tribe** or *
   <div class="blockquote-body">
     <div class="blockquote-header"><strong>Examples:</strong></div>
     <div class="blockquote-content">
-
-Yurok Tribe
-
-Kumeyaay Tribal lands
-
-The survivors of the shipwreck formed two tribes.
+<p>Yurok Tribe</p>
+<p>Kumeyaay Tribal lands</p>
+<p>The survivors of the shipwreck formed two tribes.</p>
     </div>
   </div>
 </div>

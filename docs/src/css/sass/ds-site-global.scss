@@ -554,12 +554,22 @@ main.cagov-main {
                   margin-bottom: 0px;
               }
               ol {
+                  margin-bottom:0px;
+                  li:last-child {
+                    margin-bottom: 0px;
+                  }
                   li {
                       p {
                           margin-bottom: 0px;
                       
                       }
                   }
+              }
+              ul {
+                margin-bottom:0px;
+                li:last-child {
+                    margin-bottom: 0px;
+                }
               }
           }
       }
