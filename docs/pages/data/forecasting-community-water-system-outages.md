@@ -45,10 +45,118 @@ We assessed nearly two dozen datasets. But most data sources required extensive 
 The model, which is designed to run each spring and identify issues that may arise during the dry summer months, now produces an output that spurs action. Community water systems can anticipate and fix problems before they start. The model can be configured to run even more frequently and with less staff time investment depending on the structure of the data being used.
 
 As a result, the model is easy to use, interpretable, and ethical. The model is easy to use and understand. Researchers can continually experiment by adding more data sources and improving the model. By probing the output of the model with 'What if' questions, researchers can easily explain forecasts and build trust with the community. Finally, we vetted the model through an ethics toolkit, which assesses the historical and technical risk associated with each dataset, the reproducibility and interpretability of the algorithm itself, and the impact of the model on communities within California. Using these assessments, we developed mitigation strategies and recommendations.
+<style>
+    div.figure-1 {
+      display: grid;
+      grid-template-columns: 3fr 2fr;
+    }
+    div.figure-1 div.illustration img {
+        width:100%;
+    }
+    div.figure-1 div.caption {
+        padding: 0 1rem;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 26px;
+    }
+</style>
+<div class="figure-1">
+  <div class="illustration">
+    <img src="/img/fcw-fig-1.png" />
+  </div>
+  <div class="caption">
+    <b>Figure 1.</b> In 2022, 123 community water systems were affected by drought.
+  </div>
+</div>
+  
 
 ## Recommendations
 
 The biggest improvement in model performance will come from improving the data quality, quantity, and accessibility. We recommend that the DDW take three steps toward these improvements.
+<style>
+    div.rec-container {
+        display: grid;
+        grid-template-rows: 12.5rem 15.375rem 4rem;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 24px;
+    }
+    div.rec-header-container {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    div.rec-tile {
+        padding: 1rem 1rem;
+        border: 1px solid var(--ODI-Brand-Primary-primary-100, #C7D6E4);
+        background: var(--CA-Base-Grays-gray-50, #FAFAFA);
+    }
+    div.rec-header-container div.rec-symbol {
+        margin-bottom: 1rem;
+        margin-top: 1rem;
+    }
+    div.rec-body-container {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 26px;
+    }
+    div.rec-footer-container {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        text-align: center;
+        margin-bottom: 0;
+        padding: 1rem 1rem;
+        vertical-align: middle;
+        border: 1px solid var(--ODI-Brand-Primary-primary-100, #C7D6E4);
+        background: var(--CA-Base-Grays-gray-50, #FAFAFA);
+    }
+    div.figure-2-caption {
+        margin-top: 1rem;
+        margin-bottom: 1.5rem;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 26px;
+        text-align: left;
+    }
+</style>
+<div class="rec-container">
+  <div class="rec-header-container">
+    <div class="rec-header rec-tile">
+        <div class="rec-symbol"><img src="/img/fcw-icon-1.svg" /></div>
+        <p>1. Build a modern data platform</p>
+    </div>
+    <div class="rec-header rec-tile">
+        <div class="rec-symbol"><img src="/img/fcw-icon-2.svg" /></div>
+        <p>2. Use more data</p>
+    </div>
+    <div class="rec-header rec-tile">
+        <div class="rec-symbol"><img src="/img/fcw-icon-3.svg" /></div>
+        <p>3. Experiment rapidly</p>
+    </div>
+  </div>
+  <div class="rec-body-container">
+    <div class="rec-body-tile rec-tile">
+        <p>Develop a centralized database, together with automatic tools that check for data quality and errors. </p>
+        <p>Collect and ingest data automatically so it saves staff time.</p>
+    </div>
+    <div class="rec-body-tile rec-tile">
+        <p>Use time-varying data taken on a frequent cadence. In addition, use historical data.</p>
+        <p>In the future, proactively and continually collect data – not just during drought years.</p>
+    </div>
+    <div class="rec-body-tile rec-tile">
+        <p>Quickly experiment with different data sources and model architectures. </p>
+        <p>Create reproducible results.</p>
+    </div>
+  </div>
+  <div class="rec-footer-container">
+    <p>Together, these three recommendations lay the foundation for data-driven decision making.</p>
+  </div>
+</div>
+<div class="figure-2-caption">
+<b>Figure 2.</b> Recommendations for future model improvements
+</div>
 
 First, we recommend building a modern data platform. In other words, to develop a centralized database that ingests data along with automatic tools that check for errors. We also recommend reducing any reliance on manual data collection. Collecting data automatically will take less staff time and reduce errors.
 
