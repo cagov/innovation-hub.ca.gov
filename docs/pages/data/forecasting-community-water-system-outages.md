@@ -6,11 +6,21 @@ headerlabel: Papers
 headericon: paper
 ---
 
-<p class="text-lead">We forecasted the impact of drought on community water systems.</p>
-
-[Monica G. Bobra](https://orcid.org/0000-0002-5662-9604)¹ <a href="https://orcid.org/0000-0002-5662-9604"><img class="orcid-cite" src="/img/orcid-icon.png"/></a>, Dan Wang², Hung Bui², Esa Eslami¹, Kimberly Hicks¹, Eric Zúñiga², [Arman Madani](https://orcid.org/0009-0002-4237-0213)¹ <a href="https://orcid.org/0009-0002-4237-0213"><img class="orcid-cite" src="/img/orcid-icon.png"/></a>
+<div class="author-header-block">
+ <a href="https://orcid.org/0000-0002-5662-9604" title="California Office of Data and Innovation, 401 I Street, Ste 200, Sacramento, CA 95814">Monica G. Bobra</a> <a href="https://orcid.org/0000-0002-5662-9604"><img class="orcid-cite" src="/img/orcid-icon.png"/></a>, Dan Wang, Hung Bui, Esa Eslami, Kimberly Hicks, Eric Zúñiga, Arman Madani <a href="https://orcid.org/0009-0002-4237-0213"><img class="orcid-cite" src="/img/orcid-icon.png"/></a>
+</div>
+ <!-- Dan Wang², Hung Bui², Esa Eslami¹, Kimberly Hicks¹, Eric Zúñiga², [Arman Madani](https://orcid.org/0009-0002-4237-0213)¹ <a href="https://orcid.org/0009-0002-4237-0213"><img class="orcid-cite" src="/img/orcid-icon.png"/></a>
 ¹ California Office of Data and Innovation, 401 I Street, Ste 200, Sacramento, CA 95814
 ² California State Water Resources Control Board, 1001 I Street, 24th Floor, Sacramento, CA 95814
+-->
+<p class="text-lead">We forecasted the impact of drought on community water systems.</p>
+
+<div class="interaction-block">
+<div class="interaction"><a href=""><img class="icon" src="/img/fcw-pdf-icon.svg" /> Download PDF</a></div>
+<div class="interaction"><a href=""><img class="icon" src="/img/fcw-share-icon.svg" /> Share</a></div>
+<div class="interaction"><a href=""><img class="icon" src="/img/fcw-cite-icon.svg" /> Cite</a></div>
+<div class="interaction"><a href="https://doi.org/10.12688/loremipsum.16307.1"><img class="icon" src="/img/fcw-link-icon.svg" /> https://doi.org/10.12688/loremipsum.16307.1</a></div>
+</div>
 
 ## Problem statement
 

@@ -743,3 +743,37 @@ div.cagov-content {
     line-height:2.4375rem;
   }
 }
+
+div.author-header-block {
+  font-size: 1.11rem;
+  line-height: 2rem; 
+  margin-bottom: 1rem;
+  a {
+    text-decoration: none;
+  }
+  a:hover{
+    text-decoration: underline;
+  }
+}
+div.interaction-block {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 2fr;
+  border-top: 1px solid var(--ODI-Brand-Primary-primary-100, #C7D6E4);
+  border-bottom: 1px solid var(--ODI-Brand-Primary-primary-100, #C7D6E4);
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  div.interaction {
+    font-size: 0.875rem;
+    line-height: 1.625rem;
+    min-width: 10ch;
+    // &.right {
+    //   text-align: right;
+    // }
+    img {
+      padding-right: 0.5rem;
+      vertical-align: middle;
+    }
+  }
+}
