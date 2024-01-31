@@ -226,7 +226,7 @@ Svoboda, Mark, et al. "The drought monitor." *Bulletin of the American Meteorolo
         <p class="author-title">Associate Sanitary Engineer, Santa Ana District</p>
         <p class="author-org">California State Water Resources Control Board, Division of Drinking Water, 2 MacArthur Place, Suite 150, Santa Ana, CA 92707</p>
         <div class="author-role">
-            <p class="author-role-label">Roles</p>
+            <p class="author-role-label">Role</p>
             <p>Validation</p>
         </div>
         <p class="author-email">
@@ -274,7 +274,7 @@ Svoboda, Mark, et al. "The drought monitor." *Bulletin of the American Meteorolo
         <p class="author-title">Senior Data Scientist</p>
         <p class="author-org">California Office of Data and Innovation, 401 I Street, Ste 200, Sacramento, CA 95814</p>
         <div class="author-role">
-            <p class="author-role-label">Roles</p>
+            <p class="author-role-label">Role</p>
             <p>Data curation</p>
         </div>
         <p class="author-id">
