@@ -7,9 +7,9 @@ headericon: paper
 ---
 
 <div class="author-header-block">
- <a href="https://orcid.org/0000-0002-5662-9604" title="California Office of Data and Innovation, 401 I Street, Ste 200, Sacramento, CA 95814">Monica G. Bobra</a> <a href="https://orcid.org/0000-0002-5662-9604"><img class="orcid-cite" src="/img/orcid-icon.png"/></a>, Dan Wang, Hung Bui, Esa Eslami, Kimberly Hicks, Eric Zúñiga, Arman Madani <a href="https://orcid.org/0009-0002-4237-0213"><img class="orcid-cite" src="/img/orcid-icon.png"/></a>
+ <a href="https://orcid.org/0000-0002-5662-9604" title="California Office of Data and Innovation, 401 I Street, Ste 200, Sacramento, CA 95814">Monica G. Bobra</a> <a href="https://orcid.org/0000-0002-5662-9604"><img class="orcid-cite" src="/img/orcid-icon.svg"/></a>, Dan Wang, Hung Bui, Esa Eslami, Kimberly Hicks, Eric Zúñiga, Arman Madani <a href="https://orcid.org/0009-0002-4237-0213"><img class="orcid-cite" src="/img/orcid-icon.svg"/></a>
 </div>
- <!-- Dan Wang², Hung Bui², Esa Eslami¹, Kimberly Hicks¹, Eric Zúñiga², [Arman Madani](https://orcid.org/0009-0002-4237-0213)¹ <a href="https://orcid.org/0009-0002-4237-0213"><img class="orcid-cite" src="/img/orcid-icon.png"/></a>
+ <!-- Dan Wang², Hung Bui², Esa Eslami¹, Kimberly Hicks¹, Eric Zúñiga², [Arman Madani](https://orcid.org/0009-0002-4237-0213)¹ <a href="https://orcid.org/0009-0002-4237-0213"><img class="orcid-cite" src="/img/orcid-icon.svg"/></a>
 ¹ California Office of Data and Innovation, 401 I Street, Ste 200, Sacramento, CA 95814
 ² California State Water Resources Control Board, 1001 I Street, 24th Floor, Sacramento, CA 95814
 -->
@@ -191,3 +191,98 @@ Svoboda, Mark, et al. "The drought monitor." *Bulletin of the American Meteorolo
 ## Links
 
 [GitHub repository for the water model](https://github.com/cagov/aae-dsa-water/)
+
+## Authors
+ 
+<div class="author-section">
+    <div class="author">
+        <p class="author-name">Monica Bobra</p>
+        <p class="author-title">Principle Data Scientist</p>
+        <p class="author-org">California Office of Data and Innovation, 401 I Street, Ste 200, Sacramento, CA 95814</p>
+        <div class="author-role">
+            <p class="author-role-label">Roles</p>
+            <p>Methodology, formal analysis, investigation, writing – original draft</p>
+        </div>
+        <p class="author-id">
+            <a href="https://orcid.org/0000-0002-5662-9604"><img class="orcid-cite" src="/img/orcid-icon.svg"/>https://orcid.org/0000-0002-5662-9604</a>
+        </p>
+        <p class="author-email">
+            <a href="mailto:monica.bobra@innovation.ca.gov"><img class="email-cite" src="/img/email-icon.svg"/>monica.bobra@innovation.ca.gov</a>
+        </p>
+    </div>
+    <div class="author">
+        <p class="author-name">Dan Wang</p>
+        <p class="author-title">Water Resource Control Engineer</p>
+        <p class="author-org">California State Water Resources Control Board, Division of Drinking Water, 1001 I Street, 24th Floor, Sacramento, CA 95814</p>
+        <div class="author-role">
+            <p class="author-role-label">Roles</p>
+            <p>Conceptualization, formal analysis, investigation</p>
+        </div>
+        <p class="author-email">
+            <a href="mailto:dan.wang@waterboards.ca.gov"><img class="email-cite" src="/img/email-icon.svg"/>dan.wang@waterboards.ca.gov</a>
+        </p>
+    </div>
+    <div class="author">
+        <p class="author-name">Hung Bui</p>
+        <p class="author-title">Associate Sanitary Engineer, Santa Ana District</p>
+        <p class="author-org">California State Water Resources Control Board, Division of Drinking Water, 2 MacArthur Place, Suite 150, Santa Ana, CA 92707</p>
+        <div class="author-role">
+            <p class="author-role-label">Roles</p>
+            <p>Validation</p>
+        </div>
+        <p class="author-email">
+            <a href="mailto:hung.bui@waterboards.ca.gov"><img class="email-cite" src="/img/email-icon.svg"/>hung.bui@waterboards.ca.gov</a>
+        </p>
+    </div>
+    <div class="author">
+        <p class="author-name">Esa Eslami</p>
+        <p class="author-title">Analytics Manager</p>
+        <p class="author-org">California Office of Data and Innovation, 401 I Street, Ste 200, Sacramento, CA 95814</p>
+        <div class="author-role">
+            <p class="author-role-label">Roles</p>
+            <p>Project administration, data curation</p>
+        </div>
+        <p class="author-email">
+            <a href="mailto:esa.eslami@innovation.ca.gov"><img class="email-cite" src="/img/email-icon.svg"/>esa.eslami@innovation.ca.gov</a>
+        </p>
+    </div>
+    <div class="author">
+        <p class="author-name">Kimberly Hicks</p>
+        <p class="author-title">Deputy Director, Advanced Analytics &amp; Evaluation</p>
+        <p class="author-org">California Office of Data and Innovation, 401 I Street, Ste 200, Sacramento, CA 95814</p>
+        <div class="author-role">
+            <p class="author-role-label">Roles</p>
+            <p>Project administration, resources, funding acquisition</p>
+        </div>
+        <p class="author-email">
+            <a href="mailto:kimberly.hicks@innovation.ca.gov"><img class="email-cite" src="/img/email-icon.svg"/>kimberly.hicks@innovation.ca.gov</a>
+        </p>
+    </div>
+    <div class="author">
+        <p class="author-name">Eric Zúñiga</p>
+        <p class="author-title">Drought Response Program Manager</p>
+        <p class="author-org">California State Water Resources Control Board, Division of Drinking Water, 1001 I Street, 24th Floor, Sacramento, CA 95814</p>
+        <div class="author-role">
+            <p class="author-role-label">Roles</p>
+            <p>Project administration, data curation</p>
+        </div>
+        <p class="author-email">
+            <a href="mailto:eric.zuniga@waterboards.ca.gov"><img class="email-cite" src="/img/email-icon.svg"/>eric.zuniga@waterboards.ca.gov</a>
+        </p>
+    </div>
+    <div class="author">
+        <p class="author-name">Arman Madani</p>
+        <p class="author-title">Senior Data Scientist</p>
+        <p class="author-org">California Office of Data and Innovation, 401 I Street, Ste 200, Sacramento, CA 95814</p>
+        <div class="author-role">
+            <p class="author-role-label">Roles</p>
+            <p>Data curation</p>
+        </div>
+        <p class="author-id">
+            <a href="https://orcid.org/0009-0002-4237-0213"><img class="orcid-cite" src="/img/orcid-icon.svg"/>https://orcid.org/0009-0002-4237-0213</a>
+        </p>
+        <p class="author-email">
+            <a href="mailto:arman.madani@innovation.ca.gov"><img class="email-cite" src="/img/email-icon.svg"/>arman.madani@innovation.ca.gov</a>
+        </p>
+    </div>
+</div>

@@ -774,3 +774,53 @@ div.interaction-block {
     }
   }
 }
+h2#authors {
+  margin-bottom: 1rem;
+}
+div.author-section {
+
+  .author {
+    p {
+      margin-bottom: 0;
+      font-size: 1.125rem;
+      line-height: 2rem;
+    }
+    padding-top: 1rem;
+    padding-bottom: 1.5rem;
+ 
+    .author-name {
+      font-size: 1.4375rem;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 2.33594rem; /* 162.5% */
+    }
+    .author-title {
+
+    }
+    .author-org {
+
+    }
+    .author-role {
+      margin: 0.5rem 0;
+      .author-role-label {
+        color: var(--CA-Base-Grays-gray-700, #5E5E6A);
+        /* Small text/Desktop */
+        font-size: 0.875rem;
+        font-weight: 400;
+        line-height: 1.625rem;      }
+    }
+    .author-id {
+      vertical-align: middle;
+      img {
+        padding-right: 0.5rem;
+      }
+    }
+    .author-email {
+      vertical-align: middle;
+      img {
+        padding-right: 0.5rem;
+      }
+    }
+
+  }
+}
