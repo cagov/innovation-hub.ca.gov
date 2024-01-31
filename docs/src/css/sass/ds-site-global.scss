@@ -812,13 +812,17 @@ div.author-section {
     .author-id {
       vertical-align: middle;
       img {
+        width: 2rem;
         padding-right: 0.5rem;
+        vertical-align: middle;
       }
     }
     .author-email {
       vertical-align: middle;
       img {
-        padding-right: 0.5rem;
+        padding-left: 0.15rem;
+        padding-right: 0.55rem;
+        vertical-align: middle;
       }
     }
 
