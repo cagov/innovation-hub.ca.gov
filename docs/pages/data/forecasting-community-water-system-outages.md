@@ -187,7 +187,7 @@ Pedregosa, Fabian, et al. "Scikit-learn: Machine learning in Python." *Journal o
 
 Svoboda, Mark, et al. "The drought monitor." *Bulletin of the American Meteorological Society* 83.8 (2002): 1181-1190.
 
-## Links
+## Code
 
 [GitHub repository for the water model](https://github.com/cagov/aae-dsa-water/)
 
