@@ -32,9 +32,9 @@ With a few months of advance notice about which communities might face problems,
 
 ### Data
 
-Forecasting the impact of drought on community water systems requires modeling three processes. One, an infrastructure process that describes the flow of water throughout the lunanetwork of water systems in California. Two, a physical process that describes the flow of groundwater, through rocks and soil and the flow of surface water through streams, rivers, and reservoirs. Three, readily available drought indicators that summarize regional drought stress over time.
+Forecasting the impact of drought on community water systems requires modeling three processes. One, an infrastructure process that describes the flow of water throughout the network of water systems in California. Two, a physical process that describes the flow of groundwater, through rocks and soil and the flow of surface water through streams, rivers, and reservoirs. Three, readily available drought indicators that summarize regional drought stress over time.
 
-To capture elements of these processes, we used three categories of data. One category describes how interconnected the water system is to other nearby water systems. Researchers show that many systems fail because they rely on only one source of water (Mullin, 2020). Another category of data describes the location, along with characteristics of surface water watersheds and ground water basins, of each water system related to the hydrology or movement of water above and below ground. Finally, we used a Drought Severity and Coverage Index, or a weighted blend of multiple observational datasets like reservoir levels and soil moisture, created by the US Drought Monitor organization (Svoboda et al., 2002).
+To capture elements of these processes, we used three categories of data. One category describes how interconnected the water system is to other nearby water systems. Researchers show that many systems fail because they rely on only one source of water (Mullin, 2020). Another category of data describes the location, along with characteristics of surface water watersheds and ground water basins, of each water system related to the hydrology or movement of water above and below ground. Finally, we used a [Drought Severity and Coverage Index](https://droughtmonitor.unl.edu/data/docs/DSCI_fact_sheet.pdf) which quantifies U.S. Drought Monitor statuses on a weekly basis using a scale from zero to 500 for any county, summarizing drought severity and coverage over time through a weighted sum approach.
 
 Our dataset describes 2,866 water systems over two years, from 2021 to 2023. We use fifteen features and one outcome to describe each system.  Most community water systems in our sample, 96%, were resilient to drought. Four percent experienced some effects: these systems ran out of water, sustained themselves on bottled or hauled water, experienced a drought violation, or requested continued use of a source that was legally curtailed. 
 
@@ -175,21 +175,19 @@ These two recommendations enable researchers to query data of interest, rapidly 
 
 ## References
 
-Albert, Réka and Albert-László Barabási. "Statistical mechanics of complex networks." *Reviews of modern physics* 74.1 (2002): 47.
+Albert, R., & Barabási, A. L. (2002). Statistical mechanics of complex networks. *Reviews of modern physics*, 74(1), 47. [https://doi.org/10.1103/RevModPhys.74.47](https://doi.org/10.1103/RevModPhys.74.47)
 
-Cortes, Corinna, and Vladimir Vapnik. "Support-vector networks." *Machine learning* 20 (1995): 273-297.
+Cortes, C., & Vapnik, V. (1995). Support-vector networks. *Machine learning*, 20, 273-297.  [https://doi.org/10.1007/BF00994018](https://doi.org/10.1007/BF00994018)
 
-Mothilal, Ramaravind K., Amit Sharma, and Chenhao Tan. "Explaining machine learning classifiers through diverse counterfactual explanations." *Proceedings of the 2020 conference on fairness, accountability, and transparency*. 2020.
+Mothilal, R. K., Sharma, A., & Tan, C. (2020, January). Explaining machine learning classifiers through diverse counterfactual explanations. In *Proceedings of the 2020 conference on fairness, accountability, and transparency* (pp. 607-617). [https://doi.org/10.1145/3351095.3372850](https://doi.org/10.1145/3351095.3372850)
 
-Mullin, Megan. "The effects of drinking water service fragmentation on drought-related water security." *Science* 368.6488 (2020): 274-277.
+Mullin, M. (2020). The effects of drinking water service fragmentation on drought-related water security. *Science*, 368(6488), 274-277. [https://doi.org/10.1126/science.aba7353](https://doi.org/10.1126/science.aba7353)
 
-Pedregosa, Fabian, et al. "Scikit-learn: Machine learning in Python." *Journal of Machine Learning Research* 12 (2011): 2825-2830.
-
-Svoboda, Mark, et al. "The drought monitor." *Bulletin of the American Meteorological Society* 83.8 (2002): 1181-1190.
+Fabian, P. (2011). Scikit-learn: Machine learning in Python. *Journal of machine learning research* 12, 2825. [https://jmlr.org/papers/volume12/pedregosa11a/pedregosa11a.pdf](https://jmlr.org/papers/volume12/pedregosa11a/pedregosa11a.pdf)
 
 ## Code
 
-[GitHub repository for the water model](https://github.com/cagov/aae-dsa-water/)
+[GitHub repository](https://github.com/cagov/aae-dsa-water/)
 
 ## Authors
  
@@ -285,3 +283,5 @@ Svoboda, Mark, et al. "The drought monitor." *Bulletin of the American Meteorolo
         </p>
     </div>
 </div>
+
+Roles use the [CRediT taxonomy](https://credit.niso.org).
