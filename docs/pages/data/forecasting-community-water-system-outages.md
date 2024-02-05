@@ -194,7 +194,7 @@ Fabian, P. (2011). Scikit-learn: Machine learning in Python. *Journal of machine
 <div class="author-section">
     <div class="author">
         <p class="author-name">Monica Bobra</p>
-        <p class="author-title">Principle Data Scientist</p>
+        <p class="author-title">Principal Data Scientist</p>
         <p class="author-org">California Office of Data and Innovation, 401 I Street, Ste 200, Sacramento, CA 95814</p>
         <div class="author-role">
             <p class="author-role-label">Roles</p>
