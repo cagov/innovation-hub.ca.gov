@@ -169,7 +169,9 @@ div.content-page-header {
 }
 
 span.content-page-header-label {
-  vertical-align:middle;
+  vertical-align: middle;
+  position: relative;
+  top: -0.07rem;
 }
 /* ODI BLOCK */
 div.odiblock-grid-wrapper {
