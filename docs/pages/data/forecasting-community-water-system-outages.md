@@ -101,6 +101,9 @@ The biggest improvement in model performance will come from improving the data q
         border: 1px solid var(--ODI-Brand-Primary-primary-100, #C7D6E4);
         background: var(--CA-Base-Grays-gray-50, #FAFAFA);
     }
+    div.rec-tile:not(:last-child) {
+            border-right: none;
+    }
     div.rec-header-container div.rec-symbol {
         margin-bottom: 1rem;
         margin-top: 1rem;
