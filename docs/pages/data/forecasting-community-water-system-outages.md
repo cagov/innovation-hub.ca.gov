@@ -16,10 +16,11 @@ Monica G. Bobra <a href="https://orcid.org/0000-0002-5662-9604"><img class="orci
 <p class="text-lead">We forecasted the impact of drought on community water systems.</p>
 
 <div class="interaction-block">
-<div class="interaction"><a href="/papers/bobra-et-al-forecasting-community-water-outages.pdf"><img class="icon" src="/img/fcw-pdf-icon.svg" /> Download PDF</a></div>
+
 <!-- 
 <div class="interaction"><a href=""><img class="icon" src="/img/fcw-share-icon.svg" /> Share</a></div>
 <div class="interaction"><a href=""><img class="icon" src="/img/fcw-cite-icon.svg" /> Cite</a></div>
+<div class="interaction"><a href="/papers/bobra-et-al-forecasting-community-water-outages.pdf"><img class="icon" src="/img/fcw-pdf-icon.svg" /> Download PDF</a></div>
 -->
 <div class="interaction"><a href="https://zenodo.org/doi/10.5281/zenodo.10632952"><img class="icon" src="/img/fcw-link-icon.svg" />https://zenodo.org/doi/10.5281/zenodo.10632952</a></div>
 </div>
