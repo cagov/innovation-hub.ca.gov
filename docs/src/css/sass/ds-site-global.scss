@@ -756,7 +756,7 @@ div.author-header-block {
 }
 div.interaction-block {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 2fr;
+  grid-template-columns: 1fr 1fr; /* 1fr 1fr 1fr 2fr */
   border-top: 1px solid var(--ODI-Brand-Primary-primary-100, #C7D6E4);
   border-bottom: 1px solid var(--ODI-Brand-Primary-primary-100, #C7D6E4);
   padding-top: 1.5rem;

@@ -17,8 +17,10 @@ Monica G. Bobra <a href="https://orcid.org/0000-0002-5662-9604"><img class="orci
 
 <div class="interaction-block">
 <div class="interaction"><a href=""><img class="icon" src="/img/fcw-pdf-icon.svg" /> Download PDF</a></div>
+<!-- 
 <div class="interaction"><a href=""><img class="icon" src="/img/fcw-share-icon.svg" /> Share</a></div>
 <div class="interaction"><a href=""><img class="icon" src="/img/fcw-cite-icon.svg" /> Cite</a></div>
+-->
 <div class="interaction"><a href="https://doi.org/10.12688/loremipsum.16307.1"><img class="icon" src="/img/fcw-link-icon.svg" /> https://doi.org/10.12688/loremipsum.16307.1</a></div>
 </div>
 
@@ -177,7 +179,7 @@ These two recommendations enable researchers to query data of interest, rapidly 
 
 Albert, R., & Barabási, A. L. (2002). Statistical mechanics of complex networks. *Reviews of modern physics*, 74(1), 47. [https://doi.org/10.1103/RevModPhys.74.47](https://doi.org/10.1103/RevModPhys.74.47)
 
-Cortes, C., & Vapnik, V. (1995). Support-vector networks. *Machine learning*, 20, 273-297.  [https://doi.org/10.1007/BF00994018](https://doi.org/10.1007/BF00994018)
+Cortes, C., & Vapnik, V. (1995). Support-vector networks. *Machine learning*, 20, 273-297. [https://doi.org/10.1007/BF00994018](https://doi.org/10.1007/BF00994018)
 
 Mothilal, R. K., Sharma, A., & Tan, C. (2020, January). Explaining machine learning classifiers through diverse counterfactual explanations. In *Proceedings of the 2020 conference on fairness, accountability, and transparency* (pp. 607-617). [https://doi.org/10.1145/3351095.3372850](https://doi.org/10.1145/3351095.3372850)
 
