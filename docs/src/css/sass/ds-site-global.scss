@@ -755,8 +755,8 @@ div.author-header-block {
   }
 }
 div.interaction-block {
-  display: grid;
-  grid-template-columns: 1fr 1fr; /* 1fr 1fr 1fr 2fr */
+  display: flex;
+  // grid-template-columns: 1fr 1fr; /* 1fr 1fr 1fr 2fr */
   border-top: 1px solid var(--ODI-Brand-Primary-primary-100, #C7D6E4);
   border-bottom: 1px solid var(--ODI-Brand-Primary-primary-100, #C7D6E4);
   padding-top: 1.5rem;
@@ -767,6 +767,7 @@ div.interaction-block {
     font-size: 0.875rem;
     line-height: 1.625rem;
     min-width: 10ch;
+    margin-right: 3rem;
     // &.right {
     //   text-align: right;
     // }
