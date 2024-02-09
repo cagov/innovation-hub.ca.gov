@@ -258,7 +258,10 @@ div.howtouse-tile hr {
 div.plainlanguage-grid-wrapper {
   display: grid;
   grid-template-columns: 876px;
-  margin-top: 32px;
+  @media screen and (max-width: 876px) {
+    grid-template-columns: 90%;
+  }
+    margin-top: 32px;
   gap:0px;
 }
 
@@ -270,7 +273,10 @@ div.plainlanguage-tile {
   display: grid;
   padding: 16px 16px;
   grid-template-columns: 36px 824px;
-  gap: 0px;
+  @media screen and (max-width: 876px) {
+    grid-template-columns: 10% 90%;
+  }
+    gap: 0px;
   background-color: white;
 }
 
