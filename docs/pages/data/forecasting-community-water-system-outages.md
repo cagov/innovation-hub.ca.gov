@@ -7,7 +7,7 @@ headericon: paper
 ---
 
 <div class="author-header-block">
-Monica G. Bobra <a href="https://orcid.org/0000-0002-5662-9604"><img class="orcid-cite" src="/img/orcid-icon.svg"/></a>, Dan Wang, Hung Bui, Esa Eslami, Kimberly Hicks, Eric Zúñiga, Arman Madani <a href="https://orcid.org/0009-0002-4237-0213"><img class="orcid-cite" src="/img/orcid-icon.svg"/></a>
+Monica G. Bobra <a href="https://orcid.org/0000-0002-5662-9604"><img class="orcid-cite" src="/img/orcid-icon.svg" alt="ORCiD icon" /></a>, Dan Wang, Hung Bui, Esa Eslami, Kimberly Hicks, Eric Zúñiga, Arman Madani <a href="https://orcid.org/0009-0002-4237-0213"><img class="orcid-cite" src="/img/orcid-icon.svg" alt="ORCiD icon" /></a>
 </div>
  <!-- Dan Wang², Hung Bui², Esa Eslami¹, Kimberly Hicks¹, Eric Zúñiga², [Arman Madani](https://orcid.org/0009-0002-4237-0213)¹ <a href="https://orcid.org/0009-0002-4237-0213"><img class="orcid-cite" src="/img/orcid-icon.svg"/></a>
 ¹ California Office of Data and Innovation, 401 I Street, Ste 200, Sacramento, CA 95814
@@ -73,7 +73,7 @@ As a result, the model is easy to use, interpretable, and ethical. The model is 
 </style>
 <div class="figure-1">
   <div class="illustration">
-    <img src="/img/fcw-fig-1.png" />
+    <img src="/img/fcw-fig-1.png" alt="Map of California showing community water systems affected by drought" />
   </div>
   <div class="caption">
     <b>Figure 1.</b> In 2022, 123 community water systems were affected by drought.
@@ -138,15 +138,15 @@ The biggest improvement in model performance will come from improving the data q
 <div class="rec-container">
   <div class="rec-header-container">
     <div class="rec-header rec-tile">
-        <div class="rec-symbol"><img src="/img/fcw-icon-1.svg" /></div>
+        <div class="rec-symbol"><img src="/img/fcw-icon-1.svg" alt="Three layers on top of each other" /></div>
         <p>1. Build a modern data platform</p>
     </div>
     <div class="rec-header rec-tile">
-        <div class="rec-symbol"><img src="/img/fcw-icon-2.svg" /></div>
+        <div class="rec-symbol"><img src="/img/fcw-icon-2.svg" alt="Ring of circles connecting to a central circle" /></div>
         <p>2. Use more data</p>
     </div>
     <div class="rec-header rec-tile">
-        <div class="rec-symbol"><img src="/img/fcw-icon-3.svg" /></div>
+        <div class="rec-symbol"><img src="/img/fcw-icon-3.svg" alt="Four arrows in a circular cycle" /></div>
         <p>3. Experiment rapidly</p>
     </div>
   </div>
@@ -206,10 +206,10 @@ Fabian, P. (2011). Scikit-learn: Machine learning in Python. *Journal of machine
             <p>Methodology, formal analysis, investigation, writing – original draft</p>
         </div>
         <p class="author-id">
-            <a href="https://orcid.org/0000-0002-5662-9604"><img class="orcid-cite" src="/img/orcid-icon.svg"/>https://orcid.org/0000-0002-5662-9604</a>
+            <a href="https://orcid.org/0000-0002-5662-9604"><img class="orcid-cite" src="/img/orcid-icon.svg" alt="ORCiD icon" />https://orcid.org/0000-0002-5662-9604</a>
         </p>
         <p class="author-email">
-            <a href="mailto:monica.bobra@innovation.ca.gov"><img class="email-cite" src="/img/email-icon.svg"/>monica.bobra@innovation.ca.gov</a>
+            <a href="mailto:monica.bobra@innovation.ca.gov"><img class="email-cite" src="/img/email-icon.svg" alt="" />monica.bobra@innovation.ca.gov</a>
         </p>
     </div>
     <div class="author">
@@ -221,7 +221,7 @@ Fabian, P. (2011). Scikit-learn: Machine learning in Python. *Journal of machine
             <p>Conceptualization, formal analysis, investigation</p>
         </div>
         <p class="author-email">
-            <a href="mailto:dan.wang@waterboards.ca.gov"><img class="email-cite" src="/img/email-icon.svg"/>dan.wang@waterboards.ca.gov</a>
+            <a href="mailto:dan.wang@waterboards.ca.gov"><img class="email-cite" src="/img/email-icon.svg" alt="" />dan.wang@waterboards.ca.gov</a>
         </p>
     </div>
     <div class="author">
@@ -233,7 +233,7 @@ Fabian, P. (2011). Scikit-learn: Machine learning in Python. *Journal of machine
             <p>Validation</p>
         </div>
         <p class="author-email">
-            <a href="mailto:hung.bui@waterboards.ca.gov"><img class="email-cite" src="/img/email-icon.svg"/>hung.bui@waterboards.ca.gov</a>
+            <a href="mailto:hung.bui@waterboards.ca.gov"><img class="email-cite" src="/img/email-icon.svg" alt="" />hung.bui@waterboards.ca.gov</a>
         </p>
     </div>
     <div class="author">
@@ -245,7 +245,7 @@ Fabian, P. (2011). Scikit-learn: Machine learning in Python. *Journal of machine
             <p>Project administration, data curation</p>
         </div>
         <p class="author-email">
-            <a href="mailto:esa.eslami@innovation.ca.gov"><img class="email-cite" src="/img/email-icon.svg"/>esa.eslami@innovation.ca.gov</a>
+            <a href="mailto:esa.eslami@innovation.ca.gov"><img class="email-cite" src="/img/email-icon.svg" alt="" />esa.eslami@innovation.ca.gov</a>
         </p>
     </div>
     <div class="author">
@@ -257,7 +257,7 @@ Fabian, P. (2011). Scikit-learn: Machine learning in Python. *Journal of machine
             <p>Project administration, resources, funding acquisition</p>
         </div>
         <p class="author-email">
-            <a href="mailto:kimberly.hicks@innovation.ca.gov"><img class="email-cite" src="/img/email-icon.svg"/>kimberly.hicks@innovation.ca.gov</a>
+            <a href="mailto:kimberly.hicks@innovation.ca.gov"><img class="email-cite" src="/img/email-icon.svg" alt="" />kimberly.hicks@innovation.ca.gov</a>
         </p>
     </div>
     <div class="author">
@@ -269,7 +269,7 @@ Fabian, P. (2011). Scikit-learn: Machine learning in Python. *Journal of machine
             <p>Project administration, data curation</p>
         </div>
         <p class="author-email">
-            <a href="mailto:eric.zuniga@waterboards.ca.gov"><img class="email-cite" src="/img/email-icon.svg"/>eric.zuniga@waterboards.ca.gov</a>
+            <a href="mailto:eric.zuniga@waterboards.ca.gov"><img class="email-cite" src="/img/email-icon.svg" alt="" />eric.zuniga@waterboards.ca.gov</a>
         </p>
     </div>
     <div class="author">
@@ -281,10 +281,10 @@ Fabian, P. (2011). Scikit-learn: Machine learning in Python. *Journal of machine
             <p>Data curation</p>
         </div>
         <p class="author-id">
-            <a href="https://orcid.org/0009-0002-4237-0213"><img class="orcid-cite" src="/img/orcid-icon.svg"/>https://orcid.org/0009-0002-4237-0213</a>
+            <a href="https://orcid.org/0009-0002-4237-0213"><img class="orcid-cite" src="/img/orcid-icon.svg" alt="ORCiD icon" />https://orcid.org/0009-0002-4237-0213</a>
         </p>
         <p class="author-email">
-            <a href="mailto:arman.madani@innovation.ca.gov"><img class="email-cite" src="/img/email-icon.svg"/>arman.madani@innovation.ca.gov</a>
+            <a href="mailto:arman.madani@innovation.ca.gov"><img class="email-cite" src="/img/email-icon.svg" alt="" />arman.madani@innovation.ca.gov</a>
         </p>
     </div>
 </div>
