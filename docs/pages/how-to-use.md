@@ -61,6 +61,7 @@ We’ve organized resources by topic. The topics on the Hub are:
 
 * Human-centered design
 * Content design
+* Data
 * Product management
 
 Select a topic from the navigation at the top of the page or [find all resources on the homepage](/).
