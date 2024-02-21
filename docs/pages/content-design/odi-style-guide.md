@@ -108,7 +108,7 @@ Do not use only numbers, which can lead to confusion. Some cultures interpret 9/
 
 Use bulleted lists for a list of items that are related. They break up long blocks of text into shorter, easier-to-read lists. Do this wherever you have 2 or more nouns or verbs in a series.
 
-Give context for your list with a lead-in sentence followed by a colon:
+Give context for your list with a lead-in sentence followed by a colon.
 
 * Capitalize the first word in each bullet.
 * Decide if your bullets will all be complete sentences or fragments. Do not mix both within one list. This confuses people.
