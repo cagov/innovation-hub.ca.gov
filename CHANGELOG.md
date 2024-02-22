@@ -1,4 +1,4 @@
-# Sate of California Innovation Hub
+# State of California Innovation Hub
 
 ## 0.9.0
 - Ported from cagov/design-system

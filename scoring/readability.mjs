@@ -33,6 +33,11 @@ pageList.forEach(page => {
     fileBody = converter.makeHtml(fileBody);
   }
 
+  // if(page.inputPath.includes('principles')) {
+  //   console.log("\n\n" + page.inputPath);
+  //   console.log(fileBody);
+  // }
+
   let pageBodyOnly = convert(fileBody, { 
     wordWrap: false, 
     formatters: {
@@ -46,7 +51,11 @@ pageList.forEach(page => {
     selectors: [ 
       { selector: 'a', 
         format: 'skip', 
-        options: { ignoreHref: true} },
+        options: { ignoreHref: true} 
+      },
+      { selector: 'div.arrow-list', 
+        format: 'skip'
+      },
       {
         selector: 'div',
         options: { leadingLineBreaks: 1, trailingLineBreaks: 2 }
@@ -61,7 +70,9 @@ pageList.forEach(page => {
         format: 'fooBlockFormatter',
         options: { leadingLineBreaks: 1, trailingLineBreaks: 2 }
       },
-      { selector: 'img', format: 'skip'},
+      { selector: 'img', 
+        format: 'skip'
+      },
     ] 
   });
 

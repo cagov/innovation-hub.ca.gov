@@ -1,6 +1,7 @@
 {
   "urls": {
     "/markdown/": { "exclude": true },
-    "/front-matter/": { "exclude": true }
+    "/front-matter/": { "exclude": true },
+    "/par-statistics/": { "exclude": true }
   }
 }
