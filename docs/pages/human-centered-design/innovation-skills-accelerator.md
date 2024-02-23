@@ -15,7 +15,7 @@ headericon: ribbon
 * Problem definition
 * Data analysis
 
-State of California staff can take the Accelerator for free. Just sign up with your ca.gov email address.
+State of California staff can take the Accelerator for free. Just sign up with your ca.gov email address. After logging in, you may need to scroll down to find the Innovation Skills Accelerator.
 <div id="isa-cta">
  <a class="btn-primary featured-btn external-link" href="https://innovate-us.org/partner/calacademy?utm_source=odihub&utm_medium=web&utm_campaign=jan25launch" target="_blank"><span>Sign up for the Accelerator</span></a>
 
