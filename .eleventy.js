@@ -79,6 +79,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ 'docs/src/css/fonts': 'fonts' });
   eleventyConfig.addPassthroughCopy({ '_site_dist/*': '/' });
   eleventyConfig.addPassthroughCopy({ '_build_dist/*': 'builds' });
+  eleventyConfig.addPassthroughCopy({ 'docs/src/assets/papers/bobra-water-1': 'papers/bobra-water-1' });
 
 
   eleventyConfig.on("eleventy.after", async ({ results }) => {
