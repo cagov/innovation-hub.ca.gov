@@ -17,7 +17,7 @@ In this course, you’ll learn how:
 * Tools can help you put human-centered design into practice
 * Data analysis
 
-State of California staff can take the Accelerator for free. Just sign up with your ca.gov email address.
+State of California staff can take the course for free. Just sign up with your ca.gov email address.
 
 <div id="isa-cta">
  <a class="btn-primary featured-btn external-link" href="https://innovate-us.org/course/human-centered-design" target="_blank"><span>Sign up for the course</span></a>
