@@ -1,6 +1,8 @@
 ---
 title: Write in plain language
 parentid: Content design
+subparentid: Content design principles
+subparentidlink: /content-design/principles/
 description: Do the hard work to make content simple for people to understand.
 headerlabel: Standards and principles
 headericon: star

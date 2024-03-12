@@ -1,6 +1,8 @@
 ---
 title: Write with a conversational and official voice
 parentid: Content design
+subparentid: Content design principles
+subparentidlink: /content-design/principles/
 description: Give reliable information with confidence.
 headerlabel: Standards and principles
 headericon: star

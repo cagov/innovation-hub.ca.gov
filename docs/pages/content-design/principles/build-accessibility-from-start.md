@@ -1,6 +1,8 @@
 ---
 title: Build in accessibility from the start
 parentid: Content design
+subparentid: Content design principles
+subparentidlink: /content-design/principles/
 description: Accessibility goes beyond the technical components of a website. It’s about including everyone who has a right to information.
 headerlabel: Standards and principles
 headericon: star
