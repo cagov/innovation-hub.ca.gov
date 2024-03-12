@@ -9,6 +9,8 @@ on:
 jobs:
   build_deploy:
     runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
     steps:
       - uses: n1hility/cancel-previous-runs@v2
         with: 
@@ -55,10 +57,10 @@ jobs:
       - name: invalidate Cloudfront
         run: aws cloudfront create-invalidation --distribution-id E2FU9OXT3L3CRY --paths "/*"
       - name: Post URL to PR
-        uses: mshick/add-pr-comment@v1
+        uses: mshick/add-pr-comment@v2.8.2
         with:
           message: |
             Preview site available at [${{ env.URLSAFE_BRANCH_NAME }}.pr.hub.innovation.ca.gov](https://${{ env.URLSAFE_BRANCH_NAME }}.pr.hub.innovation.ca.gov/).
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
-          repo-token-user-login: 'github-actions[bot]'
+          # repo-token: ${{ secrets.GITHUB_TOKEN }}
+          # repo-token-user-login: 'github-actions[bot]'
           allow-repeats: false
