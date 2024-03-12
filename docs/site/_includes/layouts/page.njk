@@ -9,6 +9,15 @@
       <span class="crumb separator">/</span>
       <span class="crumb">{{ parentid | safe }}</span>
     {% endif %}
+    {% if subparentid %}
+      {% if subparentidlink %}
+        <span class="crumb separator">/</span>
+        <a class="crumb" href="{{ subparentidlink }}" title="{{ subparentid | safe }}">{{ subparentid | safe }}</a>
+      {% else %}
+        <span class="crumb separator">/</span>
+        <span class="crumb">{{ subparentid | safe }}</span>
+      {% endif %}
+    {% endif %}
     <span class="crumb separator">/</span>
     <span class="crumb current">{{ title | safe }}</span>
   </div>
