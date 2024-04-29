@@ -18,7 +18,7 @@ Adapted from the US Department of Labor’s [Use plain language for claimant not
         <div class="checklist-left-icon">&nbsp;</div>
         <div class="checklist-right-side">
             <div class="checklist-tile-header">
-                <a class="external-link" href="https://www.plainlanguage.gov/guidelines/audience/)">Written for easy reading by the average reader</a>
+                <a class="external-link" href="https://www.plainlanguage.gov/guidelines/audience/">Written for easy reading by the average reader</a>
             </div>
             <div class="checklist-tile-copy">
                     Measure reading level to make sure it’s not too high for your audience. Check this through <a href="https://hemingwayapp.com/">Hemingway</a>. Target is grade 8 or lower.

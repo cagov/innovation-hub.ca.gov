@@ -30,7 +30,7 @@ Arrange what your readers are looking for so they’re likely to see it.
   3. Repeat until you get to your last section of content. This should be the content that applies to the fewest number of people (like specific groups).
 * Headings are easy for readers to scan. Make your [headings useful](https://www.plainlanguage.gov/guidelines/organize/add-useful-headings/) so people understand what’s in that section.
   * Use headings in descending order. Do not skip a level.
-  * Use three levels of headings (H2, H3, and H4). If you find yourself using H5 or H6 headings, your organization may be too complex. Break up the content into multiple pages.
+  * Use 3 levels of headings (H2, H3, and H4). If you find yourself using H5 or H6 headings, your organization may be too complex. Break up the content into multiple pages.
   * Only use one H1 per page for the title of the page.
 * Break up large blocks of content into smaller chunks.
   * Small paragraphs are easier to read. They also signal when a new topic begins.
