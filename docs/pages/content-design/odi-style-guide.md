@@ -8,6 +8,32 @@ headericon: book
 
 <p class="text-lead">These are the Office of Data and Innovation’s conventions and standard terms for writing. Our <a href="/content-design/principles/">content design principles</a> provide general guidance in how to write well.</p>
 
+## Acronyms
+
+Write out the full name of something the first time you mention it. Follow with the acronym in parentheses. Use the acronym for any other mentions.
+
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">
+      The Office of Data and Innovation (ODI) was founded in 2022. ODI partners with departments across the state.
+    </div>
+  </div>
+</div>
+
+Capitalize acronyms. Do not use periods between letters.
+
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">
+      CDC
+    </div>
+  </div>
+</div>
+
+When using an acronym to refer to another state department, follow their convention. If in doubt, look at their website to find out how they abbreviate their name.
+
 ## Capitalization
 
 Always use sentence case. It’s easier to read and understand. Only capitalize proper nouns and the first word of a sentence or bullet.
@@ -33,17 +59,6 @@ When writing out a URL, use lowercase letters. But if it’s the first word in a
     <div class="blockquote-content">
       <p>Check myturn.ca.gov for walk-in clinics in your area.</p>
       <p>Vaccines.gov is the CDC’s vaccination portal.</p>
-    </div>
-  </div>
-</div>
-
-Capitalize acronyms.
-
-<div class="blockquote-container">
-  <div class="blockquote-body">
-    <div class="blockquote-header"><strong>Example:</strong></div>
-    <div class="blockquote-content">
-      CDC
     </div>
   </div>
 </div>
@@ -492,14 +507,6 @@ Use **Black** when referring to people of African descent. Capitalize this where
 
 Use CA.gov when writing about the ecosystem of state websites or the [State of California homepage](https://www.ca.gov/). This follows the California Department of Technology style. Use ca.gov when writing a URL, like digital.ca.gov.
 
-### Cal OES
-
-The **Governor’s Office of Emergency Services** is abbreviated **Cal OES**. This follows the [office’s](https://www.caloes.ca.gov/) style. Write out the full name before using the abbreviation on each page.
-
-### Cal/OSHA
-
-The **California Division of Occupational Safety and Health** is abbreviated **Cal/OSHA**. This follows the [division’s](https://www.dir.ca.gov/dosh/) style. Write out the full name before using the abbreviation on each page.
-
 ### county
 
 Use **county** in lowercase when referring to a level of government.
@@ -641,7 +648,7 @@ Use **Native Hawaiian** when referring to people of Hawaiian descent. This follo
 
 ### Office of Data and Innovation
 
-When spelling out the full name of the office, use the word **and**. Do not use an ampersand (&). If you mention ODI more than once in the content, use **(ODI)** after the first use. Use **ODI** for all following references instead of writing out the full name.
+When spelling out the full name of the office, use the word **and**. Do not use an ampersand (&).
 
 ### OK
 
