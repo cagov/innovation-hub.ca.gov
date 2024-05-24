@@ -51,6 +51,7 @@ jobs:
         run: |
           echo 'User-agent: *' > _site/robots.txt
           echo 'Disallow: /' >> _site/robots.txt
+          echo 'Sitemap: https://hub.innovation.ca.gov/sitemap.xml' >> _site/robots.txt
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@master
         with:

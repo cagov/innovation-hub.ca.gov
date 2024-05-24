@@ -36,7 +36,7 @@ jobs:
         run: |
           echo 'User-agent: *' > _site/robots.txt
           echo 'Allow: /' >> _site/robots.txt
-          echo 'Sitemap: https://designsystem.webstandards.ca.gov/sitemap.xml' >> docs/robots.txt
+          echo 'Sitemap: https://hub.innovation.ca.gov/sitemap.xml' >> _site/robots.txt
 
       # Push built site files to S3 production bucket
       - name: Configure AWS Credentials
