@@ -57,6 +57,8 @@ headericon: bookmark
 
 [Plainlanguage.gov](https://www.plainlanguage.gov/), maintained by the US federal government, is a great resource for how to implement plain language. Their site also includes [examples of plain language](https://www.plainlanguage.gov/examples/) in action.
 
+The [Plain English Lexcion](https://clearest.co.uk/wp-content/uploads/2021/09/Plain_English_LEXICON_June_2011.pdf) has 2,700 substitutions for complex words. Some may be specific to British English.
+
 ### Human-centered design
 
 * [Nielsen Norman Group](https://www.nngroup.com/articles/)
