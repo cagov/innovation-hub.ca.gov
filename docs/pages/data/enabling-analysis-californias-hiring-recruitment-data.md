@@ -115,7 +115,7 @@ CalHR can bring in more data sources to their data pipeline, such as payroll and
         <p class="author-org">California Office of Data and Innovation, 401 I Street, Ste 200, Sacramento, CA 95814</p>
         <div class="author-role">
             <p class="author-role-label">Roles</p>
-            <p>CInvestigation, formal analysis, software, methodology</p>
+            <p>Roles : Investigation, formal analysis, software, methodology</p>
         </div>
     </div>
     <div class="author">
