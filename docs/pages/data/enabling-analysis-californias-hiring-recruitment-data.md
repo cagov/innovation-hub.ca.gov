@@ -210,9 +210,6 @@ CalHR can bring in more data sources to their data pipeline, such as payroll and
             <p class="author-role-label">Roles</p>
             <p>Project administration, resources, supervision</p>
         </div>
-        <p class="author-email">
-            <a href="mailto:DiJon.Walker@calhr.ca.gov"><img class="email-cite" src="/img/email-icon.svg" alt="" />DiJon.Walker@calhr.ca.gov</a>
-        </p>
     </div>
     <div class="author">
         <p class="author-name">Enrique Parker</p>
