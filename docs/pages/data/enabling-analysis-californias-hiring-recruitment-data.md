@@ -220,7 +220,7 @@ CalHR can bring in more data sources to their data pipeline, such as payroll and
             <p>Conceptualization, resources, supervision</p>
         </div>
         <p class="author-email">
-            <a href="mailto:enrique.parker@calhr.ca.gov"><img class="email-cite" src="/img/email-icon.svg" alt="" />enrique.parker@calhr.ca.gov</a>
+            <a href="mailto:enrique.parker@calhr.ca.gov"><img class="email-cite" src="/img/email-icon.svg" alt="" />Enrique.Parker@calhr.ca.gov</a>
         </p>
     </div>
 </div>
