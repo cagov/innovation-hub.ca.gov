@@ -20,9 +20,6 @@ The course includes time to practice writing in plain language. You will be able
 
 ## Sign up for a session
 
-We host the course through CalLearns. Courses are open to State of California staff. All courses are full, but check CalLearns to find out if a wait list is available.
-
-* [June 4, 2024, 11:00 AM](https://calhr.geniussis.com/Registration1.aspx?AID=3570)
-* [June 20, 2024, 1:30 PM](https://calhr.geniussis.com/Registration.aspx?AID=3603)
+We host the course through CalLearns. Courses are open to State of California staff. The upcoming course on [June 20, 2024, 1:30 PM](https://calhr.geniussis.com/Registration.aspx?AID=3603) is full, but check CalLearns to find out if a wait list is available.
 
 You need a CalLearns account to register for the training. Space is limited. You need approval from your manager to take the course.
