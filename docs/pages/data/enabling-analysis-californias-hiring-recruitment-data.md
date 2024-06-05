@@ -90,9 +90,10 @@ After ODI’s MDSA project with CalHR, there is a scalable, cloud-based data pip
 ## Recommendations
 
 ODI’s MDSA project with CalHR serves as a proof of concept for how the state can build a modern data pipeline for its hiring data. Further work should go in a few directions:
-CalHR can continue to socialize how to use and develop a code-first analytics workflow among both its IT and program staff. This includes further training in the use of GitHub (including code review, version control, and testing), as well as training in the use of PowerBI for reporting on the analytics.
-CalHR can now create data governance policies and practices on a robust foundation. The tools used make it easier to document datasets, visualize data lineage, and control access with fine-grained permissions. The concrete examples from the collaboration with CalHR allow them to have specific conversations about roles and responsibilities related to data so that knowledge of data and its appropriate use can be easily shared across the department.
-CalHR can bring in more data sources to their data pipeline, such as payroll and census data, allowing them to answer more sophisticated and cross-cutting questions about California’s workforce and hiring process.
+
+1. CalHR can continue to socialize how to use and develop a code-first analytics workflow among both its IT and program staff. This includes further training in the use of GitHub (including code review, version control, and testing), as well as training in the use of PowerBI for reporting on the analytics.
+2. CalHR can now create data governance policies and practices on a robust foundation. The tools used make it easier to document datasets, visualize data lineage, and control access with fine-grained permissions. The concrete examples from the collaboration with CalHR allow them to have specific conversations about roles and responsibilities related to data so that knowledge of data and its appropriate use can be easily shared across the department.
+3. CalHR can bring in more data sources to their data pipeline, such as payroll and census data, allowing them to answer more sophisticated and cross-cutting questions about California’s workforce and hiring process.
 
 ## Authors
  
