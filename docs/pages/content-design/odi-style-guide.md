@@ -165,6 +165,8 @@ To make your headings effective:
 
 When referencing a law, use this format: [Chamber] Bill [Number] ([Author's political party affiliation abbreviation], [Author last name]-[Author's city]), [Bill title]. If you’re unsure of the author’s city, call their office. Use [California Legislative Information](https://leginfo.legislature.ca.gov/faces/home.xhtml) to find the bill title.
 
+If you mention a bill from that chamber later in your text, put the abbreviation **AB** or **SB** in parentheses after the first use. Follow our [acronym rules](https://hub.innovation.ca.gov/content-design/odi-style-guide/#acronyms).
+
 <div class="blockquote-container">
   <div class="blockquote-body">
     <div class="blockquote-header"><strong>Example:</strong></div>
