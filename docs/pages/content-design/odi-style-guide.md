@@ -161,6 +161,21 @@ To make your headings effective:
 * Don’t skip heading levels. For example, don’t go straight from H2 to H4. Each level has its own style. Using levels consistently makes a good experience for readers. This also helps people using screen readers. 
 * Nest heading levels appropriately. For example, H3s can be used for content relevant to the H2 above it. But don’t go past H4. That much nesting is hard for readers to follow.
 
+### Law citations
+
+When referencing a law, use this format: [Chamber] Bill [Number] ([Author's political party affiliation abbreviation], [Author last name]-[Author's city]), [Bill title]. If you’re unsure of the author’s city, call their office. Use [California Legislative Information](https://leginfo.legislature.ca.gov/faces/home.xhtml) to find the bill title.
+
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">
+
+Senate Bill (SB) 35 (D, Weiner-San Francisco), Planning and zoning: affordable housing: streamlined approval process passed in 2017. SB 35 aims to build more affordable housing faster.
+
+    </div>
+  </div>
+</div>
+
 ### Links
 
 Links are embedded in text instead of standing alone.
