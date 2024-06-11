@@ -171,9 +171,7 @@ If you mention a bill from that chamber later in your text, put the abbreviation
   <div class="blockquote-body">
     <div class="blockquote-header"><strong>Example:</strong></div>
     <div class="blockquote-content">
-
 Senate Bill (SB) 35 (D, Weiner-San Francisco), Planning and zoning: affordable housing: streamlined approval process passed in 2017. SB 35 aims to build more affordable housing faster.
-
     </div>
   </div>
 </div>
@@ -184,9 +182,7 @@ If citing a law in a list of references, use this format: Title], [chamber abbre
   <div class="blockquote-body">
     <div class="blockquote-header"><strong>Example:</strong></div>
     <div class="blockquote-content">
-
 Planning and zoning: affordable housing: streamlined approval process, SB 35, California Legislature, Senate (2017). https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB35
-
     </div>
   </div>
 </div>
