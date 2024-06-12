@@ -163,7 +163,9 @@ To make your headings effective:
 
 ### Law citations
 
-When referencing a law, use this format: [Chamber] Bill [number] ([author's political party affiliation abbreviation], [author last name]-[author's city]), [bill title]. If you’re unsure of the author’s city, call their office. Use [California Legislative Information](https://leginfo.legislature.ca.gov/faces/home.xhtml) to find the bill title.
+When referencing a law, use this format: Chamber Bill number (author's political party affiliation abbreviation, author last name-author's city), bill title.
+
+If you’re unsure of the author’s city, call their office. Use [California Legislative Information](https://leginfo.legislature.ca.gov/faces/home.xhtml) to find the bill title.
 
 If you mention a bill from that chamber later in your text, put the abbreviation **AB** or **SB** in parentheses after the first use. Follow our [acronym rules](https://hub.innovation.ca.gov/content-design/odi-style-guide/#acronyms).
 
@@ -176,7 +178,7 @@ If you mention a bill from that chamber later in your text, put the abbreviation
   </div>
 </div>
 
-If citing a law in a list of references, use this format: Title], [chamber abbreviation]-[number], California Legislature, [legislative body], [Year]. [LegInfo URL]
+If citing a law in a list of references, use this format: Title, chamber abbreviation-number, California Legislature, legislative body, year. LegInfo URL
 
 <div class="blockquote-container">
   <div class="blockquote-body">
