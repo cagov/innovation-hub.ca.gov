@@ -161,6 +161,34 @@ To make your headings effective:
 * Don’t skip heading levels. For example, don’t go straight from H2 to H4. Each level has its own style. Using levels consistently makes a good experience for readers. This also helps people using screen readers. 
 * Nest heading levels appropriately. For example, H3s can be used for content relevant to the H2 above it. But don’t go past H4. That much nesting is hard for readers to follow.
 
+### Law citations
+
+When referencing a law, use this format: Chamber Bill number (author’s political party affiliation abbreviation, author last name-author’s city), bill title.
+
+If you’re unsure of the author’s city, use [CalMatters’ legislators directory](https://digitaldemocracy.calmatters.org/legislators). Use [California Legislative Information](https://leginfo.legislature.ca.gov/faces/home.xhtml) to find the bill title.
+
+If you mention a bill from that chamber later in your text, put the abbreviation **AB** or **SB** in parentheses after the first use. Follow our [acronym rules](https://hub.innovation.ca.gov/content-design/odi-style-guide/#acronyms).
+
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">
+      Senate Bill (SB) 35 (D, Weiner-San Francisco), Planning and zoning: affordable housing: streamlined approval process passed in 2017. SB 35 aims to build more affordable housing faster.
+    </div>
+  </div>
+</div>
+
+If citing a law in a list of references, use this format: Title, chamber abbreviation-number, California Legislature, legislative body, year. LegInfo URL
+
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">
+      Planning and zoning: affordable housing: streamlined approval process, SB 35, California Legislature, Senate (2017). https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB35
+    </div>
+  </div>
+</div>
+
 ### Links
 
 Links are embedded in text instead of standing alone.
