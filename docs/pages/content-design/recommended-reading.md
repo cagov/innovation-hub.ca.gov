@@ -65,12 +65,12 @@ The [Plain English Lexcion](https://clearest.co.uk/wp-content/uploads/2021/09/Pl
 
 ### Human-centered design
 
-* [Nielsen Norman Group](https://www.nngroup.com/articles/) is a leader in usability research. We like their articles on:
-  * [Content strategy](https://www.nngroup.com/topic/content-strategy/) (the high-level plan for creating and managing content)
-  * [Information architecture](https://www.nngroup.com/topic/information-architecture/) (how to organize a website)
-  * [Writing for the web](https://www.nngroup.com/topic/writing-web/) (general advice on writing)
-  * [Web usability](https://www.nngroup.com/topic/web-usability/) (user experience research, helpful for putting content design in context)
-    * [Why you only need to test with 5 users](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/) shows why you don’t need to do big usability tests with your content. Use this to persuade stakeholders you can quickly gather feedback before publishing content.
+[Nielsen Norman Group](https://www.nngroup.com/articles/) is a leader in usability research. We like their articles on:
+* [Content strategy](https://www.nngroup.com/topic/content-strategy/) (the high-level plan for creating and managing content)
+* [Information architecture](https://www.nngroup.com/topic/information-architecture/) (how to organize a website)
+* [Writing for the web](https://www.nngroup.com/topic/writing-web/) (general advice on writing)
+* [Web usability](https://www.nngroup.com/topic/web-usability/) (user experience research, helpful for putting content design in context)
+  * [Why you only need to test with 5 users](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/) shows why you don’t need to do big usability tests with your content. Use this to persuade stakeholders you can quickly gather feedback before publishing content.
    
 ## Tools
 
