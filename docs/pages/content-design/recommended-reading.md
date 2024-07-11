@@ -59,7 +59,7 @@ Inclusive language uses words that respect all people. ODI doesn’t maintain ou
 
 ### Plain language
 
-[Plainlanguage.gov](https://www.plainlanguage.gov/)is a great resource for how to use plain language. It’s maintained by the US federal government. Their site also includes [examples of plain language](https://www.plainlanguage.gov/examples/) in action.
+[Plainlanguage.gov](https://www.plainlanguage.gov/) is a great resource for how to use plain language. It’s maintained by the US federal government. Their site also includes [examples of plain language](https://www.plainlanguage.gov/examples/) in action.
 
 The [Plain English Lexcion](https://clearest.co.uk/wp-content/uploads/2021/09/Plain_English_LEXICON_June_2011.pdf) has 2,700 substitutions for complex words. Some may be specific to British English.
 
