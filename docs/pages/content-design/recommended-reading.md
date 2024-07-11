@@ -63,12 +63,17 @@ Inclusive language uses words that respect all people. ODI doesn’t maintain ou
 
 The [Plain English Lexcion](https://clearest.co.uk/wp-content/uploads/2021/09/Plain_English_LEXICON_June_2011.pdf) has 2,700 substitutions for complex words. Some may be specific to British English.
 
+The [ClearMark Awards](https://centerforplainlanguage.org/awards/clearmark/) honors the best plain language communications. They’re a great place to find inspiration for your writing. Winners come from government, nonprofit, and business.
+
 ### Human-centered design
 
 [Nielsen Norman Group](https://www.nngroup.com/articles/) is a leader in usability research. We like their articles on:
 * [Content strategy](https://www.nngroup.com/topic/content-strategy/) (the high-level plan for creating and managing content)
 * [Information architecture](https://www.nngroup.com/topic/information-architecture/) (how to organize a website)
+  * [Information scent: how users decide where to go next](https://www.nngroup.com/articles/information-scent/). This article talks about how people navigate websites. Understanding information scent helps you make sure people get to what they need.
 * [Writing for the web](https://www.nngroup.com/topic/writing-web/) (general advice on writing)
+  * [F-shaped pattern of reading on the web](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/). It’s a common scanning pattern people use when reading. The article describes when people use the f-shaped pattern.
+  * [The layer-cake pattern of scanning content on the web](https://www.nngroup.com/articles/layer-cake-pattern-scanning/). People use this scanning pattern when content is organized well. The article explains how to design content so people can use the layer-cake pattern.
 * [Web usability](https://www.nngroup.com/topic/web-usability/) (user experience research, helpful for putting content design in context)
   * [Why you only need to test with 5 users](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/) shows why you don’t need to do big usability tests with your content. Use this to persuade stakeholders you can quickly gather feedback before publishing content.
    
@@ -76,6 +81,7 @@ The [Plain English Lexcion](https://clearest.co.uk/wp-content/uploads/2021/09/Pl
 
 * [Hemingway Editor](http://hemingwayapp.com/) is ODI’s favorite writing assistant. Its web version is free and highlights areas for improvement in real time.
 * [ODI’s plain language checklist](/content-design/plain-language-checklist/) has detailed guidance on how to improve your writing.
+* [ProWritingAid](https://prowritingaid.com/)’s Simplify function can be helpful in lowering the reading level of content. It’s a good place to start if you need help simplifying text.
 
 ## Books
 
