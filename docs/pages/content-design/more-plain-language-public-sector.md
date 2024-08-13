@@ -33,6 +33,6 @@ We host the course through CalLearns. Space is limited.
 
 To take the course, you need:
 
-* To have taken [More plain language for the public sector](/content-design/introduction-plain-language-public-sector/)
+* To have taken [Introduction to plain language for the public sector](/content-design/introduction-plain-language-public-sector/)
 * A CalLearns account to register for the training
 * Approval from your manager
