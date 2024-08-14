@@ -2,7 +2,6 @@
 title: More plain language for the public sector
 parentid: Content design
 description: An intermediate course on plain language for State of California staff
-layout: single-column
 keywords: 
 headerlabel: Training
 headericon: ribbon
