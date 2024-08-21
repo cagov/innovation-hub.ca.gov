@@ -21,6 +21,14 @@ The course includes time to practice writing in plain language. You will be able
 
 We host the course through CalLearns. Space is limited.
 
+To take the course, you need:
+
+* To have taken [Introduction to plain language for the public sector](/content-design/introduction-plain-language-public-sector/) through CalLearns. This can have been with an instructor or the self-paced online course. The ODI-hosted webinar alone is not enough.
+* A CalLearns account to register for the training
+* Approval from your manager
+
+### Dates
+
 * [September 10, 2024](https://calhr.geniussis.com/Registration.aspx?AID=4239)
 * [September 26, 2024](https://calhr.geniussis.com/Registration.aspx?AID=4240)
 * [October 10, 2024](https://calhr.geniussis.com/Registration.aspx?AID=4241)
@@ -29,9 +37,3 @@ We host the course through CalLearns. Space is limited.
 * [November 21, 2024](https://calhr.geniussis.com/Registration.aspx?AID=4244)
 * [December 5, 2024](https://calhr.geniussis.com/Registration.aspx?AID=4245)
 * [December 17, 2024](https://calhr.geniussis.com/Registration.aspx?AID=4246)
-
-To take the course, you need:
-
-* To have taken [Introduction to plain language for the public sector](/content-design/introduction-plain-language-public-sector/)
-* A CalLearns account to register for the training
-* Approval from your manager
