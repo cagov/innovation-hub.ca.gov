@@ -426,7 +426,7 @@ Use hyphens to separate the area code, first 3 digits, and last 4 digits. Do not
   <div class="blockquote-body">
     <div class="blockquote-header"><strong>Example:</strong></div>
     <div class="blockquote-content">
-You can call the Office of the Governor at <a href="tel:+19164452841">916-445-2841</a>.
+You can call the Office of the Governor at <a href="tel:9164452841">916-445-2841</a>.
     </div>
   </div>
 </div>
