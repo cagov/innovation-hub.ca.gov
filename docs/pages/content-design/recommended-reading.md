@@ -28,7 +28,7 @@ These are the style guides we look at when we have a new content question. We’
 * [How to write for SF.gov](https://sfdigitalservices.gitbook.io/style-guide/city-standards) (City of San Francisco)
 * [Federal plain language guidelines](https://www.plainlanguage.gov/guidelines/) at plainlanguage.gov (federal government)
 * Federal [style guides by government agencies](https://digital.gov/resources/style-guides-by-government-agencies/)
-* [GOV.UK A to Z of style – words to avoid](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid): a list of words that make your content less clear (UK Government Digital Service).
+* [Australian Government Style Manual](https://www.stylemanual.gov.au/)
 
 ## How-to's
 
@@ -61,9 +61,15 @@ Inclusive language uses words that respect all people. ODI doesn’t maintain ou
 
 [Plainlanguage.gov](https://www.plainlanguage.gov/) is a great resource for how to use plain language. It’s maintained by the US federal government. Their site also includes [examples of plain language](https://www.plainlanguage.gov/examples/) in action.
 
-The [Plain English Lexcion](https://clearest.co.uk/wp-content/uploads/2021/09/Plain_English_LEXICON_June_2011.pdf) has 2,700 substitutions for complex words. Some may be specific to British English.
-
 The [ClearMark Awards](https://centerforplainlanguage.org/awards/clearmark/) honors the best plain language communications. They’re a great place to find inspiration for your writing. Winners come from government, nonprofit, and business.
+
+#### Word substitution lists
+
+Swapping complex words for simple ones is a big part of plain language. These word substitution lists can help with that.
+
+* Start with [Plainlanguage.gov’s Use simple words and phrases](https://www.plainlanguage.gov/guidelines/words/use-simple-words-phrases/). It covers the most common words.
+* [Health Research for Action’s Plain Language Word List](https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/PlainLanguageWordList.pdf) has lots of healthcare-specific words.
+* The most complete list is the [Plain English Lexicon](https://clearest.co.uk/wp-content/uploads/2021/09/Plain_English_LEXICON_June_2011.pdf). It has 2,700 words. However, some are specific to British English.
 
 ### Human-centered design
 
