@@ -418,6 +418,19 @@ Twelve cities in Los Angeles County allow cultivation of cannabis.
   </div>
 </div>
 
+### Telephone numbers
+
+Use hyphens to separate the area code, first 3 digits, and last 4 digits. Do not use parentheses. When it serves the user (like on a webpage), make the telephone number a link.
+
+<div class="blockquote-container">
+  <div class="blockquote-body">
+    <div class="blockquote-header"><strong>Example:</strong></div>
+    <div class="blockquote-content">
+You can call the Office of the Governor at <a href="tel:+19164452841">916-445-2841</a>.
+    </div>
+  </div>
+</div>
+
 ### Times
 
 Use **AM** and **PM** with times. Put a space between the time and AM or PM. Convert times to the Pacific time zone. Unless your target audience is out of state, do not state the time zone since California is only in one time zone.
