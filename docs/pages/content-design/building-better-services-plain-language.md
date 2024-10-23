@@ -1,5 +1,5 @@
 ---
-title: More plain language for the public sector
+title: Building better services with plain language
 parentid: Content design
 description: An intermediate course on plain language for State of California staff
 keywords: 
@@ -29,10 +29,6 @@ To take the course, you need:
 
 ### Dates
 
-* [September 10, 2024](https://calhr.geniussis.com/Registration.aspx?AID=4239)
-* [September 26, 2024](https://calhr.geniussis.com/Registration.aspx?AID=4240)
-* [October 10, 2024](https://calhr.geniussis.com/Registration.aspx?AID=4241)
-* [October 22, 2024](https://calhr.geniussis.com/Registration.aspx?AID=4242)
 * [November 7, 2024](https://calhr.geniussis.com/Registration.aspx?AID=4243)
 * [November 21, 2024](https://calhr.geniussis.com/Registration.aspx?AID=4244)
 * [December 5, 2024](https://calhr.geniussis.com/Registration.aspx?AID=4245)
