@@ -34,7 +34,7 @@ These questions must be answered to build rapidly and responsibly.
 
 ## Our approach
 
-Housing production data is reported to HCD by 539 jurisdictions (cities and counties) across the state. ODI partnered with HCD to build a tool called Homestead to mine, analyze, and visualize that data so HCD staff can have in-depth, granular knowledge on the state of housing production. The housing development process itself can be mired in review and with each jurisdiction comes a different set of project identifiers, local procedures, and reporting practices.
+Housing production data is reported to HCD by 539 jurisdictions (cities and counties) across the state. ODI partnered with HCD to build a tool called *Homestead* to mine, analyze, and visualize that data so HCD staff can have in-depth, granular knowledge on the state of housing production. The housing development process itself can be mired in review and with each jurisdiction comes a different set of project identifiers, local procedures, and reporting practices.
 
 <img src="/papers/rose-hr-1/eac-fig-2.png" alt="GitHub issue for FMD Questions on ECOS data. It includes a problem summary, record of work, and follow-up comments." />
 **Figure 1.** Both jurisdictions and counties generate data related to housing development and cost of housing. All of which is funneled to one statewide agency: the Department of Housing & Community Development.
@@ -92,7 +92,7 @@ In the initial trial run, *Homestead* has demonstrated the following results:
 
 *Homestead* relies on underlying housing data from jurisdictions. Therefore, we must prioritize making the data collection process as robust as possible. This includes more guidance for jurisdictions and validation in the reporting process, before eventually transitioning to a standardized reporting form (or open data standard). Additionally, *Homestead*’s output datasets are meant to be built upon and extended. The more the tool is accessible by HCD staff, the more assets (for example, graphs, metrics, or flags) can be used moving forward. 
 
-“Building more affordable housing faster” is a daunting mandate without the requisite tools. ODI and HCD are optimistic that better housing intelligence through Homestead is a vital step towards understanding and addressing the affordable housing shortfall in California.
+“Building more affordable housing faster” is a daunting mandate without the requisite tools. ODI and HCD are optimistic that better housing intelligence through *Homestead* is a vital step towards understanding and addressing the affordable housing shortfall in California.
 
 ## References
 
