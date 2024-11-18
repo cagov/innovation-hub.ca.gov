@@ -29,6 +29,6 @@ To take the course, you need:
 
 ### Dates
 
-* [November 21, 2024](https://calhr.geniussis.com/Registration.aspx?AID=4244)
+* [November 21, 2024](https://calhr.geniussis.com/Registration.aspx?AID=4244) (full)
 * [December 5, 2024](https://calhr.geniussis.com/Registration.aspx?AID=4245)
 * [December 17, 2024](https://calhr.geniussis.com/Registration.aspx?AID=4246)
