@@ -74,3 +74,36 @@ body {
     }
   }
 }
+
+/* Add new ca.gov logo to header and footer. */
+.official-header svg {
+  width: unset;
+  height: 24px;
+}
+.official-header svg .cls-1 {
+  fill: #fff;
+  stroke-width: 0px;
+}
+footer .bg-light-grey a, footer .copyright {
+  padding: 0;
+}
+footer .cagov-logo {
+  padding-right: unset;
+  margin-right: var(--s-3);
+}
+footer .cagov-logo svg {
+  display: block;
+  height: 24px;
+}
+footer .cagov-logo svg .cls-1 {
+  fill: url(#linear-gradient);
+}
+footer .cagov-logo svg .cls-1, .cls-2, .cls-3 {
+  stroke-width: 0px;
+}
+footer .cagov-logo svg .cls-2 {
+  fill: url(#linear-gradient-2);
+}
+footer .cagov-logo svg .cls-3 {
+  fill: #f26724;
+}
