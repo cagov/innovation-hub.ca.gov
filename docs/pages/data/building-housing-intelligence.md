@@ -14,7 +14,7 @@ Arman Madani <a href="https://orcid.org/0009-0002-4237-0213"><img class="orcid-c
 
 <div class="interaction-block">
 
-<div class="interaction"><a href="/papers/bobra-et-al-forecasting-community-water-outages.pdf"><img class="icon" src="/img/paper-pdf-icon.svg" /> Download PDF</a></div>
+<div class="interaction"><a href="/papers/madani-et-al-building-housing-intelligence-california.pdf"><img class="icon" src="/img/paper-pdf-icon.svg" /> Download PDF</a></div>
 <div class="interaction"><a href="https://zenodo.org/doi/10.5281/zenodo.10632952"><img class="icon" src="/img/paper-link-icon.svg" />https://zenodo.org/doi/10.5281/zenodo.10632952</a></div>
 </div>
 
