@@ -26,4 +26,4 @@ To take the course, you need:
 * A CalLearns account to register for the training
 * Approval from your manager
 
-[Sign up for the course on CalLearns.]() You need a CalLearns account to register for the training.
+[Sign up for the course on CalLearns.](https://calhr.geniussis.com/Registration.aspx?AID=4702) You need a CalLearns account to register for the training.
