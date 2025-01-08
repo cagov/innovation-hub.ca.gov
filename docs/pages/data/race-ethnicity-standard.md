@@ -1,6 +1,6 @@
 ---
 layout: page
-title: California's race and ethnocity data standard
+title: California's race and ethnicity data standard
 parentid: Data
 description: Standards that support the consistent collection, analysis, and reporting of data on race and ethnicity across state departments and agencies
 headerlabel: Standards and principles
@@ -70,8 +70,10 @@ Detailed categories allow for the further disaggregation of race and ethnicity d
 <odi-workflow>
   <div class='odi-workflow-group'>
     <div class='odi-workflow-step'>
+      <div class='odi-workflow-step-inner'>
       <div>Step 1</div>
       <div>Assess business needs and requirements
+      </div>
       </div>
     </div>
     <div class='odi-workflow-body'>
@@ -87,7 +89,88 @@ Detailed categories allow for the further disaggregation of race and ethnicity d
         </div>
       </div>
     </div>
-
+  </div>
+  <div class='odi-workflow-group'>
+    <div class='odi-workflow-step'>
+      <div class='odi-workflow-step-inner'>
+      <div>Step 2</div>
+      <div>Design data collection system
+      </div>
+      </div>
+    </div>
+    <div class='odi-workflow-body'>
+      <div class='odi-workflow-question'>
+        <div>How will this data collection be implemented?</div>
+      </div>
+      <div class='odi-workflow-answers'>
+        <div>Consider different methods of asking the question and providing plain language context to respondents.
+        </div>
+        <div>Consider how this data will be stored and updated over time.
+        </div>
+        <div>Brainstorm operational metrics to evaluate performance of the data collection.
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class='odi-workflow-group'>
+    <div class='odi-workflow-step'>
+      <div class='odi-workflow-step-inner'>
+      <div>Step 3</div>
+      <div>Engage community
+      </div>
+      </div>
+    </div>
+    <div class='odi-workflow-body'>
+      <div class='odi-workflow-question'>
+        <div>How can community feedback help inform the data collection system?</div>
+      </div>
+      <div class='odi-workflow-answers'>
+        <div>Community feedback can surface opportunities to improve comfort levels for respondents to share their  data.
+        </div>
+        <div>Community engagement can increase buy-in from community groups and trusted messenger networks.
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class='odi-workflow-group'>
+    <div class='odi-workflow-step'>
+      <div class='odi-workflow-step-inner'>
+      <div>Step 4</div>
+      <div>Implement data
+      </div>
+      </div>
+    </div>
+    <div class='odi-workflow-body'>
+      <div class='odi-workflow-question'>
+        <div>How will existing processes or systems need to change?</div>
+      </div>
+      <div class='odi-workflow-answers'>
+        <div>Inventory existing data collection systems and assess level of effort in aligning existing systems with this data standard.
+        </div>
+        <div>Be mindful of different modalities of data collection (paper, electronic, interview).
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class='odi-workflow-group'>
+    <div class='odi-workflow-step'>
+      <div class='odi-workflow-step-inner'>
+      <div>Step 5</div>
+      <div>Update data collection system over time
+      </div>
+      </div>
+    </div>
+    <div class='odi-workflow-body'>
+      <div class='odi-workflow-question'>
+        <div>What is the process for updating this data collection system over time?</div>
+      </div>
+      <div class='odi-workflow-answers'>
+        <div>Ongoing community engagement can identify new detailed categories for inclusion to better reflect demographic preferences.
+        </div>
+        <div>Consider user needs for bridging techniques and guidance to ensure data interoperability across updates.
+        </div>
+      </div>
+    </div>
   </div>
 </odi-workflow>
 
