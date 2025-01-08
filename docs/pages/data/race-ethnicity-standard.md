@@ -40,6 +40,8 @@ The figure below illustrates an example of what the race and ethnicity data stan
 
 This is just one example of how this data standard could be implemented. State programs may require different implementations of this standard depending on how they intend to collect the data – such as through digital interfaces, paper forms, or through interviewer questions.
 
+<img src="/img/what-is-your-race-and-or-ethnicity.png" alt="An example of how to ask people about their race and ethnicity. It lists major categories with the opportunity to identify more specifically." />
+
 ## Scope of responsibilities for users
 
 While we encourage all state programs serving Californians to collect race and ethnicity data where appropriate, this order does not mandate the new collection of any race and ethnicity data. However, all state agencies and departments currently collecting race and ethnicity data should adhere to this standard.
@@ -186,6 +188,24 @@ The top-level category set is sorted by alphabetical order. The detailed categor
 | --------------------------------------- | -------------- | 
 | **American Indian or Alaska Native**    | Individuals with origins in any of the original peoples of North, Central, and South America, including, for example, Navajo Nation, Blackfeet Tribe of the Blackfeet Indian Reservation of Montana, Native Village of Barrow Inupiat Traditional Government, Nome Eskimo Community, Aztec, and Maya. |
 | **Asian**                               | Individuals with origins in any of the original peoples of Central or East Asia, Southeast Asia, or South Asia, including, for example, Chinese, Asian Indian, Filipino, Vietnamese, Korean, and Japanese. |
+| **Black or African American**           | Individuals with origins in any of the Black racial groups of Africa, including, for example, African American, Jamaican, Haitian, Nigerian, Ethiopian, and Somali. |
+| **Hispanic or Latino**                  | Includes individuals of Mexican, Puerto Rican, Salvadoran, Cuban, Dominican, Guatemalan, and other Central or South American or Spanish culture or origin. |
+| **Middle Eastern or North African**     | Individuals with origins in any of the original peoples of the Middle East or North Africa, including, for example, Lebanese, Iranian, Egyptian, Syrian, Iraqi, and Israeli. |
+| **Native Hawaiian or Pacific Islander** | Individuals with origins in any of the original peoples of Hawaii, Guam, Samoa, or other Pacific Islands, including, for example, Native Hawaiian, Samoan, Chamorro, Tongan, Fijian, and Marshallese. |
+| **White**                               | Individuals with origins in any of the original peoples of Europe, including, for example, English, German, Irish, Italian, Polish, and Scottish. |
+
+Table 2 below is a recommended set of detailed category groups ordered by population prevalence within each top-level category within the state of California. These population figures are based on the 2020 Decennial Census Detailed Race/Ethnicity population estimates for California contained in the [DHC-A](https://www.census.gov/newsroom/press-releases/2022/2020-census-data-products-schedule-2023.html).
+
+The top six (6) most populous subgroups within each top-level category within California are listed as checkbox options, with the next three (3) most populous groups listed as examples preceding the write-in option.
+
+Note: The Asian top-level category has 8 options due to state code requirements specified in [8310.5](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=GOV&sectionNum=8310.5.).
+
+**Table 2: Detailed set of race and ethnicity categories**
+
+| **Category**                  | **Detailed categories** |
+| --------------------------------------- | -------------- | 
+| **American Indian or Alaska Native**    | Write-in option |
+| **Asian**                               | <ul><li>Chinese</li><li>Filipino</li><li>Asian Indian</li><li>Vietnamese</li><li>Korean</li><li>Japanese</li><li>Cambodian</li><li>Laotian</li><li>Another group not listed (for example, Taiwanese, Hmong, Pakistani): __</li></ul> |
 | **Black or African American**           | Individuals with origins in any of the Black racial groups of Africa, including, for example, African American, Jamaican, Haitian, Nigerian, Ethiopian, and Somali. |
 | **Hispanic or Latino**                  | Includes individuals of Mexican, Puerto Rican, Salvadoran, Cuban, Dominican, Guatemalan, and other Central or South American or Spanish culture or origin. |
 | **Middle Eastern or North African**     | Individuals with origins in any of the original peoples of the Middle East or North Africa, including, for example, Lebanese, Iranian, Egyptian, Syrian, Iraqi, and Israeli. |
