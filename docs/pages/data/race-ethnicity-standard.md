@@ -36,6 +36,45 @@ Demographic data collection and analysis can be powerful tools for making Califo
 
 ## Example of the Race & Ethnicity data collection question
 
+The figure below illustrates an example of what the race and ethnicity data standard would look like when implemented in a survey. It allows respondents to select multiple options, lists examples of detailed categories for each group, and allows for a write-in option.
+
+This is just one example of how this data standard could be implemented. State programs may require different implementations of this standard depending on how they intend to collect the data – such as through digital interfaces, paper forms, or through interviewer questions.
+
+## Scope of responsibilities for users
+
+While we encourage all state programs serving Californians to collect race and ethnicity data where appropriate, this order does not mandate the new collection of any race and ethnicity data. However, all state agencies and departments currently collecting race and ethnicity data should adhere to this standard.
+
+Any new systems that will collect race and ethnicity data should be able to technically comply with this standard. Existing systems may be unable to meet the requirements of the standard due to technical limitations or costs to upgrading. Departments should identify a sunset date for systems incapable of meeting the standard, and any replacement systems should comply with this standard.
+
+This standard is designed to be flexible enough to meet a large majority of state departments’ existing reporting requirements, but does not supersede other legally required data collection standards particular to individual departments.
+
+## Data collection
+
+### Collection principles
+
+1. **Self-identification and self-reporting is preferred.** Respect for individual dignity should guide the processes and methods for collecting data on race and ethnicity. Use self-identification when feasible and practical. If self-identification is not feasible or practical at the point of collection, departments should provide a later opportunity for individuals to self-identify.
+  a. **Alternative methods**: When collecting data intended for federal program reporting and respondent self-identification is not possible, data may be collected by:
+    i. *Proxy reporting*, where a person knowledgeable of another's race and/or ethnicity responds on their behalf;
+    ii. *Record matching*, where existing records on an individual that contain their race and/or ethnicity are used to supply the information;
+    iii. *Observer identification*, where an observer uses their best judgement of the most appropriate race and/or ethnicity categories in which to report an individual. If it is necessary to collect data on race and ethnicity via observation, only the top-level categories should be used. 
+2. **Document data collection mode**: Document how this data was collected, for example, by self-report, observation, proxy, or another data collection method. Examples of phrasing that may be used to describe data collection methods include: self-reported, proxy-reported, or observation identification. 
+3. **Document data imputation and coding methods**: When coding write-in data, imputing missing data, or otherwise editing responses, agencies should adopt practices that maximize comparability between data collected on forms and surveys with and without write-in fields.
+  a. State departments should maintain records on data processing procedures (such as coding, editing, and imputation practices), and make that information available to data users to allow them to evaluate the utility, objectivity, and integrity of the data.
+  b. State departments should maintain records on nonresponse or other missing data were assigned or allocated, and should make that information available to data users to allow them to evaluate the utility, objectivity, and integrity of the data. 
+4. **Paper vs. electronic vs. interview formats**: Race and ethnicity data collection language should be adapted for their medium. In particular, collections done on paper should ask “What is your race and/or ethnicity? **Mark** all that apply” as opposed to “What is your race and/or ethnicity? **Select** all that apply” in electronic collections.
+
+### Race and ethnicity data categories
+
+Detailed categories allow for the further disaggregation of race and ethnicity data to uncover meaningful differences by subgroups. While privacy risks may limit the public sharing of some detailed subgroups with the public, detailed categories can inform internal analysis and policy decisions.
+
+A combined race and ethnicity question is required for both self-response and proxy data collection. Respondents should be offered a single combined race and ethnicity question that allows them to select one category or multiple categories. A single selection will be considered a complete response (e.g., Hispanic or Latino respondents are not required to select an additional category).
+
+State departments and agencies should use the 7 top-level categories defined in Table 1 in their race and ethnicity data collection. For each of the top-level categories, state entities should offer the detailed categories along with a write-in option (listed in Table 2) in their data collection system. If a write-in option is not feasible, departments may choose to create an “another” category for each group.
+
+The top-level category set is sorted by alphabetical order. The detailed category set is sorted by population prevalence to assist respondents in locating their detailed race or ethnicity within the subgroup.
+
+**Table 1: Top-level set of race and ethnicity categories**
+
 
 
 <odi-workflow>
