@@ -18,7 +18,6 @@ Standardized race and ethnicity data collection and analysis will:
 
 Collecting and analyzing race and ethnicity data is essential for ensuring California state government programs and policies serve all residents fairly and effectively. When state agencies lack reliable data about how different racial and ethnic groups access and experience their services, they may unintentionally overlook or perpetuate inequities. Good data collection allows agencies to identify disparities in program participation, outcomes, and quality of services across California's diverse communities.
 
-
 <div class="blockquote-container">
   <div class="blockquote-body">
     <div class="blockquote-content">
@@ -26,6 +25,18 @@ Collecting and analyzing race and ethnicity data is essential for ensuring Calif
     </div>
   </div>
 </div>
+
+However, collecting this data must be done thoughtfully and responsibly, with clear purpose and strong protections for privacy and confidentiality.
+
+* California state agencies should only gather race and ethnicity information when they have a specific plan for using it to improve equity in their programs and services.
+* The data collection process should respect residents' autonomy and privacy by making responses voluntary and clearly explaining how their information will be used.
+* Engaging directly with communities through partnerships with local organizations and resident feedback can help ensure data collection methods are culturally appropriate and reflect California's unique demographic diversity.
+
+Demographic data collection and analysis can be powerful tools for making California state government programs work better for all of California's residents.
+
+## Example of the Race & Ethnicity data collection question
+
+
 
 <odi-workflow>
   <div class='odi-workflow-group'>
