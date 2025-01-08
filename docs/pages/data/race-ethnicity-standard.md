@@ -53,14 +53,14 @@ This standard is designed to be flexible enough to meet a large majority of stat
 ### Collection principles
 
 1. **Self-identification and self-reporting is preferred.** Respect for individual dignity should guide the processes and methods for collecting data on race and ethnicity. Use self-identification when feasible and practical. If self-identification is not feasible or practical at the point of collection, departments should provide a later opportunity for individuals to self-identify.
-    a. **Alternative methods**: When collecting data intended for federal program reporting and respondent self-identification is not possible, data may be collected by:
-        i. *Proxy reporting*, where a person knowledgeable of another's race and/or ethnicity responds on their behalf;
-        ii. *Record matching*, where existing records on an individual that contain their race and/or ethnicity are used to supply the information;
-        iii. *Observer identification*, where an observer uses their best judgement of the most appropriate race and/or ethnicity categories in which to report an individual. If it is necessary to collect data on race and ethnicity via observation, only the top-level categories should be used. 
+    1. **Alternative methods**: When collecting data intended for federal program reporting and respondent self-identification is not possible, data may be collected by:
+        1. *Proxy reporting*, where a person knowledgeable of another's race and/or ethnicity responds on their behalf;
+        2. *Record matching*, where existing records on an individual that contain their race and/or ethnicity are used to supply the information;
+        3. *Observer identification*, where an observer uses their best judgement of the most appropriate race and/or ethnicity categories in which to report an individual. If it is necessary to collect data on race and ethnicity via observation, only the top-level categories should be used. 
 2. **Document data collection mode**: Document how this data was collected, for example, by self-report, observation, proxy, or another data collection method. Examples of phrasing that may be used to describe data collection methods include: self-reported, proxy-reported, or observation identification. 
 3. **Document data imputation and coding methods**: When coding write-in data, imputing missing data, or otherwise editing responses, agencies should adopt practices that maximize comparability between data collected on forms and surveys with and without write-in fields.
-    a. State departments should maintain records on data processing procedures (such as coding, editing, and imputation practices), and make that information available to data users to allow them to evaluate the utility, objectivity, and integrity of the data.
-    b. State departments should maintain records on nonresponse or other missing data were assigned or allocated, and should make that information available to data users to allow them to evaluate the utility, objectivity, and integrity of the data. 
+    1. State departments should maintain records on data processing procedures (such as coding, editing, and imputation practices), and make that information available to data users to allow them to evaluate the utility, objectivity, and integrity of the data.
+    2. State departments should maintain records on nonresponse or other missing data were assigned or allocated, and should make that information available to data users to allow them to evaluate the utility, objectivity, and integrity of the data. 
 4. **Paper vs. electronic vs. interview formats**: Race and ethnicity data collection language should be adapted for their medium. In particular, collections done on paper should ask “What is your race and/or ethnicity? **Mark** all that apply” as opposed to “What is your race and/or ethnicity? **Select** all that apply” in electronic collections.
 
 ### Race and ethnicity data categories
