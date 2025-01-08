@@ -206,8 +206,7 @@ Note: The Asian top-level category has 8 options due to state code requirements 
 | --------------------------------------- | -------------- | 
 | **American Indian or Alaska Native**    | Write-in option |
 | **Asian**                               | <ul><li>Chinese</li><li>Filipino</li><li>Asian Indian</li><li>Vietnamese</li><li>Korean</li><li>Japanese</li><li>Cambodian</li><li>Laotian</li><li>Another group not listed (for example, Taiwanese, Hmong, Pakistani): __</li></ul> |
-| **Black or African American**           | <ul><li>African American</li><li>Nigerian</li><li>Jamaican</li><li>Ethiopian</li><li>Haitian</li>
-<li>South African</li><li>Another group not listed (for example, Eritrean, Ghanaian, Kenyan): __</li></ul> |
+| **Black or African American**           | <ul><li>African American</li><li>Nigerian</li><li>Jamaican</li><li>Ethiopian</li><li>Haitian</li><li>South African</li><li>Another group not listed (for example, Eritrean, Ghanaian, Kenyan): __</li></ul> |
 | **Hispanic or Latino**                  | <ul><li>Mexican</li><li>Salvadoran</li><li>Guatemalan</li><li>Puerto Rican</li><li>Spaniard/Spanish</li><li>Peruvian</li><li>Another group not listed (for example, Nicaraguan, Honduran, Cuban): __</li></ul> |
 | **Middle Eastern or North African**     | <ul><li>Iranian</li><li>Lebanese</li><li>Egyptian</li><li>Israeli</li><li>Iraqi</li><li>Syrian</li><li>Another group not listed (for example, Palestinian, Jordanian, Moroccan): __</li></ul> |
 | **Native Hawaiian or Pacific Islander** | <ul><li>Native Hawaiian</li><li>Samoan</li><li>Chamorro</li><li>Fijian</li><li>Tongan</li><li>Marshallese</li><li>Another group not listed (for example, Palauan, Tahitian, Maori): __</li></ul> |
@@ -360,7 +359,7 @@ An example of how data might be reported using this approach is presented below:
   </div>
 </div>
 
-**Best Uues**
+**Best uses**
 
 * Initial data analysis
 * High-level demographic overviews
