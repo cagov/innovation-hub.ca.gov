@@ -95,7 +95,7 @@ Link text like **click here**, **read more**, and **more** are not useful to peo
 
 ### Add alt text to images
 
-Screen readers look for alt text. [Add useful alt text to images](https://webaim.org/techniques/alttext/) so screen readers can describe images to people who use them.
+Screen readers look for alt text. [Write alt text](https://www.nngroup.com/articles/write-alt-text/) that helps people who use screen readers.
 
 <div class="leftright-nav-container">
     <div class="left-nav"><a class="internal-link" href="/content-design/principles/meet-your-audience-where-they-are/">Meet your audience where they are</a></div>

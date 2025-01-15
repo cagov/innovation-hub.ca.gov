@@ -35,10 +35,8 @@ These are the style guides we look at when we have a new content question. We’
 ### Accessibility
 
 * [Web Accessibility Toolkit](https://dor.ca.gov/Home/WebAccessibilityToolkit) is a comprehensive guide to digital accessibility at the state. It’s maintained by Disability Works California (formerly the Department of Rehabilitation).
-* Web Accessibility Initiative is the leading internet accessibility standards organization.
-  * [Cognitive Accessibility Guidance](https://www.w3.org/WAI/WCAG2/supplemental/#-cognitive-accessibility-guidance). It helps you make content understood by people with cognitive and learning disabilities.
-  * [An alt decision tree](https://www.w3.org/WAI/tutorials/images/decision-tree/) is a tool we use when deciding whether an image needs to have alt text.
-* [How to: write good Alt Text](https://supercooldesign.co.uk/blog/how-to-write-good-alt-text) is good general guidance for writing alt text.
+* [Cognitive Accessibility Guidance](https://www.w3.org/WAI/WCAG2/supplemental/#-cognitive-accessibility-guidance) helps you make content understood by people with cognitive and learning disabilities.
+* [Alt Text: What to Write](https://www.nngroup.com/articles/write-alt-text/) is good general guidance for writing alt text.
 
 ### Content design
 
