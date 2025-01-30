@@ -1,7 +1,7 @@
 ---
 title: Use plain language to help people during a crisis
 parentid: Content design
-description: NEED DESCRIPTION
+description: Tips you can use during crisis communications
 layout: single-column
 headerlabel: Guides and playbooks
 headericon: book
@@ -15,4 +15,4 @@ California’s plain language standard suggests providing information to the pub
 * Avoiding technical jargon
 * Keeping sentences short and simple
 
-[Help people in a crisis with plain language](/papers/help-people-in-a-crisis-with-plain-language.pdf)
+[Use plain language to help people during a crisis](/papers/help-people-in-a-crisis-with-plain-language.pdf)
