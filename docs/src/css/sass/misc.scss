@@ -1,3 +1,14 @@
 .mobile-search .search-btn:hover {
   cursor: pointer;
 }
+
+.grid-org-name {
+  a {
+    text-decoration: none;
+
+    &:hover {
+      color: var(--primary-dark-color);
+      text-decoration: underline;
+    }
+  }
+}
