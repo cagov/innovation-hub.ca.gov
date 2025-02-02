@@ -708,20 +708,24 @@ cagov-page-feedback {
   }
 }
 
+.footer-container {
+  padding: 0 16px;
+}
+
 div.feedback-form.cagov-stack {
-  margin: 0 10px;
+  margin: 0 auto;
   max-width: 1144px;
 }
 
 section.site-footer {
   div.container {
-    margin: 0 10px;
+    margin: 0 auto;
     max-width: 1144px;
   }
 }
 footer {
   div.container {
-    margin: 0 10px;
+    margin: 0 auto;
     max-width: 1144px;
   }
 }
