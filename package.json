@@ -69,5 +69,8 @@
     "markdown-it-anchor": "^8.6.4",
     "readability-scores": "^1.0.8",
     "showdown": "^2.1.0"
+  },
+  "volta": {
+    "node": "18.15.0"
   }
 }
