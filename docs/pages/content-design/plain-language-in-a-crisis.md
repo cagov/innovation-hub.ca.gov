@@ -173,3 +173,5 @@ People can process each sentence and move to the next easily.
     </div>
   </div>
 </div>
+
+[Get all these tips in a PDF.](/papers/help-people-in-a-crisis-with-plain-language.pdf)
