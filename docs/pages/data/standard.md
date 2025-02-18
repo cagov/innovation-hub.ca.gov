@@ -1,6 +1,6 @@
 ---
 layout: page
-title: California data standard
+title: California Data Standard
 parentid: Data
 description: Standards that support the consistent collection, analysis, and reporting of data on race and ethnicity across state departments and agencies
 headerlabel: Standards and principles
