@@ -108,4 +108,6 @@ As part of a wider framework on demographic data collection and analysis, this r
 
 Any future additional demographic data standards  will integrate with this race and ethnicity data standard to ensure interoperability and cross-sectional analysis.
 
+Further detailed guidance and resources for users of this standard will be released through a separate toolkit. This toolkit is intended to be a complementary resource to the race and ethnicity data standard and will be updated on an ongoing basis based on community engagement, user feedback, and evolving best practices in the field. 
+
 This toolkit will eventually offer guidelines on bridging data collected between differing data standards, data collection templates for simplifying adoption of this data standard, and best practice guidance for developing metrics and analyzing demographic data to identify where programs are not reaching all eligible Californians and improve state programs effectiveness.
